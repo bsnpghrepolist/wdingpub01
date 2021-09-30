@@ -30413,7 +30413,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "<ol><li>See 1Ki17-19 about Elijah story. </li></ol>",
+            "4": "<ol><li>See 1Ki17:1 - 1Ki19:20 about Elijah story. </li></ol>",
             "5": "",
             "6": "",
             "7": "",
