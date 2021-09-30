@@ -30417,7 +30417,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "<ol><li>Isaiah 29:10, and the rest from Isaiah 6:9, or Deuteronomy 29:4</li></ol>",
             "9": "",
             "10": "",
             "11": "",
