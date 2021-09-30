@@ -30417,7 +30417,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "<ol><li>Isaiah 29:10, and the rest from Isaiah 6:9, or Deuteronomy 29:4</li></ol>",
+            "8": "<ol><li>Isaiah 29:10, and the rest from Isaiah 6:9, or Deuteronomy 29:4</li><li><li>因为耶和华将沉睡的灵、浇灌你们、封闭你们的眼、蒙盖你们的头．你们的眼、就是先知．你们的头、就是先见。\" (Isa29:10 CUVS) </li><li></li></li></ol>",
             "9": "",
             "10": "",
             "11": "",
