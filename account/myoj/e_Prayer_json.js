@@ -32264,7 +32264,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "<ol><li>Titus and Timothy are true sons of Paul. (1Ti1:3)</li></ol>",
             "5": "",
             "6": "",
             "7": "",
