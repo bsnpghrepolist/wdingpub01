@@ -32280,7 +32280,7 @@ var _bnotes=
         },
         "2": {
             "1": "",
-            "2": "",
+            "2": "<ol><li>The 3-hearts (faith, love and endurance) </li></ol>",
             "3": "",
             "4": "",
             "5": "",
