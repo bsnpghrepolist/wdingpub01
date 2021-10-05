@@ -32288,7 +32288,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "<ol><li>I used to be pilfering</li></ol>",
+            "10": "<ol><li>I used to be pilfering.</li><li>pilfer is to steal in small quantities, or articles of small value; to practise petty theft.</li></ol>",
             "11": "",
             "12": "",
             "13": "",
