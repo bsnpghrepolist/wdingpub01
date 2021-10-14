@@ -18767,7 +18767,7 @@ var _bnotes=
         },
         "5": {
             "1": "<li>'你到　神的殿、要 <span style='color:#f39c12;'>谨慎</span>  脚步．因为近前听、胜过愚昧人献祭、〔或作胜过献愚昧人的祭〕、他们  <span style='color:#f39c12;'>本不知道所作的是恶</span>。' (Ecc5:1 CUVS)</li>",
-            "2": "<li>'你在　神面前不可<span style='color:#e67e22;'>冒失开口</span>、也不可<span style='color:#f39c12;'>心急发言</span>．因为　神在天上、你在地下、所以你的言语要寡少。' (Ecc5:2 CUVS)</li>",
+            "2": "<li>'你在　神面前不可<span style=\"color:#e67e22;\">冒失开口</span>、也不可<span style=\"color:#f39c12;\">心急发言</span>．因为　神在天上、你在地下、所以你的言语要寡少。' (Ecc5:2 CUVS)</li><li>not about the quantity, about the quality, from the spirit. </li>",
             "3": "<ol><li>事务多 -> Love of God become less, faith less, flesh increase. </li></ol>",
             "4": "",
             "5": "<ol><li>我的弟兄们、最要紧的是不可起誓．不可指着天起誓、也不可指着地起誓、无论何誓都不可起．你们说话、是就说是、不是就说不是、免得你们落在审判之下。\" (Jas5:12 CUVS) </li><li><br></li><li>\"你们又听见有吩咐古人的话、说、『不可背誓、所起的誓、总要向主谨守。』\" (Mat5:33 CUVS) </li><li>\"只是我告诉你们、甚么誓都不可起、不可指着天起誓、因为天是　神的座位．\" (Mat5:34 CUVS) </li><li>\"不可指着地起誓、因为地是他的脚凳．也不可指着耶路撒冷起誓、因为耶路撒冷是大君的京城。\" (Mat5:35 CUVS) </li><li>\"又不可指着你的头起誓、因为你不能使一根头发变黑变白了。\" (Mat5:36 CUVS) </li><li>\"你们的话、是、就说是．不是、就说不是．若再多说、就是出于那恶者。〔或作是从恶里出来的〕\" (Mat5:37 CUVS) </li><li><br></li><li>During the service, we need made commitment. If you cannot directly speak. </li><li>Be careful don't fall into trap for vowing. </li><li>Why not vow? increase flesh, reduce dependency on God. Grace Only. </li></ol>",
