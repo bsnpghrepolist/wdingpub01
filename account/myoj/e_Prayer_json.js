@@ -18766,7 +18766,7 @@ var _bnotes=
             "16": ""
         },
         "5": {
-            "1": "<ol><li>Often entering church could cause careless. </li><li>Bible Study, pray meeting, any work any time, at home, in front of family, we need be careful all the times. </li></ol>",
+            "1": "<ol><li>Often entering church could cause careless. </li><li>Bible Study, pray meeting, any work any time, at home, in front of family, we need be careful all the times. </li><li>during the smooth times. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
