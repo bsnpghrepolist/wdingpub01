@@ -18766,7 +18766,7 @@ var _bnotes=
             "16": ""
         },
         "5": {
-            "1": "",
+            "1": "<ol><li></li></ol>",
             "2": "",
             "3": "<ol><li>事务多 -> Love of God become less, faith less, flesh increase. </li></ol>",
             "4": "",
