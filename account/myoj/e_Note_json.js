@@ -18770,7 +18770,7 @@ var _bnotes=
             "2": "",
             "3": "",
             "4": "",
-            "5": "<ol><li>我的弟兄们、最要紧的是不可起誓．不可指着天起誓、也不可指着地起誓、无论何誓都不可起．你们说话、是就说是、不是就说不是、免得你们落在审判之下。\" (Jas5:12 CUVS) </li><li><br></li><li>\"你们又听见有吩咐古人的话、说、『不可背誓、所起的誓、总要向主谨守。』\" (Mat5:33 CUVS) </li><li>\"只是我告诉你们、甚么誓都不可起、不可指着天起誓、因为天是　神的座位．\" (Mat5:34 CUVS) </li><li>\"不可指着地起誓、因为地是他的脚凳．也不可指着耶路撒冷起誓、因为耶路撒冷是大君的京城。\" (Mat5:35 CUVS) </li><li>\"又不可指着你的头起誓、因为你不能使一根头发变黑变白了。\" (Mat5:36 CUVS) </li><li>\"你们的话、是、就说是．不是、就说不是．若再多说、就是出于那恶者。〔或作是从恶里出来的〕\" (Mat5:37 CUVS) </li><li><br></li><li>During the service, we need made commitment. </li><li>Be careful don't fall into trap for vowing. </li></ol>",
+            "5": "<ol><li>我的弟兄们、最要紧的是不可起誓．不可指着天起誓、也不可指着地起誓、无论何誓都不可起．你们说话、是就说是、不是就说不是、免得你们落在审判之下。\" (Jas5:12 CUVS) </li><li><br></li><li>\"你们又听见有吩咐古人的话、说、『不可背誓、所起的誓、总要向主谨守。』\" (Mat5:33 CUVS) </li><li>\"只是我告诉你们、甚么誓都不可起、不可指着天起誓、因为天是　神的座位．\" (Mat5:34 CUVS) </li><li>\"不可指着地起誓、因为地是他的脚凳．也不可指着耶路撒冷起誓、因为耶路撒冷是大君的京城。\" (Mat5:35 CUVS) </li><li>\"又不可指着你的头起誓、因为你不能使一根头发变黑变白了。\" (Mat5:36 CUVS) </li><li>\"你们的话、是、就说是．不是、就说不是．若再多说、就是出于那恶者。〔或作是从恶里出来的〕\" (Mat5:37 CUVS) </li><li><br></li><li>During the service, we need made commitment. If you cannot directly speak. </li><li>Be careful don't fall into trap for vowing. </li><li>Why not vow? increase flesh, reduce dependency on God. Grace Only. </li></ol>",
             "6": "",
             "7": "",
             "8": "",
