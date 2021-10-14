@@ -18766,7 +18766,7 @@ var _bnotes=
             "16": ""
         },
         "5": {
-            "1": "<ol><li></li></ol>",
+            "1": "<ol><li>\"你到　神的殿、要谨慎脚步．因为近前听、胜过愚昧人献祭、〔或作胜过献愚昧人的祭〕、他们本不知道所作的是恶。\" (Ecc5:1 CUVS)</li></ol>",
             "2": "",
             "3": "<ol><li>事务多 -> Love of God become less, faith less, flesh increase. </li></ol>",
             "4": "",
