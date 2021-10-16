@@ -28656,7 +28656,7 @@ var _bnotes=
             "32": "<ol><li>same as Martha old sister. Mary is younger. mary is more grave</li></ol>",
             "33": "",
             "34": "",
-            "35": "<ol><li>shortest verse</li></ol>",
+            "35": "<ol><li>shortest verse, </li><li>Why did he weep.</li><li>weep death, condition  </li></ol>",
             "36": "",
             "37": "",
             "38": "",
