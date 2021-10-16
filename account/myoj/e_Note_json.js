@@ -28653,7 +28653,7 @@ var _bnotes=
             "29": "",
             "30": "",
             "31": "",
-            "32": "<ol><li>same as Martha old sister. Mary is younger. </li></ol>",
+            "32": "<ol><li>same as Martha old sister. Mary is younger. mary is more grave</li></ol>",
             "33": "",
             "34": "",
             "35": "",
