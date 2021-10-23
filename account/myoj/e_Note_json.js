@@ -30480,7 +30480,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "<ol><li>Neighbor not man. </li><li><br></li></ol>",
+            "10": "<ol><li>Neighbor not man. </li><li>Counter way of love. </li><li>Positive way. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
