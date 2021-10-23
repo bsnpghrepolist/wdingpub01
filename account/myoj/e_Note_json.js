@@ -30482,7 +30482,7 @@ var _bnotes=
             "9": "",
             "10": "<ol><li>Neighbor not man. </li><li>Counter way of love. </li><li>Positive way. </li></ol>",
             "11": "",
-            "12": "<li>暗昧=暧昧: 不光明磊落；不可告人之阴私、隐私。3、隐晦不明。4、犹昏暗；不清晰。</li>",
+            "12": "<li>暗昧=暧昧: 不光明磊落；不可告人之阴私、隐私。3、隐晦不明。4、犹昏暗；不清晰。</li><li>黑夜已深: the world became more and more evil wicked.</li><li>白昼将近: the end of Day. </li>",
             "13": "",
             "14": ""
         },
