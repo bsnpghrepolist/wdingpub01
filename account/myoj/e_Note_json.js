@@ -30472,7 +30472,7 @@ var _bnotes=
         },
         "13": {
             "1": "",
-            "2": "<ol><li>\"请告诉我们、你的意见如何．纳税给该撒、可以不可以。\" (Mat22:17 CUVS) </li><li>To citizens of ruler.</li><li>Jesus (Jhn19:11) 耶稣回答说、若不是从上头赐给你的、你就毫无权柄办我．所以把我交给你的那人、罪更重了。\" (Jhn19:11 CUVS) </li></ol>",
+            "2": "<ol><li>\"请告诉我们、你的意见如何．纳税给该撒、可以不可以。\" (Mat22:17 CUVS) </li><li>To citizens of ruler.</li><li>Jesus (Jhn19:11) 耶稣回答说、若不是从上头赐给你的、你就毫无权柄办我．所以把我交给你的那人、罪更重了。\" (Jhn19:11 CUVS) </li><li>To Jewish who protect Romans. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
