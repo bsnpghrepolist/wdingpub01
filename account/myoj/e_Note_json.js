@@ -31049,7 +31049,7 @@ var _bnotes=
     },
     "2Co": {
         "1": {
-            "1": "",
+            "1": "<ol><li>Date. Paul wrote 2 Corinthians from Macedonia in 55 or 56 AD, roughly a year after writing 1 Corinthians and a year before he wrote his letter to the Romans from Corinth.</li></ol>",
             "2": "",
             "3": "",
             "4": "",
