@@ -30479,7 +30479,7 @@ var _bnotes=
             "6": "",
             "7": "",
             "8": "",
-            "9": "<ol><li>爱人 love your neighbor. The bigger the calling, the less what can we do. </li></ol>",
+            "9": "<ol><li>爱人 love your neighbor. The bigger the calling, the less what can we do. </li><li>No human man can love man or people. Rom5:6</li></ol>",
             "10": "<ol><li>Neighbor not man. </li><li>Counter way of love. </li><li>Positive way. </li></ol>",
             "11": "<ol><li>原来我们信主的时候，灵魂得救了，现在生活要得胜，将来身体要得赎。这样，我们永远的救恩比我们初信的时候更接近我们了，也就是永远得救的时候，比以前更近了。所以要爱惜光阴，</li><li>这几节是一些劝勉和警戒的话，从主再来的时候已近说到信徒应当做一个守法的好公民。一切不法的事，无非都是叫人放纵情欲，但主来的日子既近，我们应当趁时儆醒准备迎见主，不该只顾纵欲枉法，行为邪荡。</li></ol>",
             "12": "<li>暗昧=暧昧: 不光明磊落；不可告人之阴私、隐私。3、隐晦不明。4、犹昏暗；不清晰。</li><li>黑夜已深: the world became more and more evil wicked.</li><li>白昼将近: the end of Day. </li>",
