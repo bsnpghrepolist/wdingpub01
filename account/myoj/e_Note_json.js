@@ -31618,7 +31618,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "<ol><li>be careful in Jesus.</li></ol>",
-            "16": "<ol><li>time of Jesus, in the kingdom of Heaven. </li></ol>",
+            "16": "<ol><li>time of Jesus, in the kingdom of Heaven. Holy spirit == time. </li></ol>",
             "17": "",
             "18": "",
             "19": "",
