@@ -31622,7 +31622,7 @@ var _bnotes=
             "17": "<ol><li>seek the will of the Lord, not seek money in the world. </li></ol>",
             "18": "<ol><li>wine -- spirit</li></ol>",
             "19": "<ol><li>don't judge each other. </li></ol>",
-            "20": "",
+            "20": "<ol><li>not be boastful, proud, pompous. </li></ol>",
             "21": "",
             "22": "",
             "23": "",
