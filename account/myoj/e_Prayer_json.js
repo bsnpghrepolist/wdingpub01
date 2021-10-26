@@ -31618,7 +31618,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "<ol><li>this period of time is short but is full of Jesus is precious. Thank you our Lord.</li></ol>",
             "17": "",
             "18": "",
             "19": "",
