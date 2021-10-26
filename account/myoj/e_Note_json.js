@@ -31621,7 +31621,7 @@ var _bnotes=
             "16": "<ol><li>time of Jesus, in the kingdom of Heaven. Holy spirit == time. </li></ol>",
             "17": "<ol><li>seek the will of the Lord, not seek money in the world. </li></ol>",
             "18": "<ol><li>wine -- spirit</li></ol>",
-            "19": "",
+            "19": "<ol><li>don't judge each other. </li></ol>",
             "20": "",
             "21": "",
             "22": "",
