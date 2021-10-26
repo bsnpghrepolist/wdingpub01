@@ -31619,7 +31619,7 @@ var _bnotes=
             "14": "",
             "15": "<ol><li>be careful in Jesus.</li></ol>",
             "16": "<ol><li>time of Jesus, in the kingdom of Heaven. Holy spirit == time. </li></ol>",
-            "17": "",
+            "17": "<ol><li>seek the will of the Lord, not seek money in the world. </li></ol>",
             "18": "",
             "19": "",
             "20": "",
