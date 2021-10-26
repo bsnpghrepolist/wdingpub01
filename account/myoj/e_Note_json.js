@@ -31623,7 +31623,7 @@ var _bnotes=
             "18": "<ol><li>wine -- spirit</li></ol>",
             "19": "<ol><li>don't judge each other. </li></ol>",
             "20": "<ol><li>not be boastful, proud, pompous. </li></ol>",
-            "21": "<ol><li>although differ in opinions, summit to each other.</li></ol>",
+            "21": "<ol><li>although differ in opinions, summit to each other.</li><li>compare, compete each other. </li></ol>",
             "22": "",
             "23": "",
             "24": "",
