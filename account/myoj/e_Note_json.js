@@ -25517,7 +25517,7 @@ var _bnotes=
             "14": "",
             "15": "",
             "16": "",
-            "17": "",
+            "17": "<ol><li>many prophets and righteous men: not limited in the Bible. </li></ol>",
             "18": "",
             "19": "",
             "20": "",
