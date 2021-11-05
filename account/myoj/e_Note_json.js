@@ -27117,7 +27117,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "<ol><li>禧年 禧年（希伯來語：Yovel，יובל ）是7個安息年（shmita）周期的後面一年（第50年），不過另一種觀點認為是第49年。 根據聖經規則，在以色列王國和猶大王國領土，已經賣掉的土地這時可以得回，而賣身為奴者這時也可以重獲自由。</li></ol>",
+            "19": "<ol><li>禧年 禧年（希伯來語：Yovel，יובל ）是7個安息年（shmita）周期的後面一年（第50年），不過另一種觀點認為是第49年。 根據聖經規則，在以色列王國和猶大王國領土，已經賣掉的土地這時可以得回，而賣身為奴者這時也可以重獲自由。</li><li>The Jubilee is the year at the end of seven cycles of shmita and, according to biblical regulations, had a special impact on the ownership and management of land in the Land of Israel</li></ol>",
             "20": "",
             "21": "",
             "22": "",
