@@ -26657,7 +26657,7 @@ var _bnotes=
         },
         "11": {
             "1": "",
-            "2": "",
+            "2": "<ol><li>heaven and earth listen to Him.</li></ol>",
             "3": "",
             "4": "",
             "5": "",
