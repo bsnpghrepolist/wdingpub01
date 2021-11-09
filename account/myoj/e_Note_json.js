@@ -24182,7 +24182,7 @@ var _bnotes=
     },
     "Amo": {
         "1": {
-            "1": "\n<ol>\n\t<li>ffx</li>\n</ol>\n",
+            "1": "\n<ol>\n\t<li>ffx</li>\n\t<li>fda\n\t<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t\t<tbody>\n\t\t\t<tr>\n\t\t\t\t<td/></tr></tbody></table></li></ol>",
             "2": "",
             "3": "",
             "4": "",
