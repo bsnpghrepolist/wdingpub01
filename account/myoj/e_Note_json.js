@@ -22166,7 +22166,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": " <ol><li>בֶּן־אָדָם</li><li>son of man x93,x97 inOT, x86 inNT.</li><li>son of man vs son of Israelites. </li><li>son of </li></ol>",
+            "4": "<ol><li>בֶּן־אָדָם</li><li>son of man x93,x97 inOT, x86 inNT.</li><li>son of man vs son of Israelites. </li><li>God did not think Ezekiel is a son of Israelites. </li><li>Ezekiel did not think he is a son of Israelites. </li><li>if God did not command, Ezekiel will not go to Israelite house. </li></ol>",
             "5": "<ol><li>God love Israelites.  </li></ol>",
             "6": "",
             "7": "",
