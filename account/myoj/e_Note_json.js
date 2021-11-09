@@ -22167,7 +22167,7 @@ var _bnotes=
             "2": "",
             "3": "",
             "4": "<ol><li><span class=\"data-word\" data-table=\"WLC\" title=\"Transliteration: benFrom the root בֵּן (H1121) - Hebrew: Noun common masculine singular constructEnglish: unto me, Son\" data-row-id=\"3469120\" data-english-id=\"2131960\" data-strongs=\"1121\" id=\"yui-gen69\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px solid rgb(0, 0, 0); cursor: help; direction: ltr; font-family: blbHebrew; color: rgb(1, 16, 58); font-size: 32px; text-align: right; background-color: rgb(255, 255, 249);\">בֶּן</span><span style=\"color: rgb(1, 16, 58); font-family: blbHebrew; font-size: 32px; text-align: right; background-color: rgb(255, 255, 249);\">־</span><span class=\"data-word\" data-table=\"WLC\" title=\"Transliteration: 'āḏāmFrom the root אָדָם (H120) - Hebrew: Noun common masculine singular absoluteEnglish: of man,\" data-row-id=\"3469130\" data-english-id=\"2131970\" data-strongs=\"120\" id=\"yui-gen70\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px solid rgb(0, 0, 0); cursor: help; direction: ltr; font-family: blbHebrew; color: rgb(1, 16, 58); font-size: 32px; text-align: right; background-color: rgb(255, 255, 249);\">אָדָם son of man</span></li></ol>",
-            "5": "<ol><li>God love Israelites.</li></ol>",
+            "5": "<ol><li>God love Israelites.  </li></ol>",
             "6": "",
             "7": "",
             "8": "",
