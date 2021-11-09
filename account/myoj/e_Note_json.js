@@ -22166,7 +22166,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": " ",
+            "4": " <ol><li>בֶּן־אָדָם</li><li>son of man x93,x97 inOT, x86 inNT.</li><li>son of man vs son of Israelites. </li><li>son of </li></ol>",
             "5": "<ol><li>God love Israelites.  </li></ol>",
             "6": "",
             "7": "",
