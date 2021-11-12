@@ -22812,7 +22812,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "<ol><li>when I got suffering, I will know you.</li></ol>",
             "7": "",
             "8": "",
             "9": "",
