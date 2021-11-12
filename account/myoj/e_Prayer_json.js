@@ -22810,7 +22810,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "<ol><li>May God bless Taiwan Island not become a bare rock.</li></ol>",
             "5": "",
             "6": "<ol><li>when I have got suffering, I have known you.</li></ol>",
             "7": "",
