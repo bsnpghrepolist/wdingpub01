@@ -27101,7 +27101,7 @@ var _bnotes=
         "4": {
             "1": "<ol><li>full of the holy spirit to defend the temptation. </li></ol>",
             "2": "",
-            "3": "",
+            "3": "<ol><li>power of God cannot be misused.</li></ol>",
             "4": "",
             "5": "",
             "6": "",
