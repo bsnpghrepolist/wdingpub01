@@ -27099,7 +27099,7 @@ var _bnotes=
             "38": ""
         },
         "4": {
-            "1": "",
+            "1": "<ol><li>full of the holy spirit to defend the temptation. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
