@@ -26365,7 +26365,7 @@ var _bnotes=
             "38": "",
             "39": "",
             "40": "<ol><li>fear the storm, or fear God.</li></ol>",
-            "41": ""
+            "41": "<ol><li>fear Jesus not storm.</li></ol>"
         },
         "5": {
             "1": "",
