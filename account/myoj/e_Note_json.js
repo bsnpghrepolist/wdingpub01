@@ -28396,7 +28396,7 @@ var _bnotes=
             "47": "",
             "48": "",
             "49": "",
-            "50": "",
+            "50": "<ol><li>after eating the flesh of Jesus, one will not die.  </li></ol>",
             "51": "",
             "52": "",
             "53": "",
