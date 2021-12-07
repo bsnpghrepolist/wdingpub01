@@ -28539,7 +28539,7 @@ var _bnotes=
             "2": "",
             "3": "<ol><li>Don't focus on the sin but behold on Jesus' glory</li></ol>",
             "4": "",
-            "5": "",
+            "5": "<ol><li>to be the light and salt in the world.</li></ol>",
             "6": "",
             "7": "",
             "8": "",
