@@ -28537,7 +28537,7 @@ var _bnotes=
         "9": {
             "1": "",
             "2": "",
-            "3": "",
+            "3": "<ol><li>Don't focus on the sin but behold on Jesus' glory</li></ol>",
             "4": "",
             "5": "",
             "6": "",
