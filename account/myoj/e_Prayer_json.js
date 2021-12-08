@@ -28627,7 +28627,7 @@ var _bnotes=
             "3": "",
             "4": "<ol><li>Jesus is supernatural </li><li>Jesus did not help to save John the Baptizer.</li></ol>",
             "5": "",
-            "6": "",
+            "6": "<ol><li>Jesus has his hours. Be patient.</li></ol>",
             "7": "",
             "8": "",
             "9": "",
