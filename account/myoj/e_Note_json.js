@@ -28759,7 +28759,7 @@ var _bnotes=
             "24": "",
             "25": "",
             "26": "",
-            "27": "<ol><li>simutiniously</li></ol>",
+            "27": "<ol><li>simultaneously </li></ol>",
             "28": "",
             "29": "",
             "30": "",
