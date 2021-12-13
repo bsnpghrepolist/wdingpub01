@@ -26054,7 +26054,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
+            "13": "<ol><li>contrast to Juda Iscariot who sold Jesus, Jesus did not remember the seller but Mary. </li></ol>",
             "14": "",
             "15": "",
             "16": "",
