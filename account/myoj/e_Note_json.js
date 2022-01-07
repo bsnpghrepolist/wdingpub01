@@ -31439,7 +31439,7 @@ var _bnotes=
             "23": "",
             "24": "",
             "25": "",
-            "26": "",
+            "26": "<ol><li>Jesus said: who is my mother? brothers ans sisters?</li></ol>",
             "27": "",
             "28": "",
             "29": "",
