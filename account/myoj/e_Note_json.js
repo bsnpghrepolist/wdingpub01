@@ -25484,7 +25484,7 @@ var _bnotes=
             "33": "",
             "34": "",
             "35": "",
-            "36": "",
+            "36": "<ol><li><a class=\"jw\" style=\"color: rgb(255, 255, 255); font-size: medium;\">every careless word</a></li></ol>",
             "37": "",
             "38": "",
             "39": "",
