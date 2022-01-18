@@ -28338,7 +28338,7 @@ var _bnotes=
             "38": "",
             "39": "",
             "40": "",
-            "41": "",
+            "41": "<ol><li>man-made glory vs the glory of God. </li></ol>",
             "42": "",
             "43": "",
             "44": "",
