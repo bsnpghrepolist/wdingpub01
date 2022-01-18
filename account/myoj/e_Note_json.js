@@ -28337,7 +28337,7 @@ var _bnotes=
             "37": "",
             "38": "",
             "39": "",
-            "40": "",
+            "40": "<ol><li>sin</li></ol>",
             "41": "<ol><li>man-made glory vs the glory of God. </li><li>the glory of God belong to God. the glory of man belong to man. </li></ol>",
             "42": "",
             "43": "",
