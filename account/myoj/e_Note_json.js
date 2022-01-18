@@ -28339,7 +28339,7 @@ var _bnotes=
             "39": "<ol><li>the Bible is the testimony of Jesus.  </li></ol>",
             "40": "<ol><li>sin</li></ol>",
             "41": "<ol><li>man-made glory vs the glory of God. </li><li>the glory of God belong to God. the glory of man belong to man. </li></ol>",
-            "42": "",
+            "42": "<ol><li>the love of God. </li></ol>",
             "43": "",
             "44": "",
             "45": "",
