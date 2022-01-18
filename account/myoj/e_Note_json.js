@@ -18132,7 +18132,7 @@ var _bnotes=
             "35": ""
         },
         "15": {
-            "1": "",
+            "1": "<ol><li><span style=\"background-color: rgb(255, 255, 255);\"><font color=\"#4d5156\" face=\"Roboto, arial, sans-serif\"><span style=\"font-size: 14px;\"> Matthew 10:16 - so be wise </span></font></span><span style=\"font-weight: bold; color: rgb(95, 99, 104); font-family: Roboto, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);\">as</span><span style=\"color: rgb(77, 81, 86); font-family: Roboto, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);\"> serpents and innocent </span><span style=\"font-weight: bold; color: rgb(95, 99, 104); font-family: Roboto, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);\">as doves.</span></li></ol>",
             "2": "",
             "3": "",
             "4": "",
