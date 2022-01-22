@@ -28800,7 +28800,7 @@ var _bnotes=
             "25": "",
             "26": "",
             "27": "",
-            "28": "",
+            "28": "<ol><li>relational being: father son spirit.</li></ol>",
             "29": "",
             "30": "",
             "31": ""
