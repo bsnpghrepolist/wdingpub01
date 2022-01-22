@@ -76,7 +76,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "",
+            "15": "<ol><li>jesus first met mary magdalan.</li></ol>",
             "16": "",
             "17": "",
             "18": "",
