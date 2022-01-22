@@ -28802,7 +28802,7 @@ var _bnotes=
             "27": "",
             "28": "<ol><li>relational being: father son spirit.</li></ol>",
             "29": "",
-            "30": "",
+            "30": "<ol><li>the prince of the world == satan.</li></ol>",
             "31": ""
         },
         "15": {
