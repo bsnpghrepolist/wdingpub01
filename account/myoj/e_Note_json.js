@@ -28425,7 +28425,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "<ol><li>Compared Abraham, waiting for the son.</li></ol>",
             "7": "",
             "8": "",
             "9": "",
