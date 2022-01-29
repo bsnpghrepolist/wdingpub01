@@ -28818,7 +28818,7 @@ var _bnotes=
             "10": "<ol><li>marriage commitment: better or worse. </li></ol>",
             "11": "",
             "12": "",
-            "13": "<ol><li>Gen2:15 command to die. Jesus will die. </li></ol>",
+            "13": "<ol><li>Gen2:15 command to die. Jesus will die for us. </li></ol>",
             "14": "",
             "15": "",
             "16": "",
