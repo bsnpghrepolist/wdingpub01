@@ -28821,7 +28821,7 @@ var _bnotes=
             "13": "<ol><li>Gen2:15 command to die. Jesus will die for us. </li></ol>",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "<ol><li>i am a beggar who tell others where to get food.</li></ol>",
             "17": "",
             "18": "",
             "19": "",
