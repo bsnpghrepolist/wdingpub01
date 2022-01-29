@@ -28815,7 +28815,7 @@ var _bnotes=
             "7": "",
             "8": "<ol><li>fruits: Gal5:22-23</li></ol>",
             "9": "",
-            "10": "",
+            "10": "<ol><li>marriage commitment: better or worse. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
