@@ -492,7 +492,7 @@ var _bnotes=
             "29": "",
             "30": "",
             "31": "",
-            "32": "",
+            "32": "<ol><li>Abraham appealed to God’s justice in the hope that his nephew, Lot, who was living inSodom, would not be destroyed.</li></ol>",
             "33": ""
         },
         "19": {
