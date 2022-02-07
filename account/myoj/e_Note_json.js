@@ -30215,7 +30215,7 @@ var _bnotes=
             "4": "<ol><li>It’s common that People satisfied with his achievements, degrees, boast it. Money, leadership. </li></ol>",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "<ol><li><a id=\"NIV_Rom_4_7\" class=\"tx txNIV hiliVrsTxt\" style=\"color: rgb(255, 255, 255);\">forgiven ==> righteousness</a></li></ol>",
             "8": "",
             "9": "",
             "10": "<ol><li>Gen15:6 righteousness</li><li>Gen17:10 circumcision. </li></ol>",
