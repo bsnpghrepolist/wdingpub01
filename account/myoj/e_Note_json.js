@@ -28593,7 +28593,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "<ol><li>cultures and churches are union in one. </li></ol>",
             "17": "",
             "18": "",
             "19": "",
