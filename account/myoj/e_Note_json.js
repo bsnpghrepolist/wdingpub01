@@ -28578,7 +28578,7 @@ var _bnotes=
             "41": ""
         },
         "10": {
-            "1": "<ol><li>door==cross==way</li></ol>",
+            "1": "<ol><li>door==cross==way==truth=life</li></ol>",
             "2": "",
             "3": "",
             "4": "",
