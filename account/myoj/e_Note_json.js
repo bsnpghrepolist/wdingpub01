@@ -28844,7 +28844,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "<ol><li>Definition of sin: do not believe in Jesus. </li></ol>",
-            "10": "",
+            "10": "<ol><li>Definition of righteousness: Jesus resurrection and arisen. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
