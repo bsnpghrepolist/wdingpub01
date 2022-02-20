@@ -29261,7 +29261,7 @@ var _Max_struct={
             "33": ""
         },
         "17": {
-            "1": "<a>    Definition of eternal life  </a>",
+            "1": "<a>    Definition of eternal life and truth  </a>",
             "2": "",
             "3": "",
             "4": "",
