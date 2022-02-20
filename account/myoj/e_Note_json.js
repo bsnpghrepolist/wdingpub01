@@ -28845,7 +28845,7 @@ var _bnotes=
             "8": "",
             "9": "<ol><li>Definition of sin: do not believe in Jesus. </li></ol>",
             "10": "<ol><li>Definition of righteousness: Jesus resurrection and arisen. </li></ol>",
-            "11": "",
+            "11": "<ol><li>Definition of judgment: condemned prince of the world. </li></ol>",
             "12": "",
             "13": "",
             "14": "",
