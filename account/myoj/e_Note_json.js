@@ -28843,7 +28843,7 @@ var _bnotes=
             "6": "",
             "7": "",
             "8": "",
-            "9": "",
+            "9": "<ol><li>Definition of sin: do not believe in Jesus. </li></ol>",
             "10": "",
             "11": "",
             "12": "",
