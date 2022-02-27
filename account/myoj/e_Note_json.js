@@ -25184,7 +25184,7 @@ var _bnotes=
             "2": "",
             "3": "<ol><li>(Luk6:20)</li></ol>",
             "4": "<ol><li>First </li></ol>",
-            "5": "<ol><li>meek, opposite to the blood spirit; not resisting Him; wholly relying on Him; purify His elect; He will delivery His elect; opposite of self-selfish; The meek is not occupied by personal.</li></ol>",
+            "5": "<ol><li>meek, opposite to the blood spirit; not resisting Him; wholly relying on Him; purify His elect; He will delivery His elect; opposite of self-selfish; The meek is not occupied by personal.</li><li>Jesus is gentle == meek, you will find on me.</li></ol>",
             "6": "",
             "7": "",
             "8": "",
