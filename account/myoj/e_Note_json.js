@@ -28885,7 +28885,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "<ol><li>Is culture neutral or good or bad?</li><li>Is language diversity good or bad? </li><li>Culture and world (cusmos) relationship. What is culture?</li><li>What is evil(panerus)?</li><li>What’s the evil in the world?</li></ol><div><br></div>",
-            "16": "<ol><li>The world = culture. </li></ol>",
+            "16": "<ol><li>The pattern of the world = culture. Rom12:2 </li></ol>",
             "17": "<ol><li>Sanctify us from peneros(evil) in world. </li></ol>",
             "18": "",
             "19": "",
