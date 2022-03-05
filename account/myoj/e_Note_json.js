@@ -28884,7 +28884,7 @@ var _bnotes=
             "12": "<ol><li>Preach so that the scripture might be fulfilled. </li></ol>",
             "13": "",
             "14": "",
-            "15": "<ol><li>Is culture neutral or good or bad?</li><li>Is language diversity good or bad? </li><li>Culture and world relationship. What is culture?</li></ol><div><br></div>",
+            "15": "<ol><li>Is culture neutral or good or bad?</li><li>Is language diversity good or bad? </li><li>Culture and world relationship. What is culture?</li><li>What is evil(panerus)?</li><li>What’s the evil in the world?</li></ol><div><br></div>",
             "16": "<ol><li>The world = culture. </li></ol>",
             "17": "",
             "18": "",
