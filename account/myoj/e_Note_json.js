@@ -31016,7 +31016,7 @@ var _bnotes=
             "53": "",
             "54": "<ol><li>Buddha : the soul is clothed with flesh. </li></ol>",
             "55": "",
-            "56": "",
+            "56": "<ol><li>Death-sin-law</li></ol>",
             "57": "",
             "58": ""
         },
