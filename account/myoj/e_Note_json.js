@@ -31653,7 +31653,7 @@ var _bnotes=
             "13": "",
             "14": "<ol><li>Eer</li></ol>",
             "15": "",
-            "16": "<ol><li>faith～no change, passport vs Chinese-identity in pandemic. </li></ol>",
+            "16": "<ol><li>faith～no change, passport vs Chinese-identity-card in pandemic. </li></ol>",
             "17": "",
             "18": "",
             "19": "",
