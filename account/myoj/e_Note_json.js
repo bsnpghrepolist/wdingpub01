@@ -31651,7 +31651,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "",
-            "14": "",
+            "14": "<ol><li>Eer</li></ol>",
             "15": "",
             "16": "<ol><li>faith～no change, passport vs Chinese-identity in pandemic. </li></ol>",
             "17": "",
