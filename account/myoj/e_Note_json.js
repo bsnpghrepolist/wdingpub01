@@ -17815,7 +17815,7 @@ var _bnotes=
             "20": "",
             "21": "",
             "22": "",
-            "23": "<ol><li><li>Whoever believes in me, as the Scripture has said, streams of living water will flow from within him.\"\" (Jhn7:38 NIV)</li></li></ol>",
+            "23": "<ol><li>Whoever believes in me, as the Scripture has said, streams of living water will flow from within him.\"\" (Jhn7:38 NIV)</li></ol>",
             "24": "",
             "25": "",
             "26": "",
