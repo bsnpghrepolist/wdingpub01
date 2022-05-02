@@ -18359,7 +18359,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "<ol><li>Many Chinese do it well based on parents will rather than God's will. </li></ol>",
             "7": "",
             "8": "",
             "9": "",
