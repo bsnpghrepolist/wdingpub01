@@ -31639,7 +31639,7 @@ var _bnotes=
         },
         "6": {
             "1": "",
-            "2": "<ol><li>Honor but not obey </li></ol>",
+            "2": "<ol><li>Honor but not fully obey. Obey in the Lord.</li></ol>",
             "3": "",
             "4": "",
             "5": "",
