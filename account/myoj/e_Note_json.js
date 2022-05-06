@@ -28778,7 +28778,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "<ol><li>everything is created by Him, for Him and through Him. </li><li>Through Him, one can comes to the Father, to be the children of God. </li><li>Through Him, the weak becomes strong, the poor becomes rich. </li><li>Through Him, the sinners are redeemed. </li><li>Through Him, the oppressed become free. </li></ol>",
             "7": "",
             "8": "",
             "9": "",
