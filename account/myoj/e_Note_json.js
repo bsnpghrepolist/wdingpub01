@@ -31450,7 +31450,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "<ol><li>It’s possible for Christians to fall away from the grace. </li></ol>",
             "5": "",
             "6": "",
             "7": "",
