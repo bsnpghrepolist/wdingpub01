@@ -31468,7 +31468,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": "\n<div>\n<ol>\n\t<li>internal. 加5+2+2=9。</li>\n\t<li>神爱：仁爱。</li>\n\t<li>\n\t<table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t\t<thead>\n\t\t\t<tr>\n\t\t\t\t<th scope=\"row\"/></tr></thead></table></li></ol></div>",
+            "22": "\n<div>\n<ol>\n\t<li>internal. 加5+2+2=9。</li>\n\t<li>神爱：仁爱。</li>\n\t<li>\n\t<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t\t<tbody>\n\t\t\t<tr>\n\t\t\t\t<td/></tr></tbody></table></li></ol></div>",
             "23": "",
             "24": "",
             "25": "",
