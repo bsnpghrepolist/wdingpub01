@@ -28587,7 +28587,7 @@ var _bnotes=
             "7": "the entry of the knowledge and the kingdom of Heaven.",
             "8": "",
             "9": "",
-            "10": "<ol><li>Two types of steal kill and destroy. </li><li>Steal the Word(logos). </li><li>Kill Jesus on the cross (life, truth way)</li><li>Destroy the kingdom of God. (Church Mind Spirit Body)</li><li>In Gen3:1, demonstrates how. </li><li>Steal the word of God, </li><li>Kill the man of God, </li><li>Destroy the world of God. </li></ol>",
+            "10": "<ol><li>Two types of steal kill and destroy. </li><li>Steal the Word(logos). </li><li>Kill Jesus on the cross (life, truth way)</li><li>Destroy the kingdom of God. (Church Mind Spirit Body)</li><li>In Gen3:1, demonstrates how. </li><li>Steal the word of God, use the word of God to kill the man of God, to destroy the world of God. </li><li>Kill the man of God, </li><li>Destroy the world of God. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
