@@ -28587,7 +28587,7 @@ var _bnotes=
             "7": "the entry of the knowledge and the kingdom of Heaven.",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "<ol><li>Two types of steal kill and destroy. </li><li>Steal the word of God. </li><li>Kill Jesus (life, truth way)</li><li>Destroy the kingdom of God. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
