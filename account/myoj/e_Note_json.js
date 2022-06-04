@@ -18182,7 +18182,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "<ol><li>wisdom is more valueable than gold; understanding is better than silver.</li><li>one cannont buy wisdom with gold; understanding with silver. Jesus is the way.</li></ol>",
             "17": "",
             "18": "",
             "19": "",
