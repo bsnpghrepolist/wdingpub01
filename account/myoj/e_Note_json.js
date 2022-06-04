@@ -18268,7 +18268,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "",
-            "11": "<ol><li>A role of knowledge is to give patience. </li><li>How to get patience. If a knowledge cannot give you patience, it is less useful.</li><li>Pro16:32 better than mighty hero. </li><li>Pro29:11 a fool give full vent to anger. </li><li>It is not correct to supress the anger by force or terror; it is through the knowlwedge to disarm the anger.</li></ol>",
+            "11": "<ol><li>A role of knowledge is to give patience. </li><li>How to get patience. If a knowledge cannot give you patience, it is less useful.</li><li>Pro16:32 better than mighty hero. </li><li>Pro29:11 a fool give full vent to anger. </li><li>It is not correct to supress the anger by force or terror; it is through the knowlwedge to disarm the anger.</li><li>Forgive 64.</li></ol>",
             "12": "",
             "13": "",
             "14": "",
