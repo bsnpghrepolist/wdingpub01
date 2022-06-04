@@ -18198,7 +18198,7 @@ var _bnotes=
             "29": "",
             "30": "",
             "31": "",
-            "32": "",
+            "32": "<ol><li>knowledge help to increase patience, patience is better than hero.</li><li>to rule his spirit is harder than to take a city.</li></ol>",
             "33": ""
         },
         "17": {
