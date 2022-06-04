@@ -18268,7 +18268,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "",
-            "11": "",
+            "11": "<ol><li>A role of knowledge is to give patience. </li></ol>",
             "12": "",
             "13": "",
             "14": "",
