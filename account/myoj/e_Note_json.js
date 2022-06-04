@@ -18354,7 +18354,7 @@ var _bnotes=
             "31": ""
         },
         "22": {
-            "1": "",
+            "1": "<ol><li>To be the child of God is the best name for sinners.</li><li>The favor from God is the most joy in the world.</li></ol>",
             "2": "",
             "3": "",
             "4": "",
