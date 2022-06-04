@@ -50,7 +50,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "<ol><li>A command in creation. </li><li>God gave freewill to man. A most powerful energy to man life. </li></ol>",
             "17": "",
             "18": "<ol><li>a helper refer to Jesus. God created Adam but creator and creature cannot stand side by side shoulder by shoulder. One is unlimited and one is limited even he is not sinner. </li><li>In Hebrew <a href=\"https://weekly.israelbiblecenter.com/the-unlikely-role-of-a-biblical-woman/?via=22c3dc4&utm_source=email&utm_medium=email&utm_campaign=EMAIL_ActiveCampaign_Lead_nurture_drip-%20The%20Unlikely%20Role%20of%20the%20Biblical%20Woman_Day28#22c3dc4\">ezer</a></li></ol>",
             "19": "",
