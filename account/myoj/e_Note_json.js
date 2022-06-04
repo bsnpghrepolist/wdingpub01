@@ -30823,7 +30823,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
+            "24": "<ol><li>The good is not about the money or materials but about His glory, the kingdom of Heaven.</li></ol>",
             "25": "",
             "26": "",
             "27": "",
