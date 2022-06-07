@@ -62,7 +62,7 @@ var _bnotes=
             "25": "<ol><li>Again Until Rom1:16 law shamed because of Gospel. </li></ol>"
         },
         "3": {
-            "1": "---1.) steal speech right of man for different types.   2.) Affirmative command became questionable. 3.) unique Lord God became pan god. 4.) true mixed in false. (syncretism)  5.) create word of true, question. 6.) modification concept. 7.) attractive to change attention (behold to it). 8.)  to think  9.) break silence, to speak 10.) cause to answer to make conversation.        <div><br></div><div>1. More craft than animals  but under God. </div><div>2. Man is not animal. </div><div>3. Man and animals can communicate. </div>",
+            "1": "---1.) steal speech right of man for different types.   2.) Affirmative command became questionable. 3.) unique Lord God became pan god. 4.) true mixed in false. (syncretism)  5.) create word of true, question. 6.) modification concept. 7.) attractive to change attention (behold to it). 8.)  to think  9.) break silence, to speak 10.) cause to answer to make conversation.        <div><br></div><div>1. More craft than animals  but under God. </div><div>2. Man is not animal. </div><div>3. Man and animals can communicate. </div><div>4. God created animals unequally. </div>",
             "2": "The weakness of Eve: 1.) misuse personal identity. 2.) open communication channel to Serpent. (excuse)   3.) inaccurate obscure 3a.) eternal become past finished tense. 3b.) add touch to die.    4.) attitude to judge God. 5.) gossip secret of God. 6) fall in love with Serpent",
             "3": "",
             "4": "1) firmly deny God's word. 2) negative word used in negative result. 3) Extra knowledge of God. ",
