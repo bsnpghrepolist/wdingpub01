@@ -41,7 +41,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "<ol><li>Further details of man: A.) dust B.) living (חַיָּֽה) soul (<a dir=\"rtl\" id=\"H_G_Gen_2_7\">נֶ֥פֶשׁ</a>)</li><li>The living soul has two part: וַיִּפַּח בְּאַפָּיו      נִשְׁמַת חַיִּים</li><li>life (חַיִּים )</li><li>breath (נִשְׁמַת),</li><li>nostril (בְּאַפָּיו)</li><li>blow (וַיִּפַּח ), both blow and nostril has פָּ</li><li>lving(חַיָּֽה), same root as life, related to the LORD YHWH</li><li>soul (לְנֶ֥פֶשׁ). = breath (נִשְׁמַת) + nose (פָּ)</li></ol>",
+            "7": "<ol><li>Further details of man: A.) dust B.) living (חַיָּֽה) soul (<a dir=\"rtl\" id=\"H_G_Gen_2_7\">נֶ֥פֶשׁ</a>)</li><li>The living soul has two part: וַיִּפַּח בְּאַפָּיו      נִשְׁמַת חַיִּים</li><li>life (חַיִּים )</li><li>breath (נִשְׁמַת),  fr primative root נָשַׁם to pant(blow), of woman in travail or labor. </li><li>nostril (בְּאַפָּיו)</li><li>blow (וַיִּפַּח ), both blow and nostril has פָּ</li><li>lving(חַיָּֽה), same root as life, related to the LORD YHWH</li><li>soul (לְנֶ֥פֶשׁ). = breath (נִשְׁמַת) + nose (פָּ)</li></ol>",
             "8": "",
             "9": "",
             "10": "",
