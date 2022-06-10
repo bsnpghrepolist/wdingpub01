@@ -41,7 +41,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "\n<ol>\n\t<li>Further details of man: A.) dust B.) living (<a class=\"tx txH_G tx_OT hiliVrsTxt\" dir=\"rtl\" id=\"H_G_Gen_2_7\" style=\"width: 1259px; display: inline !important;\">חַיָּֽה</a>) soul (<a dir=\"rtl\" id=\"H_G_Gen_2_7\">נֶ֥פֶשׁ</a>)</li>\n\t<li/></ol>",
             "8": "",
             "9": "",
             "10": "",
