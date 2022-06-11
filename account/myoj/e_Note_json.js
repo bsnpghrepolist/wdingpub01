@@ -35,7 +35,7 @@ var _bnotes=
             "31": "<ol><li>God did not say ‘good’ immediately after man was created the same as when living creatures was created (25). </li><li>God said ‘good’ twice in the sixth day, one is for living creatures another is for the whole thing created in the sixth day. The most important created man seems underestimated or overlooked. </li><li>Man is special compared to other creatures—Man has not pleased God yet until Jesus redeem it \"And a voice came from heaven, \"You are my beloved Son; with you I am well pleased.\"\" (Mak1:11 ESV)</li><li>Only man created with male and female — man and cloned-man. </li></ol>"
         },
         "2": {
-            "1": "",
+            "1": "<ol><li>Finished but not yet.</li></ol>",
             "2": "",
             "3": "",
             "4": "",
