@@ -3495,7 +3495,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
+            "24": "<ol><li>The reason the Cannonian were killed. </li></ol>",
             "25": "",
             "26": "",
             "27": "",
