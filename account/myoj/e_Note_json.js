@@ -3498,7 +3498,7 @@ var _bnotes=
             "24": "<ol><li>The reason the Cannonian were killed. </li></ol>",
             "25": "",
             "26": "",
-            "27": "",
+            "27": "<ol><li>Living in defiled land. </li></ol>",
             "28": "",
             "29": "",
             "30": ""
