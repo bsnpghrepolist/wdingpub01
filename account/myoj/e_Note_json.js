@@ -3499,7 +3499,7 @@ var _bnotes=
             "25": "",
             "26": "",
             "27": "<ol><li>Living in defiled land. </li></ol>",
-            "28": "",
+            "28": "<ol><li>The land vomit man out. Means man doesn’t belong to the land. Man cannot own the land anymore. The landlord cannot own his land anymore. </li></ol>",
             "29": "",
             "30": ""
         },
