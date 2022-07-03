@@ -41,7 +41,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "\n<div>\n<ol>\n\t<li>Further details of man: 3 and(steps).</li>\n\t<li>A.) dust B.) pant(blow) life into nose. C.) became living (חַיָּֽה) soul (<a dir=\"rtl\" id=\"H_G_Gen_2_7\">נֶ֥פֶשׁ</a>)</li>\n\t<li></li></ol></div>",
+            "7": "<div><ol><li>Further details of man: 3 and(steps).</li><li>A.) dust B.) pant(blow) life into nose. C.) became living (חַיָּֽה) soul (<a dir=\"rtl\" id=\"H_G_Gen_2_7\">נֶ֥פֶשׁ</a>)</li><li>The living soul has two part: וַיִּפַּח בְּאַפָּיו      נִשְׁמַת חַיִּים</li><li>life (חַיִּים )</li><li>breath (נִשְׁמַת),  fr primative root נָשַׁם to pant(blow), of woman in travail or labor. </li><li>nostril (בְּאַפָּיו) --> dust (עָפָר)</li><li>blow (וַיִּפַּח ), both blow and nostril has פָּ</li><li>lving(חַיָּֽה), same root as life, related to the LORD YHWH</li><li>soul (נֶפֶשׁ). = breath (נִשְׁמַת) + nose (פָּ) dust (עָפָר)</li><li>spirit (רוּחַ Ruah, wind, breath, Gen1:2) but not exist here. The first man does not have spirit but soul only.</li><li><a data-cke-saved-href=\"https://wdingbox.github.io/pubs/biblestudy/my_papers/docs/Spirit_Soul.pdf\" href=\"https://wdingbox.github.io/pubs/biblestudy/my_papers/docs/Spirit_Soul.pdf\">https://wdingbox.github.io/pubs/biblestudy/my_papers/docs/Spirit_Soul.pdf</a></li><li><br><br></li></ol></div>",
             "8": "",
             "9": "",
             "10": "",
