@@ -41,7 +41,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "\n<ol>\n\t<li>Further details of man: 3 and(steps).</li>\n\t<li>A.) dust B.) pant(blow) life into nose. C.) became living (חַיָּֽה) soul (<a dir=\"rtl\" id=\"H_G_Gen_2_7\">נֶ֥פֶשׁ</a>)</li>\n\t<li></li></ol>",
+            "7": "\n<div>\n<ol>\n\t<li>Further details of man: 3 and(steps).</li>\n\t<li>A.) dust B.) pant(blow) life into nose. C.) became living (חַיָּֽה) soul (<a dir=\"rtl\" id=\"H_G_Gen_2_7\">נֶ֥פֶשׁ</a>)</li>\n\t<li></li></ol></div>",
             "8": "",
             "9": "",
             "10": "",
