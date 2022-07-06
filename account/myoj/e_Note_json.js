@@ -24769,7 +24769,7 @@ var _bnotes=
             "18": "",
             "19": "",
             "20": "",
-            "21": "",
+            "21": "<ol><li>Shaking heavens and the earth means the priciples of the universe will changes---the miracle of Jesus would come. </li></ol>",
             "22": "",
             "23": ""
         }
