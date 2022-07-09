@@ -28136,7 +28136,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "",
-            "13": "<ol><li>the will of bood: like anger (blood is hot) apathy (blood is cold)</li><li>the will of flesh: sex, porn, hungry, cold, hot, boring, tiresome.</li><li>the will of man: the human desires, phylosophy, idealism, etc. from medium, influence of cultures, the will of race, of nation, of parents, of society, of community, of moral. </li></ol>",
+            "13": "<ol><li>the will of bood: like anger (blood is hot) apathy (blood is cold)</li><li>the will of flesh: sex, porn, hungry, cold, hot, boring, tiresome.</li><li>the will of man: the human desires, phylosophy, idealism, etc. from medium, influence of cultures, the will of race, of nation, of parents, of society, of community, of moral, rewards, honors. </li></ol>",
             "14": "-The Word became man. The Word that was spoken must have a speaker, writer and thinker. God is the language creator and designer. Man is the user of God's language. ---any computer language must be designed by people through intelligence. ",
             "15": "",
             "16": "",
