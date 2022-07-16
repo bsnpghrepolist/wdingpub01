@@ -31468,7 +31468,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": "<div><ol><li>internal. 加5+2+2=9。</li><li>神爱：仁爱。</li><li><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\"><tbody><tr><td>https://wdingbox.github.io/pubs/biblestudy/my_papers/bible/Gal522_9fruits.htm</td></tr></tbody></table></li></ol></div>",
+            "22": "\n<div>\n<ol>\n\t<li>internal. 加5+2+2=9。</li>\n\t<li>神爱：仁爱。</li>\n\t<li><a href=\"https://wdingbox.github.io/pubs/biblestudy/my_papers/bible/Gal522_9fruits.htm\">https://wdingbox.github.io/pubs/biblestudy/my_papers/bible/Gal522_9fruits.htm</a></li>\n</ol>\n</div>\n",
             "23": "",
             "24": "",
             "25": "",
