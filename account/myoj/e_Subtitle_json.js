@@ -2200,7 +2200,7 @@ var _Max_struct={
         "20": {
             "1": "",
             "2": "",
-            "3": "<a class=\"e_Subtitle\">  Law1    </a>",
+            "3": "<a class=\"e_Subtitle\">  Law1: God of gods.    </a>",
             "4": "<a class=\"e_Subtitle\"> Law 2: Idoltry </a>",
             "5": "<a class=\"e_Subtitle\">  </a>",
             "6": "",
