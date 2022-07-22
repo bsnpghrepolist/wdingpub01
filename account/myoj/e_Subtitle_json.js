@@ -2211,7 +2211,7 @@ var _Max_struct={
             "11": "",
             "12": "<a>  Law 5   </a>",
             "13": "<a>Law 6     </a>",
-            "14": "<a> Law 7    </a>",
+            "14": "<a> Law 7 : adultery   </a>",
             "15": "<a> Law 8  : steal  </a>",
             "16": "<a> Law 9 : lying    </a>",
             "17": "<a>  Law 10 : envy   </a>",
