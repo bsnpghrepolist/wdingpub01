@@ -2205,7 +2205,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
+            "12": "<ol><li>is opposite to Gen2:24, to leave your father and mother.</li></ol>",
             "13": "",
             "14": "",
             "15": " 1. Hide. 2. Take as owners   3. Glory self. Without thanksgiving. ",
