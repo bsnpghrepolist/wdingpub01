@@ -17704,7 +17704,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "<ol><li>Compare Gen2:24.  Aba and ama represent Elohim and yhwh. </li></ol>",
             "9": "",
             "10": "",
             "11": "",
