@@ -17753,7 +17753,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": "<ol><li>Amen</li></ol>"
+            "22": "<ol><li>Bagada: treacherous, deceitful. </li></ol>"
         },
         "3": {
             "1": "",
