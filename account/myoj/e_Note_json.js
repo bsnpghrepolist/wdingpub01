@@ -17760,7 +17760,7 @@ var _bnotes=
             "2": "",
             "3": "",
             "4": "",
-            "5": "",
+            "5": "<ol><li>Trust in the Lord with all your heart. </li><li>Love the Lord with all your heart. </li><li>Lean not on your understanding, strength and mind. </li></ol>",
             "6": "",
             "7": "",
             "8": "",
