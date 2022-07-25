@@ -17756,7 +17756,7 @@ var _bnotes=
             "22": "<ol><li>Bagada: treacherous, deceitful. </li></ol>"
         },
         "3": {
-            "1": "",
+            "1": "<ol><li>Commandments are hard to keep. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
