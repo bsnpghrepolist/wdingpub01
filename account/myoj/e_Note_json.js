@@ -17951,7 +17951,7 @@ var _bnotes=
             "36": "<ol><li>some may disagree</li></ol>"
         },
         "9": {
-            "1": "",
+            "1": "<ol><li>JEDUS is seven  </li></ol>",
             "2": "",
             "3": "",
             "4": "",
