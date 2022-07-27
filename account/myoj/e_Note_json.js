@@ -18112,7 +18112,7 @@ var _bnotes=
             "15": "<ol><li>Naturally for believers. </li></ol>",
             "16": "<ol><li>Fear but can’t stop it</li></ol>",
             "17": "<ol><li>Good for me</li></ol>",
-            "18": "",
+            "18": "<ol><li>Good </li></ol>",
             "19": "",
             "20": "",
             "21": "",
