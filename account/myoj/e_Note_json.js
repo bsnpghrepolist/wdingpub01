@@ -18120,7 +18120,7 @@ var _bnotes=
             "23": "<ol><li>Good to me</li></ol>",
             "24": "",
             "25": "<ol><li>True for me. Not to take fake stories to lead people to faith. </li></ol>",
-            "26": "",
+            "26": "<ol><li>Good for family </li></ol>",
             "27": "",
             "28": "",
             "29": "",
