@@ -18116,7 +18116,7 @@ var _bnotes=
             "19": "<ol><li>? Be careful of Chinese none believers </li></ol>",
             "20": "<ol><li>Good for her</li></ol>",
             "21": "<ol><li>May God’s Grace be upon me</li></ol>",
-            "22": "<ol><li>The difference between true wise and fake wise. </li><li>Both work hard in heart and mind and strength. </li><li>But the goals are opposite. </li></ol>",
+            "22": "<ol><li>The difference between true wise and fake wise. Or wise and craft. Smart and treacherous. </li><li>Both work hard in heart and mind and strength. </li><li>But the goals are opposite. </li></ol>",
             "23": "",
             "24": "",
             "25": "",
