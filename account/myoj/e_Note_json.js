@@ -18092,7 +18092,7 @@ var _bnotes=
             "22": "<ol><li>Good</li></ol>",
             "23": "",
             "24": "",
-            "25": ""
+            "25": "<ol><li>Chinese saying: man takes food as heaven. </li></ol>"
         },
         "14": {
             "1": "",
