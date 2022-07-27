@@ -18081,7 +18081,7 @@ var _bnotes=
             "11": "",
             "12": "<ol><li>True</li></ol>",
             "13": "<ol><li>Cannot obey</li></ol>",
-            "14": "",
+            "14": "<ol><li>The wise is essentially about the life and death. </li></ol>",
             "15": "",
             "16": "",
             "17": "",
