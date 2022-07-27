@@ -18089,7 +18089,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "<ol><li>Good man has no reward in China </li></ol>",
-            "22": "",
+            "22": "<ol><li>Good</li></ol>",
             "23": "",
             "24": "",
             "25": ""
