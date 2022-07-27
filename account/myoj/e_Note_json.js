@@ -17929,7 +17929,7 @@ var _bnotes=
             "14": "",
             "15": "",
             "16": "",
-            "17": "",
+            "17": "<ol><li>jesus:look and see, knock and dors open .</li></ol>",
             "18": "",
             "19": "",
             "20": "",
