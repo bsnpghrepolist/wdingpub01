@@ -18110,7 +18110,7 @@ var _bnotes=
             "13": "<ol><li>Good depiction for the worldly man</li></ol>",
             "14": "",
             "15": "<ol><li>Naturally for believers. </li></ol>",
-            "16": "",
+            "16": "<ol><li>Fear but can’t stop it</li></ol>",
             "17": "",
             "18": "",
             "19": "",
