@@ -18106,7 +18106,7 @@ var _bnotes=
             "9": "<ol><li>Chinese enjoys the treacherous as smart </li></ol>",
             "10": "",
             "11": "",
-            "12": "",
+            "12": "<ol><li>Good for stubborn </li></ol>",
             "13": "",
             "14": "",
             "15": "",
