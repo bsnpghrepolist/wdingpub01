@@ -18119,7 +18119,7 @@ var _bnotes=
             "22": "<ol><li>The difference between true wise and fake wise. Or wise and craft. Smart and treacherous. </li><li>Both work hard in heart and mind and strength. </li><li>But the goals are opposite. </li></ol>",
             "23": "<ol><li>Good to me</li></ol>",
             "24": "",
-            "25": "",
+            "25": "<ol><li>True for me. Not to take fake stories to lead people to faith. </li></ol>",
             "26": "",
             "27": "",
             "28": "",
