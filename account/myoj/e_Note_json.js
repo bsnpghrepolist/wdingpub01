@@ -18077,7 +18077,7 @@ var _bnotes=
             "7": "",
             "8": "<ol><li>Redemption is his treasure </li></ol>",
             "9": "",
-            "10": "",
+            "10": "<ol><li>Pride leads quarrel. Quarrel comes from pride. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
