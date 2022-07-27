@@ -18103,7 +18103,7 @@ var _bnotes=
             "6": "<ol><li>Good for her</li></ol>",
             "7": "<ol><li>True for me</li></ol>",
             "8": "",
-            "9": "",
+            "9": "<ol><li>Chinese enjoys the treacherous as smart </li></ol>",
             "10": "",
             "11": "",
             "12": "",
