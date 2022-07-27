@@ -18107,7 +18107,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "<ol><li>Good for stubborn </li></ol>",
-            "13": "",
+            "13": "<ol><li>Good depiction for the worldly man</li></ol>",
             "14": "",
             "15": "",
             "16": "",
