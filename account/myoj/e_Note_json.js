@@ -18115,7 +18115,7 @@ var _bnotes=
             "18": "<ol><li>Good </li></ol>",
             "19": "<ol><li>? Be careful of Chinese none believers </li></ol>",
             "20": "<ol><li>Good for her</li></ol>",
-            "21": "",
+            "21": "<ol><li>May God’s Grace be upon me</li></ol>",
             "22": "",
             "23": "",
             "24": "",
