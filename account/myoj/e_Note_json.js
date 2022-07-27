@@ -18079,7 +18079,7 @@ var _bnotes=
             "9": "",
             "10": "<ol><li>Pride leads quarrel. Quarrel comes from pride. </li></ol>",
             "11": "",
-            "12": "",
+            "12": "<ol><li>True</li></ol>",
             "13": "",
             "14": "",
             "15": "",
