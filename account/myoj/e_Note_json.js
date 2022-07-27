@@ -18117,7 +18117,7 @@ var _bnotes=
             "20": "<ol><li>Good for her</li></ol>",
             "21": "<ol><li>May God’s Grace be upon me</li></ol>",
             "22": "<ol><li>The difference between true wise and fake wise. Or wise and craft. Smart and treacherous. </li><li>Both work hard in heart and mind and strength. </li><li>But the goals are opposite. </li></ol>",
-            "23": "",
+            "23": "<ol><li>Good to me</li></ol>",
             "24": "",
             "25": "",
             "26": "",
