@@ -18169,7 +18169,7 @@ var _bnotes=
         "16": {
             "1": "",
             "2": "",
-            "3": "",
+            "3": "<ol><li>commit to thy Lord vs pray to the Lord. </li><li>Wether the Lord accepts it or not reply on how much you trust him. </li><li>It’s not you success but he. </li></ol>",
             "4": "",
             "5": "",
             "6": "",
