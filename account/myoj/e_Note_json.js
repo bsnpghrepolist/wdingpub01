@@ -18171,7 +18171,7 @@ var _bnotes=
             "2": "",
             "3": "<ol><li>commit to thy Lord vs pray to the Lord. </li><li>Wether the Lord accepts it or not reply on how much you trust him. </li><li>It’s not you success but he. </li></ol>",
             "4": "",
-            "5": "",
+            "5": "<ol><li>Babe tower is an example. </li></ol>",
             "6": "",
             "7": "",
             "8": "",
