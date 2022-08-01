@@ -17703,7 +17703,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "<ol><li>The beginning: foundation: base: origin: source: target: objective: end. </li><li>Hebrew רֵאשִׁית. The first word of genesis. </li><li><br></li></ol>",
             "8": "<ol><li>Compare Gen2:24.  Aba and ama represent Elohim and yhwh. </li></ol>",
             "9": "",
             "10": "",
