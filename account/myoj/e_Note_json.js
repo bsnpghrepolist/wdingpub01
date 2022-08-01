@@ -18187,7 +18187,7 @@ var _bnotes=
             "18": "",
             "19": "",
             "20": "",
-            "21": "",
+            "21": "<ol><li>The pleasant world can be treacherous words. </li></ol>",
             "22": "",
             "23": "",
             "24": "",
