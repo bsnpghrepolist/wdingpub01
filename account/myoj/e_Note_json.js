@@ -17703,7 +17703,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "<ol><li>The beginning: foundation: base: origin: source: target: objective: end. </li><li>Hebrew רֵאשִׁית. The first word of genesis. </li><li><br></li></ol>",
+            "7": "<ol><li>The beginning: foundation: base: origin: source: target: objective: chief: first fruit: end. </li><li>Hebrew רֵאשִׁית. the first word of genesis. </li><li>Driven power: </li><li>1Co12:12 the knowledge will be end. </li></ol>",
             "8": "<ol><li>Compare Gen2:24.  Aba and ama represent Elohim and yhwh. </li></ol>",
             "9": "",
             "10": "",
