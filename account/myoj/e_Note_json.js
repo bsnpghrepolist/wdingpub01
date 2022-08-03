@@ -18168,7 +18168,7 @@ var _bnotes=
         },
         "16": {
             "1": "<ol><li>so to plan on GOD. Not plan on words  </li><li>personal character</li></ol>",
-            "2": "",
+            "2": "<ol><li>do not focus on self but on LORD.</li></ol>",
             "3": "<ol><li>commit to thy Lord vs pray to the Lord. </li><li>Wether the Lord accepts it or not reply on how much you trust him. </li><li>It’s not you success but he. </li></ol>",
             "4": "",
             "5": "<ol><li>Babe tower is an example. </li></ol>",
