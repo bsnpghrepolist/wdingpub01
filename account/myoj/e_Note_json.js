@@ -18167,7 +18167,7 @@ var _bnotes=
             "33": ""
         },
         "16": {
-            "1": "",
+            "1": "<ol><li>so to plan on GOD. Not plan on words</li></ol>",
             "2": "",
             "3": "<ol><li>commit to thy Lord vs pray to the Lord. </li><li>Wether the Lord accepts it or not reply on how much you trust him. </li><li>It’s not you success but he. </li></ol>",
             "4": "",
