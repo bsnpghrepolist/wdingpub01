@@ -17697,7 +17697,7 @@ var _bnotes=
     },
     "Pro": {
         "1": {
-            "1": "",
+            "1": "<ol><li>Worldly proverbs vs biblical proverbs </li><li>Worldly wisdom vs biblical wisdom </li><li>Worldly parents vs biblical parents </li><li>Worldly knowledge vs biblical knowledge. </li></ol>",
             "2": "<ol><li>3-Sight: insight, foresight, hindsight. </li></ol>",
             "3": "<ol><li>Righteous:faith, justice:judgement, equity:moral. </li></ol>",
             "4": "",
