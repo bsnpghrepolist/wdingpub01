@@ -3489,7 +3489,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
+            "18": "<ol><li>What about the Jacob who took both?</li></ol>",
             "19": "",
             "20": "",
             "21": "",
