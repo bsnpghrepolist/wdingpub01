@@ -405,7 +405,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "",
+            "15": "<ol><li>Seek Peace in God rather than in the world. </li></ol>",
             "16": "",
             "17": "",
             "18": "",
