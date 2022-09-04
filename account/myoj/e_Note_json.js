@@ -28827,7 +28827,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": "",
+            "22": "<ol><li>If the Gospels did not reach them, they had excuses. But if they had heard the Gospels, they have no excuse for their sin.</li><li></li></ol>",
             "23": "",
             "24": "",
             "25": "",
