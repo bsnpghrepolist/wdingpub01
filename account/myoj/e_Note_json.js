@@ -31531,7 +31531,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "<ol><li>The definition of 善 （good work) in bible </li><li>Rom12:1</li><li>Don’t let the imperfect of church to mislead the perfect   Character of Jesus. </li><li>Differ to 善 in Chinese Buddhism. 宗教叫人行善。</li><li>Gen1:26 created according to His image and likeness. </li><li>Need reborn </li></ol>",
+            "10": "<ol><li>The definition of 善 （good work) in bible </li><li>Rom12:1</li><li>Don’t let the imperfect of church to mislead the perfect   Character of Jesus. </li><li>Differ to 善 in Chinese Buddhism. 宗教叫人行善。</li><li>Gen1:26 created according to His image and likeness. </li><li>Need reborn because of too much evil words filled in our minds. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
