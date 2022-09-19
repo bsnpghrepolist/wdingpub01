@@ -27,7 +27,7 @@ var _bnotes=
             "23": "",
             "24": "",
             "25": "",
-            "26": "<ol><li>The likeness and image are known until Jesus appeared-- supercede time and space.</li></ol>",
+            "26": "<ol><li>The likeness and image are known until Jesus appeared-- supercede time and space.</li><li>The God's speaking is same as the God's pray.</li></ol>",
             "27": "<ol><li>Make (zehar) rooted from‘remember’. </li><li>Female (nkvar) rooted from puncture/pierce. </li><li>Gender is the special for man among creatures. </li></ol>",
             "28": "",
             "29": "",
