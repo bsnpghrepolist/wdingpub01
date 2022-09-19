@@ -23,7 +23,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": "",
+            "22": "<ol><li>God's blessed the life for the first time.</li></ol>",
             "23": "",
             "24": "",
             "25": "",
