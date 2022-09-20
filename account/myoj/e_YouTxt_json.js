@@ -1,7 +1,7 @@
 var _Max_struct={
     "Gen": {
         "1": {
-            "1": "<ol><li>The process of knowing God: a) 3omni(potence,conscience,place) punish, fearing, b) mercy,love, redemption through humble, sacrifice,c) holy spirit.</li></ol>",
+            "1": "<ol><li>The process of knowing God: a) 3omni(potent,present,scient) punish, fearing, b) mercy,love, redemption through humble, sacrifice,c) holy spirit.</li></ol>",
             "2": "",
             "3": "",
             "4": "",
