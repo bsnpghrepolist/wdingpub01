@@ -31462,7 +31462,7 @@ var _bnotes=
             "13": "freedom is good for the mission of God. not for the will of flesh. The world that God created was good, we enjoy the worldly love but the good has purpose--it is for the mission of God..&nbsp;<br><br>",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "<ol><li>gratify: give (someone) pleasure or satisfaction. \"I was gratified to see the coverage in May's issue\"</li><li>ratify: sign or give formal consent to (a treaty, contract, or agreement), making it officially valid.</li></ol>",
             "17": "",
             "18": "",
             "19": "",
