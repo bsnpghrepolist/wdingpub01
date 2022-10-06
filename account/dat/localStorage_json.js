@@ -1,5 +1,18 @@
 var localStorage = {
     "#MemoryVerse": [
+        "Luk6:12",
+        "Mak10:5",
+        "Luk3:12",
+        "Rom7:19",
+        "Jhn9:3",
+        "Luk18:29",
+        "Rom9:31",
+        "Rom9:30",
+        "Jhn12:11",
+        "Eze1:25",
+        "Psm11:7",
+        "1Ki22:51",
+        "Pro5:23",
         "Gal5:17",
         "Gal5:26",
         "Gen1:1",
