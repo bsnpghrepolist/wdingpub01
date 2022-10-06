@@ -1,3 +1,5 @@
 var localStorage = {
-    "#MemoryVerse": []
+    "#MemoryVerse": [
+        "Gal5:16"
+    ]
 }
