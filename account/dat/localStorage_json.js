@@ -1,7 +1,7 @@
 var localStorage = {
     "#MemoryVerse": [
-        "Gal5:16",
-        "Gal5:17"
-        
+        "Gal5:26",
+        "Gal5:17",
+        "Gal5:16"
     ]
 }
