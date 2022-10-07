@@ -53,9 +53,6 @@ var localStorage = {
         "Gen1:1",
         "Gal5:17",
         "Jhn9:3",
-        "Luk3:12",
-        "Luk6:12",
-        "Gal5:26",
-        "Heb10:23"
+        "Luk6:12"
     ]
 }
