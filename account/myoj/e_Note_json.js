@@ -18152,7 +18152,7 @@ var _bnotes=
             "18": "",
             "19": "",
             "20": "",
-            "21": "",
+            "21": "<ol><li>Ignorant is a man who doesn’t know Jesus. Anyone who doesn’t know Jesus is the son of God is the fool. </li></ol>",
             "22": "",
             "23": "",
             "24": "",
