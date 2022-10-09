@@ -1,5 +1,5 @@
 var localStorage = {
-    "#MemoryVerse": {
+    "xxxxxxxxMemoryVerse": {
         "Amo1:3": "221009 210312",
         "Amo1:2": "221009 132645",
         "Amo1:1": "221009 045816",
@@ -85,7 +85,7 @@ var localStorage = {
     "test": {
         "a": 1
     },
-    "#RecentTouch": {
+    "xxxxxxxxxxxRecentTouch": {
         "Amo1:1": "221009 210518"
     },
     "RecentTouch": {
