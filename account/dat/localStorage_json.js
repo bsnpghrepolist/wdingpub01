@@ -84,5 +84,7 @@ var localStorage = {
     "test": {
         "a": 1
     },
-    "#RecentTouch": {}
+    "#RecentTouch": {
+        "1Jn5:1": "221009 135616"
+    }
 }
