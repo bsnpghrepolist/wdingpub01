@@ -87,5 +87,8 @@ var localStorage = {
     },
     "#RecentTouch": {
         "Amo1:1": "221009 210518"
+    },
+    "RecentTouch": {
+        "Amo1:1": "221009 210518"
     }
 }
