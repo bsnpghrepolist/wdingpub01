@@ -24664,7 +24664,7 @@ var _bnotes=
             "14": "",
             "15": "",
             "16": "",
-            "17": "<ol><li>predict Jesus curse fig tree.</li></ol>",
+            "17": "<ol><li>predict Jesus curse fig tree.</li><li>3+1+2=6</li></ol>",
             "18": "",
             "19": ""
         }
