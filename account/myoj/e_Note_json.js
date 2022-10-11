@@ -7,7 +7,7 @@ var _bnotes=
             "3": "\n<ol>\n\t<li>in Pro8:30. God said, Jesus finished. Spirit is light.&nbsp;</li>\n\t<li>we plural&nbsp;</li>\n\t<li>&nbsp;light is Jesus&nbsp;</li>\n\t<li>&nbsp;spirit over water Gen1:2 and Mat14:25</li>\n\t<li>uu</li>\n</ol>\n",
             "4": "<ol><li>--</li></ol>",
             "5": "<ol><li>God did not say that he saw darkness is good. It means the light is good; the darkness is not good. </li></ol>",
-            "6": "",
+            "6": "<ol><li>Space was created. </li></ol>",
             "7": "",
             "8": "",
             "9": "",
