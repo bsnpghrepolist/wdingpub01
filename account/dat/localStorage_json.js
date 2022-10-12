@@ -1,5 +1,5 @@
 var localStorage = {
-    "xxxxxxxxMemoryVerse": {
+    "xxxxxxxxMemoryVerse": [{
         "Amo1:3": "221009 210312",
         "Amo1:2": "221009 132645",
         "Amo1:1": "221009 045816",
@@ -81,7 +81,7 @@ var localStorage = {
         "1Co15:54": "221008 013517",
         "1Co11:4": "221008 013517",
         "1Co11:2": "21008 022501:"
-    },
+    }],
     "test": {
         "a": 1
     },
