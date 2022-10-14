@@ -23,6 +23,9 @@ var MostRecentSearches = {
     ],
     "Chrome": [
         {
+            "[\"life\",18,\"NIV\",\"Matthew\"]": "221014 000233",
+            "[\"glory\",3,\"NIV\",\"Matthew\"]": "221014 000050",
+            "[\"life\",575,\"NIV\",\"all\"]": "221013 235845",
             "life": "221013 180635,19, NIV, UserDef: Mal Mat",
             "Jesus": "221013 175441,209 found in 'NIV' in 'Mal Mat'.",
             "粪土": "221013 174620,1 found in 'NT' of 'CUVS'.",
