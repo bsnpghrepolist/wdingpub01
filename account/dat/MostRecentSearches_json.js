@@ -1,6 +1,7 @@
 var MostRecentSearches = {
     "MostRecentSearch": [
         {
+            "[\"live by\",10,\"NIV\",\"Paulines\"]": "221014 110403",
             "[\"live by\",15,\"ESV\",\"all\"]": "221014 025638",
             "[\"live by\",29,\"NIV\",\"all\"]": "221014 025407",
             "[\"life\",526,\"ESV\",\"all\"]": "221014 022258",
