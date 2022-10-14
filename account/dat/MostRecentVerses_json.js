@@ -173,7 +173,6 @@ var MostRecentVerses = {
             "1Co11:2": "21008 022501:"
         }
     ],
-    ,
     "BBNgoldenverse": [
         {
             "Hab3:18": "221010 043159",
