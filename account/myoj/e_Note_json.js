@@ -31470,7 +31470,7 @@ var _bnotes=
             "21": "",
             "22": "\n<div>\n<ol>\n\t<li>internal. 加5+2+2=9。</li>\n\t<li>神爱：仁爱。</li>\n\t<li><a href=\"https://wdingbox.github.io/pubs/biblestudy/my_papers/bible/Gal522_9fruits.htm\">https://wdingbox.github.io/pubs/biblestudy/my_papers/bible/Gal522_9fruits.htm</a></li>\n</ol>\n</div>\n",
             "23": "",
-            "24": "",
+            "24": "<ol><li>We can’t change or remove or conquer our sinful nature. </li><li>But though love of Jesus, our sinful nature can be given to Jesus who crucified it onto the cross. </li></ol>",
             "25": "",
             "26": ""
         },
