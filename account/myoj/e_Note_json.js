@@ -25388,7 +25388,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "\n<div>https://www.ccel.org/ccel/barnes/ntnotes.iv.x.xvi.html?highlight=hieroglyph#highlight\n<div></div></div>",
+            "16": "<span style=\"font-family: -webkit-standard; font-size: medium; -webkit-text-size-adjust: auto;\">https://www.ccel.org/ccel/barnes/ntnotes.iv.x.xvi.html?highlight=hieroglyph#highlight</span><div style=\"-webkit-text-size-adjust: auto;\">The Egyptians used the serpent in their hieroglyphics as a symbol of wisdom. Christ directed his followers to imitate the serpent, that was in its caution in avoiding danger.  </div><div style=\"-webkit-text-size-adjust: auto;\"><br><ol><li>Christians must go to fields to get the skill of evil. Staying inside the church will never grow mature. The poor ability will be always poor due to the good fruits of brothers. </li><li>2. We have sinful nature that exists inside flesh. To train it like snake is easier than to kill it. </li></ol></div><div></div>",
             "17": "",
             "18": "",
             "19": "",
