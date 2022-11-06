@@ -1,5 +1,5 @@
 var MostRecentVerses = {
-    "MostRecent_Searches":{
+    "MostRecent_Verses":{
     "MemoryVerse": [
         {
             "Mat10:16": "221029 105931",
