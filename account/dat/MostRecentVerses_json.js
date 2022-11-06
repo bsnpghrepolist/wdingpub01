@@ -199,6 +199,13 @@ var MostRecentVerses = {
                 "Amo1:2": "221106 032920",
                 "Eph1:1": "221106 032848"
             }
+        ],
+        "MemoryRequired": [
+            {
+                "Gen1:2": "221106 024933",
+                "Gen1:1": "221106 024924",
+                "Amo1:4": "221105 080029"
+            }
         ]
     },
     "MostRecent_Searches": {
