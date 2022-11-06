@@ -1,4 +1,5 @@
 var MostRecentVerses = {
+    "MostRecent_Searches":{
     "MemoryVerse": [
         {
             "Mat10:16": "221029 105931",
@@ -188,7 +189,8 @@ var MostRecentVerses = {
             "2Co5:21": "221013 092252",
             "Gal5:16": "221013 092059"
         }
-    ],
+    ]
+    },
     "MostRecent_Searches": {
         "MostRecentSearch": [
             {
