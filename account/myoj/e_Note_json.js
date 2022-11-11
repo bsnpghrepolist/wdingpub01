@@ -26619,7 +26619,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "<ol><li>The praises from evil is evil. </li></ol>",
+            "18": "<ol><li>The praises from evil is evil. </li><li>The definition of good is different from the Lord. </li></ol>",
             "19": "",
             "20": "",
             "21": "",
