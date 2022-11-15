@@ -13,5 +13,8 @@ var MyBiblicalDiary = {
         "1116": "asdf asdfasdf&nbsp; asd asd fasf sd",
         "1130": "a sdf asd ads&nbsp;",
         "0105": "as"
+    },
+    "2023": {
+        "0104": "w<ol><li>ew</li></ol>"
     }
 }
