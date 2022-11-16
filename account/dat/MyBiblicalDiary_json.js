@@ -12,7 +12,7 @@ var MyBiblicalDiary = {
         "1110": "-don’t be against enemies&nbsp;<div>-but love your enemies. How?</div><div><br></div><div>Jx: then no enemies in the world.&nbsp;</div><div>Wd: there is only one struggle—believe him or not.&nbsp;</div>",
         "1113": "- Why does Jewish race keep low in population among world? &nbsp;It’s a form of the role in leadership.&nbsp;<br><br>- those who were reborn imply that they get out of the world. But firstly they must get of of their culture where they were born.&nbsp;<br><br>Some of the cultures are easier than the other to get rid of.&nbsp;<br><br>The difference languages are created by God.&nbsp;<br>It’s role is to help man under stand the plural of heaven.&nbsp;<br><br><br>",
         "1114": "-Jesus is the Holy Spirit.&nbsp;<ol><li>Jesus miracle prove he is a spirit.&nbsp;</li><li>Jesus words prove he is a spirit.&nbsp;</li><li>The Word became the flesh.&nbsp;</li></ol>",
-        "1115": "<ol><li>Faith=&gt;Honest heart =&gt;naive=&gt; Simple. </li><li>Police is completely complicated. Pre tended to a good man, pretended to be a bad man. The real contains fake, the fake contains real. Repeated unlimited. But God know everything.&nbsp;</li></ol>",
+        "1115": "<ol><li>asdf asdf</li></ol>\n<ol class=\"hili\">\n<li>sss sdf asds </li>\nsfasdfssdf\nsdasdfss sdf sdf jj</ol>sssss s<ol><li>iii</li></ol>",
         "1116": "Dennis lead",
         "1117": "U",
         "1122": "<br>",
