@@ -25248,7 +25248,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "",
+            "19": "<ol><li>western technology </li><li>Knowledge </li></ol>",
             "20": "",
             "21": "",
             "22": "",
