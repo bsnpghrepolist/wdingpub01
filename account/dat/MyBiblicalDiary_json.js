@@ -14,7 +14,7 @@ var MyBiblicalDiary = {
         "1114": "-Jesus is the Holy Spirit.&nbsp;<ol><li>Jesus miracle prove he is a spirit.&nbsp;</li><li>Jesus words prove he is a spirit.&nbsp;</li><li>The Word became the flesh.&nbsp;</li></ol>",
         "1115": "<ol><li>Faith=&gt;Honest heart =&gt;naive=&gt; Simple. </li><li>Politics is completely complicated. Pre tended to a good man, pretended to be a bad man. The real contains fake, the fake contains real. Repeated unlimited. But God know everything. </li><li>Christians must accept a fact that the world become worse and the kingdom of God become greater. </li><li>The western democracy system will be destroyed by the east dragon.  But the kingdom of Heaven will reach to the end of the earth. </li><li>Nerve connects to God.&nbsp;</li></ol>",
         "1116": "Dennis lead",
-        "1117": "",
+        "1117": "Uo00p",
         "1122": "<br>",
         "1123": "Pc off",
         "1129": "<br>",
