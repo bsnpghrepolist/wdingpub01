@@ -16,7 +16,7 @@ var MyBiblicalDiary = {
         "1116": "<br>",
         "1122": "Pc off",
         "1129": "<br>",
-        "1130": "a sdf asd ads&nbsp;",
+        "1130": "WD lead&nbsp;",
         "0105": "as"
     },
     "2023": {
