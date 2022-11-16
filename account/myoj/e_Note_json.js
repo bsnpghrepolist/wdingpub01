@@ -17764,7 +17764,7 @@ var _bnotes=
             "6": "",
             "7": "",
             "8": "",
-            "9": "",
+            "9": "<ol><li>Honor vs praise, glorify? Difference?</li></ol>",
             "10": "",
             "11": "",
             "12": "",
