@@ -15,7 +15,7 @@ var MyBiblicalDiary = {
         "1115": "<ol><li>Faith=&gt;Honest heart =&gt;naive=&gt; Simple. </li><li>Police is completely complicated. Pre tended to a good man, pretended to be a bad man. The real contains fake, the fake contains real. Repeated unlimited. But God know everything.&nbsp;</li></ol>",
         "1116": "<br>",
         "1122": "Pc off",
-        "1129": "Wd lead",
+        "1129": "<br>",
         "1130": "a sdf asd ads&nbsp;",
         "0105": "as"
     },
