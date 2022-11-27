@@ -17,6 +17,7 @@ var MyBiblicalDiary = {
         "1117": "Uo00p",
         "1122": "<br>",
         "1123": "Pc off",
+        "1127": "The story of the Jesus is the story above all stories.&nbsp;",
         "1129": "<br>",
         "1130": "WD lead&nbsp;",
         "0105": "as"
