@@ -25083,7 +25083,7 @@ var CUVsen=
     "Mat": {
         "1": {
             "1": " Abraham 的后裔、 David 的子孙、 Jesus  Christ 的家谱．〔后裔子孙原文都作儿子下同〕",
-            "2": " Abraham 生 Issac ． Issac 生 James ． James 生 Judas 和他的弟兄．",
+            "2": "Abraham 生 Issac ． Issac 生 Jacob ． Jacob 生 Judas 和他的弟兄．",
             "3": " Judas 从 Tamar 氏生 Peraz 和 Zerah ． Peraz 生希斯仑．希斯仑生亚 Ram ．",
             "4": "亚 Ram 生 Amminadab ． Amminadab 生 Nahshon ． Nahshon 生 Zalmon ．",
             "5": " Zalmon 从 Rahab 氏生 Boaz ． Boaz 从 Ruth 氏生 Obed ． Obed 生 Jesse ．",
