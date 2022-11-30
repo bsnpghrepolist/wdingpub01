@@ -592,7 +592,7 @@ var _bnotes=
             "34": ""
         },
         "22": {
-            "1": "",
+            "1": "<ol><li>One of challenge in my spiritual life. </li><li>Not Show up but internally. </li><li>To give son or moneys to God. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
