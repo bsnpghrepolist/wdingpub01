@@ -19,7 +19,7 @@ var MyBiblicalDiary = {
         "1123": "Pc off",
         "1127": "The story of the Jesus is the story above all stories.&nbsp;",
         "1129": "<br>",
-        "1130": "WD lead p116.&nbsp;",
+        "1130": "WD lead p116.&nbsp;<div><br></div><div>1. Steward functions responsibilities&nbsp;</div>",
         "0105": "as"
     },
     "2023": {
