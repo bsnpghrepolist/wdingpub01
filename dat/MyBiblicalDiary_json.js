@@ -23,6 +23,7 @@ var MyBiblicalDiary = {
         "1206": "7:pm doc",
         "1207": "Greg work.&nbsp;",
         "1214": "7:00",
+        "1221": "7pm",
         "0105": "as"
     },
     "2023": {
