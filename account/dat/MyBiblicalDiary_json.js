@@ -20,6 +20,7 @@ var MyBiblicalDiary = {
         "1127": "The story of the Jesus is the story above all stories.&nbsp;",
         "1129": "<br>",
         "1130": "WD lead p116.&nbsp;<div><br></div><div>1. Steward functions responsibilities&nbsp;</div><div>A) assist the lord to manage the property.&nbsp;</div><div>B) understanding the will of the lord.&nbsp;</div><div>C) faithful to the lord.&nbsp;</div><div>D) it’s not about how much. But about the %.&nbsp;</div><div><br></div><div>Worship = sacrifice + praise + prayer</div><div><br></div><div>Two ways of offering:&nbsp;</div><div>Give&nbsp;</div><div>Buy</div><div><br></div><div><br></div><div>Some concerns:</div><div>1) have no money,&nbsp;</div><div>2) shy&nbsp;</div><div>3) compared w other.&nbsp;</div><div>4) embarrassing for nonbelievers&nbsp;</div><div>5) personal mission vs church&nbsp;</div><div>6)&nbsp;</div>",
+        "1207": "Greg work.&nbsp;",
         "0105": "as"
     },
     "2023": {
