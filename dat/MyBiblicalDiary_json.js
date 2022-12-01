@@ -27,6 +27,6 @@ var MyBiblicalDiary = {
         "0105": "as"
     },
     "2023": {
-        "0104": "w<ol><li>ew</li></ol>"
+        "0104": "7:00pm"
     }
 }
