@@ -2,7 +2,15 @@ var _bnotes=
 {
     "Gen": {
         "1": {
+<<<<<<< HEAD
             "1": "<ol><li>Jhn1:1 l</li><li> Background service. </li><li>Elohim is Plural form, not only means the triune God, but also means God is relational God. The relationship is from God and for God. </li><li>Relationship is a fundamental element of the culture. </li><li>Culture is an environment with a complicated net of the relationships. </li><li>Cultured relationships can produce fruits. </li><li>Before Jesus, we knew only partially knew god who is powerful. Jesus show all nature of God. </li><li>Chinese language cannot tell the plural. </li></ol>",
+=======
+<<<<<<< HEAD
+            "1": "<ol><li>test</li><li>Jhn1:1 </li><li> Background service. </li><li>Elohim is Plural form, not only means the triune God, but also means God is relational God. The relationship is from God and for God. </li><li>Relationship is a fundamental element of the culture. </li><li>Culture is an environment with a complicated net of the relationships. </li><li>Cultured relationships can produce fruits. </li><li>Before Jesus, we knew only partially knew god who is powerful. Jesus show all nature of God. </li><li>Chinese language cannot tell the plural. </li></ol>",
+=======
+            "1": "<ol><li>Jhn1:1 &nbsp;&nbsp;</li><li>&nbsp;Background service.&nbsp;</li><li>Elohim is Plural form, not only means the triune God, but also means God is relational God. The relationship is from God and for God.&nbsp;</li><li>Relationship is a fundamental element of the culture.&nbsp;</li><li>Culture is an environment with a complicated net of the relationships.&nbsp;</li><li>Cultured relationships can produce fruits.&nbsp;</li><li>Before Jesus, we knew only partially knew god who is powerful. Jesus show all nature of God.&nbsp;</li><li>Chinese language cannot tell the plural.&nbsp;</li></ol>",
+>>>>>>> fdbe8dcb9e1d617f6f44dfee7ddab5feb167c385
+>>>>>>> f0fcd25db5d35ce7890af512e4ba864481092da3
             "2": "<ol><li>Water analog to trinity. </li><li>formless Jhn1:1</li><li>invisible</li><li>Jesus walked on waters. (Mat14:26) (Mak6:48) (Jhn6:19) </li><li>Triune: God, Spirit and Jesus. </li></ol>",
             "3": "\n<ol>\n\t<li>in Pro8:30. God said, Jesus finished. Spirit is light.&nbsp;</li>\n\t<li>we plural&nbsp;</li>\n\t<li>&nbsp;light is Jesus&nbsp;</li>\n\t<li>&nbsp;spirit over water Gen1:2 and Mat14:25</li>\n\t<li>uu</li>\n</ol>\n",
             "4": "<ol><li>--</li></ol>",
@@ -592,7 +600,7 @@ var _bnotes=
             "34": ""
         },
         "22": {
-            "1": "",
+            "1": "<ol><li>One of challenge in my spiritual life. </li><li>Not Show up but internally. </li><li>To give son or moneys to God. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
