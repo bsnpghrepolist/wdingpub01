@@ -2,7 +2,7 @@ var _bnotes=
 {
     "Gen": {
         "1": {
-            "1": "<ol><li>Jhn1:1 </li><li> Background service. </li><li>Elohim is Plural form, not only means the triune God, but also means God is relational God. The relationship is from God and for God. </li><li>Relationship is a fundamental element of the culture. </li><li>Culture is an environment with a complicated net of the relationships. </li><li>Cultured relationships can produce fruits. </li><li>Before Jesus, we knew only partially knew god who is powerful. Jesus show all nature of God. </li><li>Chinese language cannot tell the plural. </li></ol>",
+            "1": "<ol><li>Jhn1:1 g</li><li> Background service. </li><li>Elohim is Plural form, not only means the triune God, but also means God is relational God. The relationship is from God and for God. </li><li>Relationship is a fundamental element of the culture. </li><li>Culture is an environment with a complicated net of the relationships. </li><li>Cultured relationships can produce fruits. </li><li>Before Jesus, we knew only partially knew god who is powerful. Jesus show all nature of God. </li><li>Chinese language cannot tell the plural. </li></ol>",
             "2": "<ol><li>Water analog to trinity. </li><li>formless Jhn1:1</li><li>invisible</li><li>Jesus walked on waters. (Mat14:26) (Mak6:48) (Jhn6:19) </li><li>Triune: God, Spirit and Jesus. </li></ol>",
             "3": "\n<ol>\n\t<li>in Pro8:30. God said, Jesus finished. Spirit is light.&nbsp;</li>\n\t<li>we plural&nbsp;</li>\n\t<li>&nbsp;light is Jesus&nbsp;</li>\n\t<li>&nbsp;spirit over water Gen1:2 and Mat14:25</li>\n\t<li>uu</li>\n</ol>\n",
             "4": "<ol><li>--</li></ol>",
