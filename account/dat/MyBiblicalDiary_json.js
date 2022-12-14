@@ -22,6 +22,7 @@ var MyBiblicalDiary_json =
         "1129": "<br>",
         "1130": "WD lead&nbsp;",
         "1214": "7:00 pm. ",
+        "1221": "Spiri",
         "0105": "as"
     },
     "2023": {
