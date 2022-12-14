@@ -1,4 +1,5 @@
-var MyBiblicalDiary = {
+var MyBiblicalDiary_json = 
+{
     "2021": {
         "0113": "trt",
         "0106": "uu<ol><li>ui</li><li>oop</li></ol>",
@@ -20,6 +21,7 @@ var MyBiblicalDiary = {
         "1127": "The story of the Jesus is the story above all stories.&nbsp;",
         "1129": "<br>",
         "1130": "WD lead&nbsp;",
+        "1214": "7:00 pm. ",
         "0105": "as"
     },
     "2023": {
