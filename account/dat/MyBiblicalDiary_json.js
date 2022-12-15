@@ -26,6 +26,7 @@ var MyBiblicalDiary_json =
         "0105": "as"
     },
     "2023": {
-        "0104": ""
+        "0104": "",
+        "0120": "Flight&nbsp;"
     }
 }
