@@ -23,7 +23,7 @@ var MyBiblicalDiary_json =
         "1130": "WD lead&nbsp;",
         "1214": "P141, 7:00 pm. ",
         "1221": "P153, Spiri",
-        "0105": "as<br><br>Contrast a stability of the handbook to the venerable of the inscriptions, &nbsp;<br><br>Rich Gospel information can be extracted from every pictograph, but none of them is new for us today from the biblical perspective.&nbsp;"
+        "0105": "as<br><br>Contrast the stability of the handbook to the venerable of the inscriptions, &nbsp;<br><br>Rich Gospel information can be extracted from every pictograph, but none of them is new for us today from the biblical perspective.&nbsp;"
     },
     "2023": {
         "0104": "700pm",
