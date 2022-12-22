@@ -23,7 +23,7 @@ var MyBiblicalDiary_json =
         "1130": "WD lead&nbsp;",
         "1214": "P141, 7:00 pm. ",
         "1218": "<span style=\"font-family: -webkit-standard; font-size: medium; background-color: rgb(250, 235, 215);\">as</span><br style=\"font-family: -webkit-standard; background-color: rgb(250, 235, 215);\"><br style=\"font-family: -webkit-standard; background-color: rgb(250, 235, 215);\"><span style=\"font-family: -webkit-standard; font-size: medium; background-color: rgb(250, 235, 215);\">Contrast the stability of the handbook to the venerable of the inscriptions, &nbsp;</span><br style=\"font-family: -webkit-standard; background-color: rgb(250, 235, 215);\"><br style=\"font-family: -webkit-standard; background-color: rgb(250, 235, 215);\"><span style=\"font-family: -webkit-standard; font-size: medium; background-color: rgb(250, 235, 215);\">Rich Gospel information can be extracted from every pictograph, but none of them is new for us today from the biblical perspective.&nbsp;</span>",
-        "1221": "P153, Spiri",
+        "1221": "P153, Spiri<div>Dennis: sister (Larry) sick. Brother. Infortri passion.&nbsp;</div><div>Christians eve dinner.&nbsp;</div><div><br></div><div>Wei: &nbsp;Charlie.&nbsp;</div><div><br></div><div>Jerry. Coco each trip. Brother in law (shops life)</div><div><br></div><div>Jerry: &nbsp;new grand daughter. Bradly (son).&nbsp;</div><div><br></div>",
         "0105": "as<br><br>Contrast the stability of the handbook to the venerable of the inscriptions, &nbsp;<br><br>Rich Gospel information can be extracted from every pictograph, but none of them is new for us today from the biblical perspective.&nbsp;"
     },
     "2023": {
