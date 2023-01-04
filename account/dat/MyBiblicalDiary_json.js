@@ -29,7 +29,7 @@ var MyBiblicalDiary_json =
         "0105": "as<br><br>Contrast the stability of the handbook to the venerable of the inscriptions, &nbsp;<br><br>Rich Gospel information can be extracted from every pictograph, but none of them is new for us today from the biblical perspective.&nbsp;"
     },
     "2023": {
-        "0104": "700pm",
+        "0104": "700pm&nbsp;<div>p165</div>",
         "0120": "Flight&nbsp;"
     }
 }
