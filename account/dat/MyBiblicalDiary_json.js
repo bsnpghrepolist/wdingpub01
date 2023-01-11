@@ -31,6 +31,6 @@ var MyBiblicalDiary_json =
     "2023": {
         "0104": "700pm&nbsp;<div>p165</div><div>Dennis: courses presentation. conversation. Brother-in-law health.&nbsp;</div><div>Jerry: church member tumor, 2nd cancer treatment.&nbsp;</div><div>Wei: covid-19 recovery</div><div>Greg: Bradly (son), Sister.&nbsp;&nbsp;</div>",
         "0120": "Flight&nbsp;",
-        "0111": "700pm<div>Man and woman created equally:</div><div>1. Passively&nbsp;</div><div>2. Image of god</div><div>3.&nbsp;</div>"
+        "0111": "700pm<div>Man and woman created equally:</div><div>1. Passively&nbsp;</div><div>2. Image of god</div><div>3. Purpose is the same: manage earth.&nbsp;</div><div>4.&nbsp;</div>"
     }
 }
