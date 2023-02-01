@@ -25789,7 +25789,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": "",
+            "22": "<ol><li>He must exercise his headship.</li><li>He must never attempt to force her submission by making her afraid of emotional and physical consequences.</li><li>He should not be defensive about his position and aggressive in exerting control. </li></ol>",
             "23": "",
             "24": "",
             "25": "",
