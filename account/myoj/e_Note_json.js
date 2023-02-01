@@ -31631,7 +31631,7 @@ var _bnotes=
             "26": "",
             "27": "",
             "28": "",
-            "29": "<ol><li>she over cares of herself.</li></ol>",
+            "29": "<ol><li>she over cares of herself. Every day what she think is food. food and medicine are the same source of body.</li></ol>",
             "30": "",
             "31": "",
             "32": "",
