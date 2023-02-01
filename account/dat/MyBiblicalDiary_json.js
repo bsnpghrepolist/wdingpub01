@@ -33,6 +33,7 @@ var MyBiblicalDiary_json =
         "0120": "Flight&nbsp;",
         "0111": "700pm<div>Man and woman created equally:</div><div>1. Passively </div><div>2. Image of god</div><div>3. Purpose is the same: manage earth. </div><div>4. Providence is the same. Same food. </div><div><br></div><div>How different </div><div>1. Sequence </div><div>2. Closeness to god. </div><div>3. </div><div><br></div><div>pray request:</div><div>dennis: 2 sisters, nephews. </div><div>jerry: lexin</div><div>greg: retreat. orlando, disciple.</div><div><br></div><div><br></div><div><br></div><div><br></div>",
         "0118": "p195.&nbsp;<div>Jerry: lexing, fellowship</div><div>Dennis: \"God is not dead.\"&nbsp; Unintended selfish.</div><div><br></div><div>Ding: Thanks God for recovery. Continue pray for this family be blessed and glory God, fellow Jesus.</div><div><br></div><div><br></div><div><br></div>",
-        "0202": "10:am<div>P210. Col 3:19</div><div><br></div>"
+        "0202": "10:am<div>P210. Col 3:19</div><div><br></div>",
+        "0209": "10am, p222, eph5:33<div><br></div>"
     }
 }
