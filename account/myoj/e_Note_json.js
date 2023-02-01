@@ -32855,7 +32855,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "<ol><li>what hinder my prayers? its' wife, church.</li></ol>",
             "8": "",
             "9": "",
             "10": "",
