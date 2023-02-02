@@ -35,6 +35,7 @@ var MyBiblicalDiary_json =
         "0118": "p195.&nbsp;<div>Jerry: lexing, fellowship</div><div>Dennis: \"God is not dead.\"&nbsp; Unintended selfish.</div><div><br></div><div>Ding: Thanks God for recovery. Continue pray for this family be blessed and glory God, fellow Jesus.</div><div><br></div><div><br></div><div><br></div>",
         "0202": "10:am<div>P210. Col 3:19</div><div><br></div>",
         "0209": "10am, p222, eph5:33<div><br></div>",
-        "0223": "wei i min testi"
+        "0223": "wei i min testi",
+        "0216": "Jerry testimony<div><br><div><br></div></div>"
     }
 }
