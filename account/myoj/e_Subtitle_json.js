@@ -7,7 +7,7 @@ var _Max_struct={
             "4": "",
             "5": "",
             "6": "<a>  #Day-2   </a>",
-            "7": "<a class=\"e_Subtitle\">#Day-2</a>",
+            "7": " ",
             "8": "",
             "9": "<a class=\"e_Subtitle\">#Day-3</a>",
             "10": "",
