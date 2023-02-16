@@ -36,7 +36,7 @@ var MyBiblicalDiary_json =
         "0202": "10:am<div>P210. Col 3:19</div><div>Gary: pray for Susan, cathlic, adop child for single mom. Bro passed away.</div><div>wied: </div><div>Dennis: a guy Nilson, pikness. recarnation. hechritan, salvation, kidnyes,&nbsp;</div><div>Jerry: Yiling's bros &amp; sis.</div><div><br></div>",
         "0209": "10am, p222, eph5:33, Greg Testimony.<div>Dennis: grandson Ryla.<br>Nelson, Jeff and Randy, Joe,&nbsp;</div><div>Greg: Suson bro passed away. wisdom to share with her. Ross.</div><div><br><div><br><div><br><div><br><div><br><div><div><br></div></div></div></div></div></div></div>",
         "0223": "wei i min testi",
-        "0216": "Jerry testimony. defer.<div>Dennis: Nelson. Adams Drews, in church.<br><div><br><div><br><div><br></div></div></div></div>",
+        "0216": "Jerry testimony. defer.<div>Dennis: Nelson. Adams Drews, in church.</div><div>Jerry: trip&nbsp;</div><div>WD: pray for the safe trip, and wisdom of preaching, control the amygadala.&nbsp;</div><div>Greg: Susan Sunday memorial service. greving process.&nbsp;</div><div>comfort Ross.<br><div><br><div><br><div><br></div></div></div></div>",
         "0309": "1 min testimony.<div><br></div>"
     }
 }
