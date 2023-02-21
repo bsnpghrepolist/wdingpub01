@@ -38,6 +38,7 @@ var MyBiblicalDiary_json =
         "0223": "wei i min testi",
         "0216": "Jerry testimony. defer.<div>Dennis: Nelson. Adams Drews, in church.</div><div>Jerry: trip&nbsp;</div><div>WD: pray for the safe trip, and wisdom of preaching, control the amygadala.&nbsp;</div><div>Greg: Susan Sunday memorial service. greving process.&nbsp;</div><div>comfort Ross. 10,12 sons.&nbsp;<br><div><br><div><br><div><br></div></div></div></div>",
         "0309": "1 min testimony.<div><br></div>",
-        "0220": "BEijing arrived.&nbsp;"
+        "0220": "BEijing arrived.&nbsp;",
+        "0221": "XieHe hospital&nbsp;"
     }
 }
