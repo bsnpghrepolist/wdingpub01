@@ -32176,7 +32176,7 @@ var _bnotes=
             "6": "",
             "7": "",
             "8": "<ol><li>Rom1:16 shame. </li></ol>",
-            "9": "",
+            "9": "<ol><li>Do not be proud or arogant as Christian in the world. He saved us and called us to holy life. not because of anything we have done but because of his own purpose and grace. This grace was given us in Christ Jesus before the beginning of time. </li><li>What is his own purpose on us is what we need to explore and live out in the world.</li><li>As a missionary, do not expect every one will turn to Him immediately. It is His plan and purpose.</li></ol>",
             "10": "",
             "11": "",
             "12": "",
