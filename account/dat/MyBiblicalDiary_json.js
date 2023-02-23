@@ -35,7 +35,7 @@ var MyBiblicalDiary_json =
         "0118": "p195.&nbsp;<div>Jerry: lexing, fellowship</div><div>Dennis: \"God is not dead.\"&nbsp; Unintended selfish.</div><div><br></div><div>Ding: Thanks God for recovery. Continue pray for this family be blessed and glory God, fellow Jesus.</div><div><br></div><div><br></div><div><br></div>",
         "0202": "10:am<div>P210. Col 3:19</div><div>Gary: pray for Susan, cathlic, adop child for single mom. Bro passed away.</div><div>wied: </div><div>Dennis: a guy Nilson, pikness. recarnation. hechritan, salvation, kidnyes,&nbsp;</div><div>Jerry: Yiling's bros &amp; sis.</div><div><br></div>",
         "0209": "10am, p222, eph5:33, Greg Testimony.<div>Dennis: grandson Ryla.<br>Nelson, Jeff and Randy, Joe,&nbsp;</div><div>Greg: Suson bro passed away. wisdom to share with her. Ross.</div><div><br><div><br><div><br><div><br><div><br><div><div><br></div></div></div></div></div></div></div>",
-        "0223": "wei i min testi",
+        "0223": "wei i min testi.<div>wei: control temp</div><div>Jerry:1) 2) church retreat. </div><div>D: nelson</div><div>G: susan's family.&nbsp; &nbsp;<br><div><br><div><br></div></div></div>",
         "0216": "Jerry testimony. defer.<div>Dennis: Nelson. Adams Drews, in church.</div><div>Jerry: trip&nbsp;</div><div>WD: pray for the safe trip, and wisdom of preaching, control the amygadala.&nbsp;</div><div>Greg: Susan Sunday memorial service. greving process.&nbsp;</div><div>comfort Ross. 10,12 sons.&nbsp;<br><div><br><div><br><div><br></div></div></div></div>",
         "0309": "1 min testimony.<div><br></div>",
         "0220": "BEijing arrived.&nbsp;",
