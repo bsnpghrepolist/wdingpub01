@@ -40,6 +40,7 @@ var MyBiblicalDiary_json =
         "0309": "1 min testimony.<div><br></div>",
         "0220": "BEijing arrived.&nbsp;",
         "0221": "XieHe hospital&nbsp;",
-        "0222": "xh"
+        "0222": "xh",
+        "0227": "Qhong am appt<div><br></div>"
     }
 }
