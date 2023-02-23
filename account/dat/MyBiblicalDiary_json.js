@@ -41,7 +41,7 @@ var MyBiblicalDiary_json =
         "0220": "BEijing arrived.&nbsp;",
         "0221": "XieHe hospital&nbsp;",
         "0222": "xh",
-        "0227": "Qhong am appt<div><br></div>",
+        "0227": "Qhong am eye appt<div><br></div>",
         "0301": "1pm physical exam"
     }
 }
