@@ -43,7 +43,7 @@ var MyBiblicalDiary_json =
         "0222": "xh",
         "0227": "Qhong am eye appt<div><br></div>",
         "0301": "1pm physical exam",
-        "0302": "8pm",
+        "0302": "8pm. p259",
         "0225": "Zhao Gang"
     }
 }
