@@ -44,6 +44,7 @@ var MyBiblicalDiary_json =
         "0227": "Qhong am eye appt<div><br></div>",
         "0301": "1pm physical exam",
         "0302": "8pm. p259",
-        "0225": "Zhao Gang"
+        "0225": "Zhao Gang",
+        "0224": "Eye exam.&nbsp;"
     }
 }
