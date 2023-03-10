@@ -6542,7 +6542,7 @@ var CUVsen=
             "1": " Israel 人在 river Jordan 外向日出之地击杀二王、得他们的地、就是从 Arnon 谷直到 Mount Hermon 、并东边的全 Arabah 之地。",
             "2": "这二王、有住 Heshbon  Amorites 人的王 Sihon ．他所管之地、是从 Arnon 谷边的 Aroer 和谷中的城、并 Gilead 一半、直到 Ammon 人的境界、 Jabbok 、",
             "3": "与 river Jordan 东边的 Arabah 、直到 Chinneroth 海、又到 Arabah 的海、就是 Dead sea 、通伯 Jesse 末的路、以及南方、直到 Pisgah 的山根．",
-            "4": "又有 Bashan 王 Og ．他是 Rephaites 人所剩下的、住在亚斯他录和 Edrei 。",
+            "4": "又有 Bashan 王 Og ．他是 Rephaites 人所剩下的、住在 Ashtaroth 和 Edrei 。",
             "5": "他所管之地、是 Mount Hermon  Zacher 、 Bashan 全地、直到 Geshur 人和 Maacah 人的境界、并 Gilead 一半、直到 Heshbon 王 Sihon 的境界。",
             "6": "这二王是 HYWY 仆人 Moses 和 Israel 人所击杀的． HYWY 仆人 Moses 将他们的地赐给 Reuben 人、 Gad 人、和 Manasseh 半支派的人为业。",
             "7": " Joshua 和 Israel 人在 river Jordan 西击杀了诸王．他们的地、是从 Lebanon 平原的 Baal  Gad 、直到上 Seir 的 mount Halak ． Joshua 就将那地按着 Israel 支派的宗族分给他们为业．",
