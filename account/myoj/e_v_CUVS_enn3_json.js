@@ -9765,7 +9765,7 @@ var CUVsen=
             "30": " Ahijah 将自己穿的那件新衣撕成十二片．",
             "31": "对 Jeroboam 说、你可 Irad 十片． HYWY  Israel 的　神如此说、我必将国从 Solomon 手里夺回、将十个支派赐给你。",
             "32": "（我因仆人 David 、和我在 Israel 众支派中所选择的 Jerusalem 城的缘故、仍给 Solomon 留一个支派）",
-            "33": "因为他离弃我、敬拜 Sidon 人的女神亚斯他录、 Moab 的神 Chilmad 、和 Ammon 人的神 Melech 公、没有遵从我的道、行我眼中看为正的事、守我的律例典章、像他父亲 David 一样。",
+            "33": "因为他离弃我、敬拜 Sidon 人的女神 Ashtaroth、 Moab 的神 Chilmad 、和 Ammon 人的神 Melech 公、没有遵从我的道、行我眼中看为正的事、守我的律例典章、像他父亲 David 一样。",
             "34": "但我不从他手里将全国夺回、使他终身为君、是因我所拣选的仆人 David 谨守我的诫命律例．",
             "35": "我必从他儿子的手里将国夺回、以十个支派赐给你．",
             "36": "还留一个支派给他的儿子、使我仆人 David 在我所选择立我名的 Jerusalem 城里、在我面前、长有灯光。",
