@@ -7852,7 +7852,7 @@ var _bnotes=
             "18": "",
             "19": "",
             "20": "",
-            "21": "<ol><li>The ark of the Lord represents the Holy Bible. Those who read the Bible for selfish purposes instead of glorifying God will be punished.</li></ol>"
+            "21": "<ol><li>The ark of the Lord represents the Holy Bible. Those who read the Bible for selfish purposes instead of glorifying God will be punished.</li><li>Why not to worship the ark of the Lord instead of taking it away? </li></ol>"
         },
         "7": {
             "1": "",
