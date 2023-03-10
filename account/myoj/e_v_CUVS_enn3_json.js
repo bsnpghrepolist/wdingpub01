@@ -9737,7 +9737,7 @@ var CUVsen=
             "2": "论到这些国的人、 HYWY 曾晓谕 Israel 人、说、你们不可与他们往来相通．因为他们必诱惑你们的心、去随从他们的神． Solomon 却恋爱这些女子。",
             "3": " Solomon 有妃七百、都是公主．还有嫔三百．这些妃嫔诱惑他的心。",
             "4": " Solomon 年老的时候、他的妃嫔诱惑他的心、去随从别神、不效法他父亲 David 、诚诚实实的顺服 HYWY 他的　神。",
-            "5": "因为 Solomon 随从 Sidon 人的女神亚斯他录、和 Ammon 人可憎的神 Melech 公。",
+            "5": "因为 Solomon 随从 Sidon 人的女神 Ashtaroth、和 Ammon 人可憎的神 Melech 公。",
             "6": " Solomon 行 HYWY 眼中看为恶的事、不效法他父亲 David 、专心顺从 HYWY 。",
             "7": " Solomon 为 Moab 可憎的神 Chilmad 、和 Ammon 人可憎的神摩洛、在 Jerusalem 对面的山上建筑丘坛。",
             "8": "他为那些向自己的神烧香献祭的外邦女子、就是他娶来的妃嫔、也是这样行。",
