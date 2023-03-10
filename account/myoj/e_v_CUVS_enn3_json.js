@@ -5212,7 +5212,7 @@ var CUVsen=
             "1": "以下所记的、是 Moses 在 river Jordan 东的 Jeshimon 、 Zuph 对面的 Arabah 、就是 Balaam 、 Tophel 、 Laban 、 Hazeroth 、 Dizahab 中间、向 Israel 众人所说的话。",
             "2": "从 Horeb 山经过 Mount Seir 、到 Kadesh 巴 Neah 、有十一天的路程。",
             "3": "出 Egypt 第四十年十一月初一日、 Moses 照 HYWY 借着他所吩咐 Israel 人的话、都晓谕他们。",
-            "4": "那时、他已经击杀了住 Heshbon 的 Amorites 王 Sihon 、和住 Edrei 亚斯他录的 Bashan 王 Og 。",
+            "4": "那时、他已经击杀了住 Heshbon 的 Amorites 王 Sihon 、和住 Edrei、Ashtaroth 的 Bashan 王 Og 。",
             "5": " Moses 在 river Jordan 东的 Moab 地、讲律法说、",
             "6": " HYWY 我们的　神在 Horeb 山晓谕我们说、你们在这山上住的日子够了．",
             "7": "要起行转到 Amorites 人的山地、和靠近这山地的各处、就是 Arabah 、山地、 Shephelah 、南地、沿海一带 Canaan 人的地、并 Lebanon 山又到 Euphrates 大河．",
