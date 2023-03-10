@@ -11237,7 +11237,7 @@ var CUVsen=
             "68": " Jokmeam 与其郊野、伯和仑与其郊野、",
             "69": " Ajalon 与其郊野、 Gath  Rimmon 与其郊野。",
             "70": " Kohath 族其余的人在 Manasseh 半支派的地中、得了 Aner 与其郊野、 Bileam 与其郊野。",
-            "71": " Gershon 族、在 Manasseh 半支派的地中、得了 Bashan 的 Golan 与其郊野、亚斯他录与其郊野。",
+            "71": "Gershon 族、在 Manasseh 半支派的地中、得了 Bashan 的 Golan 与其郊野、Ashtaroth与其郊野。",
             "72": "又在 Issachar 支派的地中、得了 Kedesh 与其郊野、 Daberath 与其郊野、",
             "73": " Ramoth 与其郊野、 Anem 与其郊野。",
             "74": "在 Asher 支派的地中、得了玛沙与其郊野、 Abdon 与其郊野、",
