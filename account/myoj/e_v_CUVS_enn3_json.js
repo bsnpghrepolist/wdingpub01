@@ -7703,7 +7703,7 @@ var CUVsen=
     },
     "1Sa": {
         "1": {
-            "1": " Ephraim 山地的 Raamah 琐非、有一个 Ephraim 人、名叫 Elkanah 、是 Zuph 的玄孙、 Tohu 的曾孙、 Elihu 的孙子、 Jeroham 的儿子。",
+            "1": "Ephraim 山地的 Raamah-Zuphite、有一个 Ephraim 人、名叫 Elkanah 、是 Zuph 的玄孙、 Tohu 的曾孙、 Elihu 的孙子、 Jeroham 的儿子。",
             "2": "他有两个妻、一名 Hannah 、一名 Peninnah 、 Peninnah 有儿女、 Hannah 没有儿女。",
             "3": "这人每年从本城上到 Shiloh 、敬拜祭祀万军之 HYWY ．在那里有 Ili 的两个儿子、 Hophni 、 Phinehas 、当 HYWY 的祭司。",
             "4": " Elkanah 每逢献祭的日子、将祭肉分给他的妻 Peninnah 和 Peninnah 所生的儿女。",
