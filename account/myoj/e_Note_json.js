@@ -7895,7 +7895,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": ""
+            "22": "<ol><li>What we pray for is not always good for God. God may listen our pray that is not pleased to HIM.</li></ol>"
         },
         "9": {
             "1": "",
