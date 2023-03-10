@@ -7858,7 +7858,7 @@ var CUVsen=
             "1": " Kiriatharim 人就下来、将 HYWY 的约柜接上去、放在山上 Abinadab 的家中．分派他儿子 Eleazar 、看守 HYWY 的约柜。",
             "2": "约柜在 Kiriatharim 许久．过了二十年、 Israel 全家都倾向 HYWY 。",
             "3": " Samuel 对 Israel 全家说、你们若一心归顺 HYWY 、就要把外邦的神、和亚斯他录、从你们中间除掉、专心归向 HYWY 、单单的事奉他．他必救你们脱离 Philistia 人的手。",
-            "4": " Israel 人就除掉诸 Baal 、和亚斯他录、单单的事奉 HYWY 。",
+            "4": "Israel 人就除掉诸 Baal 、和 Ashtaroth、单单的事奉 HYWY 。",
             "5": " Samuel 说、要使 Israel 众人聚集在 Mizpah 、我好为你们祷告 HYWY 。",
             "6": "他们就聚集在 Mizpah 、打水浇在 HYWY 面前、当日禁食说、我们得罪了 HYWY ．于是 Samuel 在 Mizpah 审判 Israel 人。",
             "7": " Philistia 人听见 Israel 人聚集在 Mizpah 、 Philistia 的首领就上来要攻击 Israel 人． Israel 人听见就惧怕 Philistia 人。",
