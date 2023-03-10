@@ -6576,7 +6576,7 @@ var CUVsen=
             "9": "是从 Arnon 谷边的 Aroer 和谷中的城、并 Medeba 的全平原、直到 Dibon 、",
             "10": "和在 Heshbon 作王 Amorites 王 Sihon 的诸城、直到 Ammon 人的境界。",
             "11": "又有 Gilead 地、 Geshur 人、 Maacah 人的地界．并 Hermon 全山． Bashan 全地、直到 Zacher 、",
-            "12": "又有 Bashan 王 Og 的全国．他在亚斯他录和 Edrei 作王、 Rephaites 人所存留的只剩下他．这些地的人、都是 Moses 所击杀所赶逐的。",
+            "12": "又有 Bashan 王 Og 的全国．他在 Ashtaroth 和 Edrei 作王、 Rephaites 人所存留的只剩下他．这些地的人、都是 Moses 所击杀所赶逐的。",
             "13": " Israel 人却没有赶逐 Geshur 人、 Maacah 人、这些人仍住在 Israel 中、直到今日。",
             "14": "只是 Levi 支派、 Moses 〔原文作他〕没有把产业分给他们．他们的产业、乃是献与 HYWY  Israel 　神的火祭．正如 HYWY 所应许他们的。",
             "15": " Moses 按着 Reuben 支派的宗族、分给他们产业．",
