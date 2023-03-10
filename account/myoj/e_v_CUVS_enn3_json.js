@@ -6595,7 +6595,7 @@ var CUVsen=
             "28": "以上是 Gad 人按着宗族所得为业的诸城．并属城的村庄。",
             "29": " Moses 把产业分给 Manasseh 半支派、是按着 Manasseh 半支派的宗族所分的．",
             "30": "他们的境界、是从 Mahanaim 起、包括 Bashan 全地、就是 Bashan 王 Og 的全国、并在 Bashan 、 Jair 的一切城邑、共六十个。",
-            "31": " Gilead 的一半、并亚斯他录、 Edrei 、就是属 Bashan 王 Og 国的二城、是按着宗族给 Manasseh 的儿子 Machir 的一半子孙。",
+            "31": "Gilead 的一半、并 Ashtaroth、 Edrei 、就是属 Bashan 王 Og 国的二城、是按着宗族给 Manasseh 的儿子 Machir 的一半子孙。",
             "32": "以上是 Moses 在 river Jordan 东对着 Jericho 的 Moab 平原、所分给他们的产业。",
             "33": "只是 Levi 支派、 Moses 没有把产业分给他们． HYWY  Israel 的　神是他们的产业．正如 HYWY 所应许他们的。"
         },
