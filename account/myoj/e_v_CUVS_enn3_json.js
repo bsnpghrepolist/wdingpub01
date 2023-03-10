@@ -10872,7 +10872,7 @@ var CUVsen=
             "10": "又污秽 the valley of the son of Hinnom 的 Topheth 、不许人在那里使儿女经火、献给摩洛．",
             "11": "又将 Judas 列王在 HYWY 殿门旁、太监 Nathan  Melech 靠近游廊的屋子、向日头所献的马废去、且用火焚烧日车。",
             "12": " Judas 列王在 Ahoaz 楼顶上所筑的坛、和 Manasseh 在 HYWY 殿两院中所筑的坛、王都拆毁打碎了、就把灰倒在 Kidron Valley 中。",
-            "13": "从前 Israel 王 Solomon 在 Jerusalem 前、邪僻山右边、为 Sidon 人可憎的神亚斯他录、 Moab 人可憎的神 Chilmad 、 Ammon 人可憎的神 Melech 公、所筑的丘坛、王都污秽了。",
+            "13": "从前 Israel 王 Solomon 在 Jerusalem 前、邪僻山右边、为 Sidon 人可憎的神Ashtaroth、 Moab 人可憎的神 Chilmad 、 Ammon 人可憎的神 Melech 公、所筑的丘坛、王都污秽了。",
             "14": "又打碎柱像、砍下木偶、将人的骨头充满了那地方。",
             "15": "他将 Bethel 的坛、就是叫 Israel 人陷在罪里 Nebat 的儿子 Jeroboam 所筑的那坛、都拆毁焚烧、打碎成灰、并焚烧了亚舍拉。",
             "16": " Josiah 回头、看见山上的坟墓、就打发人将坟墓里的骸骨取出来、烧在坛上、污秽了坛、正如从前神人宣传 HYWY 的话。",
