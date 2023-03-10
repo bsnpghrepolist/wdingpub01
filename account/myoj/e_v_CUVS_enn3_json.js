@@ -7271,7 +7271,7 @@ var CUVsen=
             "3": "在他以后有 Gilead 人 Jair 兴起，作 Israel 的士师二十二年。",
             "4": "他有三十个儿子，骑着三十匹驴驹。他们有三十座城邑，叫作哈倭特 Jair ，直到如今，都是在 Gilead 地。",
             "5": " Jair 死了，就葬在加们。",
-            "6": " Israel 人又行 HYWY 眼中看为恶的事，去事奉诸 Baal 和亚斯他录，并 Aram 的神， Sidon 的神， Moab 的神， Ammon 人的神， Philistia 人的神，离弃 HYWY ，不事奉他",
+            "6": "Israel 人又行 HYWY 眼中看为恶的事，去事奉诸 Baal 和 Ashtaroth，并 Aram 的神， Sidon 的神， Moab 的神， Ammon 人的神， Philistia 人的神，离弃 HYWY ，不事奉他",
             "7": " HYWY 的怒气向 Israel 人发作，就把他们交在 Philistia 人和 Ammon 人的手中。",
             "8": "从那年起，他们扰害欺压 Jordan 河那边，住 Amorites 人之 Gilead 地的 Israel 人，共有十八年。",
             "9": " Ammon 人又渡过 Jordan 河去攻打 Judas 和 Benjamin ，并 Ephraim 族。 Israel 人就甚觉窘迫。",
