@@ -7963,7 +7963,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "<ol><li>Isreal and Judah showed difference?</li></ol>",
             "9": "",
             "10": "",
             "11": "",
