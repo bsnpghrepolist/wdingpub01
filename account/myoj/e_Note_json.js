@@ -7970,7 +7970,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": ""
+            "15": "<ol><li>not real rejoice: potential issues. </li><li>Not the full will of God but the will of man.</li><li>Saul was not willing in all hearts.</li><li>Samual is just a passive follower.</li><li><br></li></ol>"
         },
         "12": {
             "1": "",
