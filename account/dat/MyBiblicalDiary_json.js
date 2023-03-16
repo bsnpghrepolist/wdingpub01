@@ -52,6 +52,7 @@ var MyBiblicalDiary_json =
         "0306": "Nicole test. ",
         "0314": "Jx followup",
         "0313": "2pm teeth",
-        "0316": "skip"
+        "0316": "skip",
+        "0405": "Jx exame"
     }
 }
