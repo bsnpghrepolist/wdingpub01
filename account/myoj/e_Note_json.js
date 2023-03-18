@@ -8101,7 +8101,7 @@ var _bnotes=
             "20": "",
             "21": "",
             "22": "",
-            "23": "",
+            "23": "<ol><li>Divination = rebellion of God. </li><li>Idolatry = arrogance. </li><li>Reject the Lord = being rejected by the Lord</li><li><br></li></ol>",
             "24": "",
             "25": "",
             "26": "",
