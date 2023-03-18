@@ -8141,7 +8141,7 @@ var CUVsen=
             "23": "从　神那里来的恶魔临到 Saul 身上的时候、 David 就拿琴用手而弹、 Saul 便舒畅爽快、恶魔离了他。"
         },
         "17": {
-            "1": " Philistia 人招聚他们的军旅、要来争战．聚集在属 Judas 的 Socoh 、安营在 Socoh 和 Azekah 中间的 Epher 大悯。",
+            "1": "Philistia 人招聚他们的军旅、要来争战．聚集在属 Judas 的 Socoh 、安营在 Socoh 和 Azekah 中间的 Epher Dammim。",
             "2": " Saul 和 Israel 人也聚集、在 valley of Elah 安营、摆列队伍、要与 Philistia 人打仗。",
             "3": " Philistia 人站在这边山上、 Israel 人站在那边山上．当中有谷。",
             "4": "从 Philistia 营中出来一个讨战的人、名叫 Goliath ．是 Gath 人、身高六肘零一虎口．",
