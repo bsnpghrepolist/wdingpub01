@@ -8219,7 +8219,7 @@ var CUVsen=
             "16": "但 Israel 和 Judas 众人、都爱 David ．因为他领他们出入。",
             "17": " Saul 对 David 说、我将大女儿 Merab 给你为妻．只要你为我奋勇、为 HYWY 争战。 Saul 心里说、我不好亲手害他、要借 Philistia 人的手害他。",
             "18": " David 对 Saul 说、我是谁、我是甚么出身、我父家在 Israel 中是何等的家、岂敢作王的女婿呢。",
-            "19": " Saul 的女儿 Merab 到了当给 David 的时候、 Saul 却给了米何拉人 Adriel 为妻。",
+            "19": "Saul 的女儿 Merab 到了当给 David 的时候、 Saul 却给了 Meholah 人 Adriel 为妻。",
             "20": " Saul 的次女 Michal 爱 David ．有人告诉 Saul 、 Saul 就喜悦。",
             "21": " Saul 心里说、我将这女儿给 David 、作他的网罗、好借 Philistia 人的手害他。所以 Saul 对 David 说、你今日可以第二次作我的女婿。",
             "22": " Saul 吩咐臣仆说、你们暗中对 David 说、王喜悦你、王的臣仆也都喜爱你、所以你当作王的女婿。",
