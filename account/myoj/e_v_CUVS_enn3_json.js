@@ -8451,7 +8451,7 @@ var CUVsen=
             "3": "Saul 在 旷野 前的 Hachilah 山、在道路上安营。 David 住在 旷野 、听说 Saul 到 旷野 来追寻他．",
             "4": "就打发人去探听、便知道 Saul 果然来到。",
             "5": " David 起来、到 Saul 安营的地方、看见 Saul 和他的元帅 Ner 的儿子 Abner 睡卧之处． Saul 睡在辎重营里、百姓安营在他周围。",
-            "6": " David 对赫人 Ahimelech 、和 Zeruiah 的儿子 Joab 的兄弟 Abishai 说、谁同我下到 Saul 营里去． Abishai 说、我同你下去。",
+            "6": "David 对 Ahimelech 、和 Zeruiah 的儿子 Joab 的兄弟 Abishai 说、谁同我下到 Saul 营里去． Abishai 说、我同你下去。",
             "7": "于是 David 和 Abishai 夜间到了百姓那里、见 Saul 睡在辎重营里、他的枪在头旁、插在地上． Abner 和百姓睡在他周围。",
             "8": " Abishai 对 David 说、现在　神将你的仇敌交在你手里．求你容我拿枪将他刺透在地．一刺就成、不用再刺。",
             "9": " David 对 Abishai 说、不可害死他．有谁伸手害 HYWY 的受膏者而无罪呢。",
