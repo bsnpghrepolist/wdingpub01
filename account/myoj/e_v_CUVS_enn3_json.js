@@ -8376,7 +8376,7 @@ var CUVsen=
             "29": "David 从那里上去、住在 En Gedi 的山寨里。"
         },
         "24": {
-            "1": " Saul 追赶 Philistia 人回来、有人告诉他说、 David 在隐基底的 Jeshimon 。",
+            "1": "Saul 追赶 Philistia 人回来、有人告诉他说、 David 在 En Gedi 的 Jeshimon 。",
             "2": " Saul 就从 Israel 人中挑选三千精兵、率领他们往野羊的磐石去、寻索 David 和跟随他的人。",
             "3": "到了路旁的羊圈、在那里有洞． Saul 进去大解。 David 和跟随他的人正藏在洞里的深处。",
             "4": "跟随的人对 David 说、 HYWY 曾应许你说、我要将你的仇敌交在你手里、你可以任意待他．如今时候到了． David 就起来、悄悄的割下 Saul 外袍的衣襟。",
