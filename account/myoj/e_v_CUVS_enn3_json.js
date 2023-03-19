@@ -8372,7 +8372,7 @@ var CUVsen=
             "25": " Saul 和跟随他的人去寻找 David 。有人告诉 David 、他就下到磐石、住在 Maon 的 Jeshimon 。 Saul 听见、便在 Maon 的 Jeshimon 追赶 David 。",
             "26": " Saul 在山这边走、 David 和跟随他的人在山那边走． David 急忙躲避 Saul ．因为 Saul 和跟随他的人、四面围住 David 和跟随他的人、要拿获他们。",
             "27": "忽有使者来报告 Saul 、说、 Philistia 人犯境抢掠．请王快快回去。",
-            "28": "于是 Saul 不追赶 David 、回去攻打 Philistia 人。因此那地方名叫 Serah 哈玛希罗结。",
+            "28": "于是 Saul 不追赶 David 、回去攻打 Philistia 人。因此那地方名叫 Serah Hammahlekoth. ",
             "29": " David 从那里上去、住在隐基底的山寨里。"
         },
         "24": {
