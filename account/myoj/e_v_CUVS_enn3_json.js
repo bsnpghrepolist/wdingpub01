@@ -8400,7 +8400,7 @@ var CUVsen=
             "22": "于是 David 向 Saul 起誓、 Saul 就回家去． David 和跟随他的人、上山寨去了。"
         },
         "25": {
-            "1": " Samuel 死了． Israel 众人聚集、为他哀哭、将他葬在 Raamah 、他自己的坟墓里。〔坟墓原文作房屋〕 David 起身、下到巴 Ram 的 Jeshimon 。",
+            "1": "Samuel 死了． Israel 众人聚集、为他哀哭、将他葬在 Raamah 、他自己的坟墓里。〔坟墓原文作房屋〕 David 起身、下到巴 Maon 的旷野. ",
             "2": "在 Maon 有一个人、他的产业在 Carmel ．是一个大富户、有三千绵羊、一千山羊、他正在 Carmel 剪羊毛。",
             "3": "那人名叫 Nabal 、是 Chaleb 族的人．他的妻名叫 Abigail 、是聪明俊美的妇人． Nabal 为人刚愎凶恶。",
             "4": " David 在 Jeshimon 听见说 Nabal 剪羊毛。",
