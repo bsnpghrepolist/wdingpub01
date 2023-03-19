@@ -8446,7 +8446,7 @@ var CUVsen=
             "44": " Saul 已将他的女儿 Michal 、就是 David 的妻、给了 Gallim 人、 Laish 的儿子 Palti 为妻。"
         },
         "26": {
-            "1": " Ziph 人到 Gibea 见 Saul 、说、 David 不是在 Jeshimon 前的 Hachilah 山藏着么。",
+            "1": "Ziph 人到 Gibea 见 Saul 、说、 David 不是在 旷野 前的 Hachilah 山藏着么。",
             "2": " Saul 就起身、带领 Israel 人中挑选的三千精兵、下到 Ziph 的 Jeshimon 、要在那里寻索 David 。",
             "3": " Saul 在 Jeshimon 前的 Hachilah 山、在道路上安营。 David 住在 Jeshimon 、听说 Saul 到 Jeshimon 来追寻他．",
             "4": "就打发人去探听、便知道 Saul 果然来到。",
