@@ -8350,7 +8350,7 @@ var CUVsen=
             "3": "跟随 David 的人对他说、我们在 Judas 地这里尚且惧怕、何况往 Keilah 去攻打 Philistia 人的军旅呢。",
             "4": " David 又求问 HYWY ． HYWY 回答说、你起身、下 Keilah 去．我必将 Philistia 人交在你手里。",
             "5": " David 和跟随他的人往 Keilah 去、与 Philistia 人打仗、大大杀败他们、又夺获他们的牲畜。这样、 David 救了 Keilah 的居民。",
-            "6": " Ahimelech 的儿子 Abiathar 、逃到 Keilah 见 David 的时候、手里拿着 Epher 得。",
+            "6": "Ahimelech 的儿子 Abiathar 、逃到 Keilah 见 David 的时候、手里拿着 Ephod。",
             "7": "有人告诉 Saul 说、 David 到了 Keilah ． Saul 说、他进了有门有闩的城、困闭在里头．这是　神将他交在我手里了。",
             "8": "于是 Saul 招聚众民、要下去攻打 Keilah 城、围困 David 和跟随他的人。",
             "9": " David 知道 Saul 设计谋害他、就对祭司 Abiathar 说、将 Epher 得拿过来。",
