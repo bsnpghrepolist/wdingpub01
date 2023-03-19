@@ -8373,7 +8373,7 @@ var CUVsen=
             "26": " Saul 在山这边走、 David 和跟随他的人在山那边走． David 急忙躲避 Saul ．因为 Saul 和跟随他的人、四面围住 David 和跟随他的人、要拿获他们。",
             "27": "忽有使者来报告 Saul 、说、 Philistia 人犯境抢掠．请王快快回去。",
             "28": "于是 Saul 不追赶 David 、回去攻打 Philistia 人。因此那地方名叫 Serah Hammahlekoth. ",
-            "29": " David 从那里上去、住在隐基底的山寨里。"
+            "29": "David 从那里上去、住在 En Gedi 的山寨里。"
         },
         "24": {
             "1": " Saul 追赶 Philistia 人回来、有人告诉他说、 David 在隐基底的 Jeshimon 。",
