@@ -8353,7 +8353,7 @@ var CUVsen=
             "6": "Ahimelech 的儿子 Abiathar 、逃到 Keilah 见 David 的时候、手里拿着 Ephod。",
             "7": "有人告诉 Saul 说、 David 到了 Keilah ． Saul 说、他进了有门有闩的城、困闭在里头．这是　神将他交在我手里了。",
             "8": "于是 Saul 招聚众民、要下去攻打 Keilah 城、围困 David 和跟随他的人。",
-            "9": " David 知道 Saul 设计谋害他、就对祭司 Abiathar 说、将 Epher 得拿过来。",
+            "9": "David 知道 Saul 设计谋害他、就对祭司 Abiathar 说、将 Ephod 拿过来。",
             "10": " David 祷告说、 HYWY  Israel 的　神阿、你仆人听真了 Saul 要往 Keilah 来、为我的缘故灭城。",
             "11": " Keilah 人将我交在 Saul 手里不交． Saul 照着你仆人所听的话下来不下来． HYWY  Israel 的　神阿、求你指示仆人． HYWY 说、 Saul 必下来。",
             "12": " David 又说、 Keilah 人将我和跟随我的人、交在 Saul 手里不交． HYWY 说、必交出来．",
