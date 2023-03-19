@@ -8448,7 +8448,7 @@ var CUVsen=
         "26": {
             "1": "Ziph 人到 Gibea 见 Saul 、说、 David 不是在 旷野 前的 Hachilah 山藏着么。",
             "2": " Saul 就起身、带领 Israel 人中挑选的三千精兵、下到 Ziph 的 Jeshimon 、要在那里寻索 David 。",
-            "3": " Saul 在 Jeshimon 前的 Hachilah 山、在道路上安营。 David 住在 Jeshimon 、听说 Saul 到 Jeshimon 来追寻他．",
+            "3": "Saul 在 旷野 前的 Hachilah 山、在道路上安营。 David 住在 旷野 、听说 Saul 到 旷野 来追寻他．",
             "4": "就打发人去探听、便知道 Saul 果然来到。",
             "5": " David 起来、到 Saul 安营的地方、看见 Saul 和他的元帅 Ner 的儿子 Abner 睡卧之处． Saul 睡在辎重营里、百姓安营在他周围。",
             "6": " David 对赫人 Ahimelech 、和 Zeruiah 的儿子 Joab 的兄弟 Abishai 说、谁同我下到 Saul 营里去． Abishai 说、我同你下去。",
