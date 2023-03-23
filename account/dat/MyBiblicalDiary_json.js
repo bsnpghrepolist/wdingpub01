@@ -54,6 +54,7 @@ var MyBiblicalDiary_json =
         "0313": "2pm teeth",
         "0316": "skip",
         "0405": "Jx exame",
-        "0318": "Wd eye test&nbsp;"
+        "0318": "Wd eye test&nbsp;",
+        "0323": "p271, psa8:3-5.<div>Jerry: Yiling healing.</div><div>Dennis: <br>Mentaling relationship w/ Mareay. coatch world; Trip to Yellow Stone/Cannon; Nelson reachout; Miler child membership;&nbsp;<br>Ding:&nbsp;<br>Greg: Susan who lost brother, growing the process of recovery.&nbsp; Nephew maltreatment.&nbsp;&nbsp;<br><br></div><div><br></div><div><div><br></div></div>"
     }
 }
