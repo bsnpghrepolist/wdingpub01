@@ -8484,7 +8484,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "",
-            "12": ""
+            "12": "<ol><li>Man-mind works:  Achish is greater than David, David than Saul </li></ol>"
         },
         "28": {
             "1": "",
