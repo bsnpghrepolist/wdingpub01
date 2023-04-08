@@ -8532,7 +8532,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "<ol><li>Found strength in the Lord his God. </li></ol>",
             "7": "",
             "8": "",
             "9": "",
