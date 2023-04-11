@@ -58,6 +58,7 @@ var MyBiblicalDiary_json =
         "0323": "p271, psa8:3-5.<div>Jerry: Yiling healing.</div><div>Dennis: <br>Mentaling relationship w/ Mareay. coatch world; Trip to Yellow Stone/Cannon; Nelson reachout; Miler child membership; <br>Ding: <br>Greg: Susan who lost brother, growing the process of recovery.  Nephew maltreatment.  <br><br></div><div><br></div><div><div><br></div></div>",
         "0330": "p285, 2 of 2 pdf<br>Dennis:Nelson.<br>Jerry:school work for Lexing,",
         "0406": "skip",
-        "0413": "p293, 2. "
+        "0413": "p293, 2. ",
+        "0510": "王国伟 中医科"
     }
 }
