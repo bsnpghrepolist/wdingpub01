@@ -17525,7 +17525,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "<ol><li>refer to Jesus Christ how he was born into the world.</li></ol>",
             "17": "",
             "18": "",
             "19": "",
