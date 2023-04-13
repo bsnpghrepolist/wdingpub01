@@ -8484,7 +8484,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "",
-            "12": ""
+            "12": "<ol><li>Man-mind works:  Achish is greater than David, David than Saul </li></ol>"
         },
         "28": {
             "1": "",
@@ -8532,7 +8532,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "<ol><li>Found strength in the Lord his God. </li></ol>",
             "7": "",
             "8": "",
             "9": "",
@@ -17525,7 +17525,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "<ol><li>refer to Jesus Christ how he was born into the world.</li></ol>",
             "17": "",
             "18": "",
             "19": "",
