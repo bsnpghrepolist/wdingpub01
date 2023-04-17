@@ -59,6 +59,7 @@ var MyBiblicalDiary_json =
         "0330": "p285, 2 of 2 pdf<br>Dennis:Nelson.<br>Jerry:school work for Lexing,",
         "0406": "skip",
         "0413": "p293, 2. <div>jx medicine taken lzxdjn</div>",
-        "0510": "王国伟 中医科"
+        "0510": "王国伟 中医科",
+        "0419": "Jx eye"
     }
 }
