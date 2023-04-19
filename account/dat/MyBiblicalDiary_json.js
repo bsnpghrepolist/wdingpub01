@@ -61,6 +61,7 @@ var MyBiblicalDiary_json =
         "0413": "p293, 2. <div>jx medicine taken lzxdjn</div>",
         "0510": "王国伟 中医科",
         "0419": "Jx eye",
-        "0420": "p307.<div>last unit of class.&nbsp;</div><div>The power of association.</div>"
+        "0420": "p307.<div>last unit of class.&nbsp;</div><div>The power of association.</div>",
+        "0427": "unit1"
     }
 }
