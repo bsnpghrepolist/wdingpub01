@@ -9049,7 +9049,7 @@ var CUVsen=
             "11": "依我之计、不如将 Israel 众人、从 Dan 直到 Beersheba 、如同海边的沙那样多、聚集到你这里来．你也亲自率领他们出战。",
             "12": "这样、我们在何处遇见他、就下到他那里、如同露水下在地上一般．连他带跟随他的人、一个也不留下。",
             "13": "他若进了那一座城、 Israel 众人、必带绳子去、将那城拉到河里、甚至连一块小石头、都不剩下。",
-            "14": " Absalom 和 Israel 众人说、 Agee 人户筛的计谋、比 Ahithophel 的计谋更好．这是因 HYWY 定意破坏 Ahithophel 的良谋、为要降祸与 Absalom 。",
+            "14": "Absalom 和 Israel 众人说、 Agee 人 Hushai 的计谋、比 Ahithophel 的计谋更好．这是因 HYWY 定意破坏 Ahithophel 的良谋、为要降祸与 Absalom 。",
             "15": "户筛对祭司 Zadok 和 Abiathar 说、 Ahithophel 为 Absalom 和 Israel 的长老所定的计谋、是如此如此．我所定的计谋、是如此如此。",
             "16": "现在你们要急速打发人去、告诉 David 说、今夜不可住在 Jeshimon 的渡口、务要过河．免得王和跟随他的人、都被吞灭。",
             "17": "那时 Jonathan 和 Ahimaaz 在隐罗结那里等候不敢进城、恐怕被人看见．有一个使女出来、将这话告诉他们、他们就去报信给 David 王。",
