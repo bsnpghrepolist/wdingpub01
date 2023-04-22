@@ -8735,7 +8735,7 @@ var CUVsen=
             "11": "HYWY 的约柜在 Gath 人俄别 Edom 家中三个月． HYWY 赐福给 Obed-Edom 和他的全家。",
             "12": "有人告诉 David 王说、 HYWY 因为约柜、赐福给 Obed-Edom 的家、和一切属他的． David 就去、欢欢喜喜的将　神的约柜、从俄别 Edom 家中抬到 David 的城里。",
             "13": "抬 HYWY 约柜的人走了六步、 David 就献牛、与肥羊为祭。",
-            "14": " David 穿着细麻布的 Epher 得、在 HYWY 面前极力跳舞。",
+            "14": "David 穿着细麻布的 Ephod 、在 HYWY 面前极力跳舞。",
             "15": "这样、 David 和 Israel 的全家、欢呼吹角、将 HYWY 的约柜抬上来。",
             "16": " HYWY 的约柜进了 David 城的时候、 Saul 的女儿 Michal 、从窗户里观看、见 David 王在 HYWY 面前踊跃跳舞、心里就轻视他。",
             "17": "众人将 HYWY 的约柜请进去、安放在所预备的地方、就是在 David 所搭的帐幕里． David 在 HYWY 面前、献燔祭和平安祭。",
