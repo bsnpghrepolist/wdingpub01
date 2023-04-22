@@ -9298,7 +9298,7 @@ var CUVsen=
             "3": " Joab 对王说、无论百姓多少、愿 HYWY 你的　神再加增百倍、使我主我王亲眼得见．我主我王何必喜悦行这事呢。",
             "4": "但王的命令胜过 Joab 和众军长、 Joab 和众军长、就从王面前出去、数点 Israel 的百姓。",
             "5": "他们过了 river Jordan 、在 Gad 谷中城的右边 Aroer 安营、与 Jaazer 相对．",
-            "6": "又到了 Gilead 、和他停合示地．又到了 Dan 雅安、绕到 Sidon 、",
+            "6": "又到了 Gilead 、和 Tahtim Hodshi 地．又到了 Dan 雅安、绕到 Sidon 、",
             "7": "来到 Tyre 的保障、并 Hivites 人和 Canaan 人的各城．又到 Judas 南方的 Beersheba 。",
             "8": "他们走遍全地、过了九个月零二十天就回到 Jerusalem 。",
             "9": " Joab 将百姓的总数奏告于王． Israel 拿刀的勇士有八十万． Judas 有五十万。",
