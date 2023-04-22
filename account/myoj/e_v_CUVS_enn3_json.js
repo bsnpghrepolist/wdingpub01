@@ -8818,7 +8818,7 @@ var CUVsen=
             "3": "但 Ammon 人的首领对他们的主 Hanun 说、 David 差人来安慰你、你想他是尊敬你父亲么．他差臣仆来不是详察窥探、要倾覆这城么。 ",
             "4": " Hanun 便将 David 臣仆的胡须剃去一半．又割断他们下半截的衣服、使他们露出下体、打发他们回去。 ",
             "5": "有人告诉 David 他就差人去迎接他们、因为他们甚觉羞耻、告诉他们说、可以住在 Jericho 、等到胡须长起再回来。 ",
-            "6": " Ammon 人知道 David 憎恶他们、就打发人去、招募伯 Rehob 的 Aram 人、和 Zobah 的 Aram 人、步兵二万、与 Maacah 王的人一千、 Tob 人一万二千。 ",
+            "6": "Ammon 人知道 David 憎恶他们、就打发人去、招募 Beth Rehob 的 Aram 人、和 Zobah 的 Aram 人、步兵二万、与 Maacah 王的人一千、 Tob 人一万二千。",
             "7": " David 听见了、就差派 Joab 统带勇猛的全军出去。 ",
             "8": " Ammon 人出来在城门前摆阵． Zobah 与 Rehob 的 Aram 人、 Tob 人、并 Maacah 人、另在郊野摆阵。 ",
             "9": " Joab 看见敌人在他前后摆阵、就从 Israel 军中挑选精兵、使他们对着 Aram 人摆阵。 ",
