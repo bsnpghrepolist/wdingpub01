@@ -9028,7 +9028,7 @@ var CUVsen=
             "15": " Absalom 和 Israel 众人、来到 Jerusalem 、 Ahithophel 也与他同来。",
             "16": "David 的朋友、 Agee 人 Hushai、去见 Absalom 、对他说、愿王万岁、愿王万岁。",
             "17": "Absalom 问 Hushai 说、这是你恩待朋友么．为甚么不与你的朋友同去呢。",
-            "18": "户筛对 Absalom 说、不然、 HYWY 和这民、并 Israel 众人所拣选的、我必归顺他、与他同住。",
+            "18": "Hushai 对 Absalom 说、不然、 HYWY 和这民、并 Israel 众人所拣选的、我必归顺他、与他同住。",
             "19": "再者、我当服事谁呢。岂不是前王的儿子么。我怎样服事你父亲、也必照样服事你。",
             "20": " Absalom 对 Ahithophel 说、你们出个主意、我们怎样行才好。",
             "21": " Ahithophel 对 Absalom 说、你父所留下看守宫殿的妃嫔、你可以与他们亲近． Israel 众人听见你父亲憎恶你．凡归顺你人的手、就更坚强。",
