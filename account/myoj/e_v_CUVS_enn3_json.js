@@ -9169,7 +9169,7 @@ var CUVsen=
             "20": " Joab 回答说、我决不吞灭毁坏。",
             "21": "乃因 Ephraim 山地的一个人、 Bichri 的儿子 Seba 、举手攻击 David 王．你们若将他一人交出来、我便离城而去。妇人对 Joab 说、那人的首级必从城墙上丢给你。",
             "22": "妇人就凭他的智慧去劝众人。他们便割下 Bichri 的儿子 Seba 的首级、丢给 Joab 。 Joab 吹角、众人就离城而散、各归各家去了。 Joab 回 Jerusalem 到王那里。",
-            "23": " Joab 作 Israel 全军的元帅． Jehoiada 的儿子 Benaiah 统辖基利提人和 Beerl 提人、",
+            "23": "Joab 作 Israel 全军的元帅． Jehoiada 的儿子 Benaiah 统辖 Kerethites人和 Pelethites人、",
             "24": " Adoram 掌管服苦的人． Ahilud 的儿子 Jehoshaphat 作史官．",
             "25": " Sheva 作书记。 Zadok 和 Abiathar 作祭司长、",
             "26": " Jair 人 Elah-or-elam 作 David 的宰相。"
