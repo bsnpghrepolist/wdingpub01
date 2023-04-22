@@ -9003,7 +9003,7 @@ var CUVsen=
             "29": "于是 Zadok 和 Abiathar 将　神的约柜抬回 Jerusalem ．他们就住在那里。",
             "30": " David 蒙头赤脚、上 Mount of Olives 、一面上、一面哭．跟随他的人、也都蒙头哭着上去。",
             "31": "有人告诉 David 说、 Ahithophel 也在叛党之中、随从 Absalom 。 David 祷告说、 HYWY 阿、求你使 Ahithophel 的计谋、变为愚拙。",
-            "32": " David 到了山顶、敬拜　神的地方、见 Agee 人户筛、衣服撕裂、头蒙灰尘、来迎接他。",
+            "32": "David 到了山顶、敬拜　神的地方、见 Agee 人 Hushai、衣服撕裂、头蒙灰尘、来迎接他。",
             "33": " David 对他说、你若与我同去、必累赘我。",
             "34": "你若回城去、对 Absalom 说、王阿、我愿作你的仆人．我向来作你父亲的仆人、现在我也照样作你的仆人．这样、你就可以为我破坏 Ahithophel 的计谋。",
             "35": "祭司 Zadok 和 Abiathar 、岂不都在那里么．你在王宫里听见甚么、就要告诉祭司 Zadok 和 Abiathar 。",
