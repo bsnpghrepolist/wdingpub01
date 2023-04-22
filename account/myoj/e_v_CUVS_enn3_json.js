@@ -9186,7 +9186,7 @@ var CUVsen=
             "9": "交在 Gibeon 人的手里、 Gibeon 人就把他们在 HYWY 面前、悬挂在山上、这七人就一同死亡．被杀的时候、正是收割的日子、就是动手割大麦的时候。",
             "10": "Aiah 的女儿 Rizpah 用麻布、在磐石上搭棚、从动手收割的时候、直到天降雨在尸身上的时候、日间不容空中的雀鸟落在尸身上、夜间不让田野的走兽前来糟践。",
             "11": "有人将 Saul 的妃嫔 Aiah 女儿 Rizpah 所行的这事告诉 David 。",
-            "12": " David 就去、从 Gilead  Jabesh 人那里将 Saul 和他儿子 Jonathan 的骸骨搬了来．是因 Philistia 人从前在 Gilboa 杀 Saul 、将尸身悬挂在伯珊的街市上、 Gilead  Jabesh 人把尸身偷了去．",
+            "12": "David 就去、从 Gilead  Jabesh 人那里将 Saul 和他儿子 Jonathan 的骸骨搬了来．是因 Philistia 人从前在 Gilboa 杀 Saul 、将尸身悬挂在 Beth Shan 的街市上、 Gilead  Jabesh 人把尸身偷了去．",
             "13": " David 将 Saul 和他儿子 Jonathan 的骸骨从那里搬了来、又收殓被悬挂七人的骸骨．",
             "14": "将 Saul 和他儿子 Jonathan 的骸骨葬在 Benjamin 的 Zillah 、在 Saul 父亲 Kish 的坟墓里。众人行了王所吩咐的．此后　神垂听国民所求的。",
             "15": " Philistia 人与 Israel 人打仗、 David 带领仆人下去、与 Philistia 人接战． David 就疲乏了。",
