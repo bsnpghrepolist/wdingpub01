@@ -9132,7 +9132,7 @@ var CUVsen=
             "28": "因为我祖全家的人、在我主我王面前、都算为死人．王却使仆人在王的席上、同人吃饭。、我现在向王还能辨理诉冤么。",
             "29": "王对他说、你何必再提你的事呢．我说、你与 Ziba 均分地土。",
             "30": " Mephibosheth 对王说、我主我王既平平安安的回宫、就任凭 Ziba 都取了、也可以。",
-            "31": " Gilead 人 Barzillai 从罗基琳下来、要送王过 river Jordan 、就与王一同过了 river Jordan 。",
+            "31": "Gilead 人 Barzillai 从 Rogelim下来、要送王过 river Jordan 、就与王一同过了 river Jordan 。",
             "32": " Barzillai 年纪老迈、已经八十岁了。王住在 Mahanaim 的时候、他就拿食物来供给王．他原是大富户。",
             "33": "王对 Barzillai 说、你与我同去、我要在 Jerusalem 那里养你的老。",
             "34": " Barzillai 对王说、我在世的年日还能有多少、使我与王同上 Jerusalem 呢。",
