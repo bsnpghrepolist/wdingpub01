@@ -8798,7 +8798,7 @@ var CUVsen=
             "18": "Jehoiada 的儿子 Benaiah 、统辖 Kerethites and Pelethites 人、 David 的众子都作领袖。"
         },
         "9": {
-            "1": " David 问说、 Saul 家还有剩下的人没有、我要因 Jonathan 的缘故向 Thar-shish 恩。",
+            "1": "David 问说、 Saul 家还有剩下的人没有、我要因 Jonathan 的缘故向他恩。",
             "2": " Saul 家有一个仆人、名叫 Ziba 、有人叫他来见 David 、王问他说、你是 Ziba 么、回答说、仆人是。",
             "3": "王说、 Saul 家还有人没有、我要照　神的慈爱恩待他． Ziba 对王说、还有 Jonathan 的一个儿子、是瘸腿的。",
             "4": "王说、他在那里． Ziba 对王说、他在 Lodebar  Ammiel 的儿子 Machir 家里。",
