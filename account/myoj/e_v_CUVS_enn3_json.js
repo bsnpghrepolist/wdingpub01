@@ -9182,7 +9182,7 @@ var CUVsen=
             "5": "他们对王说、那从前谋害我们、要灭我们、使我们不得再住 Israel 境内的人、",
             "6": "现在愿将他的子孙七人交给我们、我们好在 HYWY 面前、将他们悬挂在 HYWY 拣选 Saul 的 Gibea 。王说、我必交给你们。",
             "7": "王因为曾与 Saul 的儿子 Jonathan 指着 HYWY 起誓结盟、就爱惜 Saul 的孙子、 Jonathan 的儿子 Mephibosheth 、不交出来．",
-            "8": "却把 Aiah 的女儿 Rizpah 给 Saul 所生的两个儿子、 Armoni 、 Mephibosheth 、和 Saul 女儿 Michal 的姐姐给米何拉人 Barzillai 儿子 Adriel 所生的五个儿子、",
+            "8": "却把 Aiah 的女儿 Rizpah 给 Saul 所生的两个儿子、 Armoni 、 Mephibosheth 、和 Saul 女儿 Michal 的姐姐给  Meholathite 人 Barzillai 儿子 Adriel 所生的五个儿子、",
             "9": "交在 Gibeon 人的手里、 Gibeon 人就把他们在 HYWY 面前、悬挂在山上、这七人就一同死亡．被杀的时候、正是收割的日子、就是动手割大麦的时候。",
             "10": "爱雅的女儿 Rizpah 用麻布、在磐石上搭棚、从动手收割的时候、直到天降雨在尸身上的时候、日间不容空中的雀鸟落在尸身上、夜间不让田野的走兽前来糟践。",
             "11": "有人将 Saul 的妃嫔爱雅女儿 Rizpah 所行的这事告诉 David 。",
