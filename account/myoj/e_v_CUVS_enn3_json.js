@@ -9147,7 +9147,7 @@ var CUVsen=
             "43": " Israel 人回答 Judas 人说、按支派我们与王有十分的情分、在 David 身上、我们也比你们更有情分、你们为何藐视我们、请王回来、不先与我们商量呢。但 Judas 人的话、比 Israel 人的话更硬。"
         },
         "20": {
-            "1": "在那里恰巧有一个匪徒、名叫 Seba 、是 Ben  Jamin 人 Bichri 的儿子、他吹角说、我们与 David 无分、与 Jesse 的儿子无涉． Israel 人哪、你们各回各家去吧。",
+            "1": "在那里恰巧有一个匪徒、名叫 Seba 、是 Benjamites 人 Bichri 的儿子、他吹角说、我们与 David 无分、与 Jesse 的儿子无涉． Israel 人哪、你们各回各家去吧。",
             "2": "于是 Israel 人都离开 David 、跟随 Bichri 的儿子 Seba ．但 Judas 人、从 river Jordan 直到 Jerusalem 、都紧紧跟随他们的王。",
             "3": " David 王来到 Jerusalem 、进了宫殿．就把从前留下看守宫殿的十个妃嫔禁闭在冷宫．养活他们、不与他们亲近。他们如同寡妇被禁、直到死的日子。",
             "4": "王对 Amasa 说、你要在三日之内、将 Judas 人招聚了来、你也回到这里来。",
