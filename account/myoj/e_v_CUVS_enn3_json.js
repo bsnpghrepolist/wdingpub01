@@ -9196,7 +9196,7 @@ var CUVsen=
             "19": "又在 Gob 与 Philistia 人打仗． Beth-lehem 人 Jaare-oregim 的儿子 Elhanan 杀了 Gath 人 Goliath ．这人的枪杆粗如织布的机轴。",
             "20": "又在 Gath 打仗．那里有一个身量 Cauda 的人、手脚都是六指、共有二十四个指头．他也是 Rapha 人的儿子。",
             "21": "这人向 Israel 人骂阵、 David 的哥哥 Shimea 的儿子 Jonathan 就杀了他。",
-            "22": "这四个人是 Gath 伟人的儿子．都死在 David 和他仆人的手下。"
+            "22": "这四个人是 Gath Rapha 人的儿子．都死在 David 和他仆人的手下。"
         },
         "22": {
             "1": "当 HYWY 救 David 脱离一切仇敌和 Saul 之手的日子、他向 HYWY 念这诗、",
