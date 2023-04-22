@@ -9119,7 +9119,7 @@ var CUVsen=
             "15": "王就回来、到了 river Jordan 。 Judas 人来到 Gilgal 、要去迎接王、请他过 river Jordan 。",
             "16": "Bahurim 的 Benjamite 人、 Gera 的儿子 Shimei 急忙与 Judas 人一同下去迎接 David 王。",
             "17": "跟从 Shimei 的有一千 Benjamites 人．还有 Saul 家的仆人 Ziba 、和他十五个儿子、二十个仆人．他们都逿过 river Jordan 迎接王。",
-            "18": "有摆渡船过去、渡王的家眷、任王使用。王要过 river Jordan 的时候、 Chelal 的儿子 Shimi 就俯伏在王面前、",
+            "18": "有摆渡船过去、渡王的家眷、任王使用。王要过 river Jordan 的时候、 Gera 的儿子 Shimei 就俯伏在王面前、",
             "19": "对王说、我主我王出 Jerusalem 的时候、仆人行悖逆的事．现在求我主不要因此加罪与仆人．不要记念、也不要放在心上。",
             "20": "仆人明知自己有罪．所以 Joseph 全家之中、今日我首先下来迎接我主我王。",
             "21": " Zeruiah 的儿子 Abishai 说、 Shimi 既咒骂 HYWY 的受膏者、不应当治死他么。",
