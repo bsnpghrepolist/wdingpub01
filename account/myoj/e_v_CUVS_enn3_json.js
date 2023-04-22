@@ -9190,7 +9190,7 @@ var CUVsen=
             "13": " David 将 Saul 和他儿子 Jonathan 的骸骨从那里搬了来、又收殓被悬挂七人的骸骨．",
             "14": "将 Saul 和他儿子 Jonathan 的骸骨葬在 Benjamin 的 Zillah 、在 Saul 父亲 Kish 的坟墓里。众人行了王所吩咐的．此后　神垂听国民所求的。",
             "15": " Philistia 人与 Israel 人打仗、 David 带领仆人下去、与 Philistia 人接战． David 就疲乏了。",
-            "16": "伟人的一个儿子 Ishbi-benob 要杀 David ．他的铜枪重三百舍客勒、又佩着新刀。",
+            "16": "Rapha 人的一个儿子 Ishbi-benob 要杀 David ．他的铜枪重三百舍客勒、又佩着新刀。",
             "17": "但 Zeruiah 的儿子 Abishai 帮助 David 、攻打 Philistia 人、将他杀死。当日跟随 David 的人向 David 起誓、说、以后你不可再与我们一同出战．恐怕熄灭 Israel 的灯。",
             "18": "后来 Israel 人在 Gob 与 Philistia 人打仗． Hushah 人 Sibbechai 杀了伟人的一个儿子 Saph 。",
             "19": "又在 Gob 与 Philistia 人打仗． Beth-lehem 人 Jaare-oregim 的儿子 Elhanan 杀了 Gath 人 Goliath ．这人的枪杆粗如织布的机轴。",
