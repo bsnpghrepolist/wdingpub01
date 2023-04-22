@@ -9290,7 +9290,7 @@ var CUVsen=
             "36": " Zobah 人 Nathan 的儿子 Igal 、 Gad 人 Bani 、",
             "37": " Ammon 人 Zelek 、 Beeroth 人 Nahari 、是给 Zeruiah 的儿子 Joab 拿兵器的、",
             "38": " Ether 人 Elah-or-elam 、 Ether 人 Gareb 、",
-            "39": "赫人 Uriah 、共有三十七人。"
+            "39": "Hittite 人 Uriah 、共有三十七人。"
         },
         "24": {
             "1": " HYWY 又向 Israel 人发怒、就激动 David 、使他吩咐人去数点 Israel 人和 Judas 人。",
