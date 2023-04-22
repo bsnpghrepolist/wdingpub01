@@ -8727,7 +8727,7 @@ var CUVsen=
             "3": "他们将　神的约柜、从冈上 Abinadab 的家里抬出来、放在新车上、 Abinadab 的两个儿子 Uzzah 和 Ahio 赶这新车。",
             "4": "他们将　神的约柜、从冈上 Abinadab 家里抬出来的时候、 Ahio 在柜前行走。",
             "5": " David 和 Israel 的全家、在 HYWY 面前用松木制造的各样乐器、和琴、瑟、鼓、钹、锣、作乐跳舞。",
-            "6": "到了<a id=\"NIV_2Sa_6_6\" class=\"tx txNIV\" style=\"color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);\">Nacon</a>的禾场、因为牛失前蹄、〔或作惊跳〕 Uzzah 就伸手扶住　神的约柜。",
+            "6": "到了 <a id=\"NIV_2Sa_6_6\" class=\"tx txNIV\" style=\"color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);\">Nacon </a>的禾场、因为牛失前蹄、〔或作惊跳〕 Uzzah 就伸手扶住　神的约柜。",
             "7": "神 HYWY 向 Uzzah 发怒、因这错误击杀他、他就死在　神的约柜旁。",
             "8": " David 因 HYWY 击杀〔原文作闯杀〕 Uzzah 、心里愁烦、就称那地方为毗列斯 Uzzah 、直到今日。",
             "9": "那日 David 惧怕 HYWY 、说、 HYWY 的约柜怎可运到我这里来。",
