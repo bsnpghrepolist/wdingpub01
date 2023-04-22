@@ -9008,7 +9008,7 @@ var CUVsen=
             "34": "你若回城去、对 Absalom 说、王阿、我愿作你的仆人．我向来作你父亲的仆人、现在我也照样作你的仆人．这样、你就可以为我破坏 Ahithophel 的计谋。",
             "35": "祭司 Zadok 和 Abiathar 、岂不都在那里么．你在王宫里听见甚么、就要告诉祭司 Zadok 和 Abiathar 。",
             "36": " Zadok 的儿子 Ahimaaz 、 Abiathar 的儿子 Jonathan 、也都在那里．凡你们所听见的、可以托这二人来报告我。",
-            "37": "于是 David 的朋友户筛进了城． Absalom 也进了 Jerusalem 。"
+            "37": "于是 David 的朋友 Hushai 进了城． Absalom 也进了 Jerusalem 。"
         },
         "16": {
             "1": " David 刚过山顶、见 Mephibosheth 的仆人 Ziba 拉着备好了的两匹驴、驴上驮着二百面饼、一百葡萄饼、一百个夏天的果饼、一皮袋酒来、迎接他。",
