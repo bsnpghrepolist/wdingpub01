@@ -9117,7 +9117,7 @@ var CUVsen=
             "13": "也要对 Amasa 说、你不是我的骨肉么。我若不立你替 Joab 常作元帅、愿　神重重的降罚与我。",
             "14": "如此就挽回 Judas 众人的心、如同一人的心．他们便打发人去见王、说、请王和王的一切臣仆回来。",
             "15": "王就回来、到了 river Jordan 。 Judas 人来到 Gilgal 、要去迎接王、请他过 river Jordan 。",
-            "16": " Bahurim 的 Ben  Jamin 人、 Chelal 的儿子 Shimi 急忙与 Judas 人一同下去迎接 David 王。",
+            "16": "Bahurim 的 Benjamite 人、 Gera 的儿子 Shimei 急忙与 Judas 人一同下去迎接 David 王。",
             "17": "跟从 Shimi 的有一千 Ben  Jamin 人．还有 Saul 家的仆人 Ziba 、和他十五个儿子、二十个仆人．他们都逿过 river Jordan 迎接王。",
             "18": "有摆渡船过去、渡王的家眷、任王使用。王要过 river Jordan 的时候、 Chelal 的儿子 Shimi 就俯伏在王面前、",
             "19": "对王说、我主我王出 Jerusalem 的时候、仆人行悖逆的事．现在求我主不要因此加罪与仆人．不要记念、也不要放在心上。",
