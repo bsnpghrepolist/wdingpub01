@@ -9153,7 +9153,7 @@ var CUVsen=
             "4": "王对 Amasa 说、你要在三日之内、将 Judas 人招聚了来、你也回到这里来。",
             "5": " Amasa 就去招聚 Judas 人．却耽延过了王所限的日期。",
             "6": " David 对 Abishai 说、现在恐怕 Bichri 的儿子 Seba 加害于我们、比 Absalom 更甚．你要带领你主的仆人追赶他、免得他得了坚固城、躲避我们。",
-            "7": " Joab 的人、和基利提人、 Beerl 提人、并所有的勇士、都跟着 Abishai 、从 Jerusalem 出去、追赶 Bichri 的儿子 Seba 。",
+            "7": "Joab 的人、和 Kerethites 人、 Pelethites 人、并所有的勇士、都跟着 Abishai 、从 Jerusalem 出去、追赶 Bichri 的儿子 Seba 。",
             "8": "他们到了 Gibeon 的大磐石那里、 Amasa 来迎接他们。那时 Joab 穿着战衣、腰束佩刀的带子、刀在鞘内、 Joab 前行刀从鞘内掉出来。",
             "9": " Joab 左手拾起刀来、对 Amasa 说、我兄弟、你好阿、就用右手抓住 Amasa 的胡子、要与他亲嘴。",
             "10": " Amasa 没有防备 Joab 手里所拿的刀、 Joab 用刀刺入他的肚腹、他的肠子流在地上、没有再刺他、就死了。 Joab 和他兄弟 Abishai 往前追赶 Bichri 的儿子 Seba 。",
