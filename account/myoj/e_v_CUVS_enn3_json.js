@@ -9172,7 +9172,7 @@ var CUVsen=
             "23": "Joab 作 Israel 全军的元帅． Jehoiada 的儿子 Benaiah 统辖 Kerethites人和 Pelethites人、",
             "24": " Adoram 掌管服苦的人． Ahilud 的儿子 Jehoshaphat 作史官．",
             "25": " Sheva 作书记。 Zadok 和 Abiathar 作祭司长、",
-            "26": " Jair 人 Elah-or-elam 作 David 的宰相。"
+            "26": "Jairite 人 Ira or Elah-or-elam 作 David 的宰相。"
         },
         "21": {
             "1": " David 年间有饥荒、一连三年． David 就求问 HYWY 。 HYWY 说、这饥荒是因 Saul 、和他流人血之家、杀死 Gibeon 人。",
