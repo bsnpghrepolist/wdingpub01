@@ -8729,7 +8729,7 @@ var CUVsen=
             "5": " David 和 Israel 的全家、在 HYWY 面前用松木制造的各样乐器、和琴、瑟、鼓、钹、锣、作乐跳舞。",
             "6": "到了 <a id=\"NIV_2Sa_6_6\" class=\"tx txNIV\" style=\"color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);\">Nacon </a>的禾场、因为牛失前蹄、〔或作惊跳〕 Uzzah 就伸手扶住　神的约柜。",
             "7": "神 HYWY 向 Uzzah 发怒、因这错误击杀他、他就死在　神的约柜旁。",
-            "8": " David 因 HYWY 击杀〔原文作闯杀〕 Uzzah 、心里愁烦、就称那地方为毗列斯 Uzzah 、直到今日。",
+            "8": "David 因 HYWY 击杀〔原文作闯杀〕 Uzzah 、心里愁烦、就称那地方为 <a id=\"NIV_2Sa_6_8\" class=\"tx txNIV\" style=\"color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);\">Perez</a> Uzzah 、直到今日。",
             "9": "那日 David 惧怕 HYWY 、说、 HYWY 的约柜怎可运到我这里来。",
             "10": "于是 David 不肯将 HYWY 的约柜运进 David 的城、却运到 Gath 人、俄别 Edom 的家中。",
             "11": " HYWY 的约柜在 Gath 人俄别 Edom 家中三个月． HYWY 赐福给俄别 Edom 和他的全家。",
