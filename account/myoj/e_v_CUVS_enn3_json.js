@@ -8732,7 +8732,7 @@ var CUVsen=
             "8": "David 因 HYWY 击杀〔原文作闯杀〕 Uzzah 、心里愁烦、就称那地方为 <a id=\"NIV_2Sa_6_8\" class=\"tx txNIV\" style=\"color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);\">Perez</a> Uzzah 、直到今日。",
             "9": "那日 David 惧怕 HYWY 、说、 HYWY 的约柜怎可运到我这里来。",
             "10": "于是 David 不肯将 HYWY 的约柜运进 David 的城、却运到 Gath 人、<a id=\"NIV_2Sa_6_10\" class=\"tx txNIV hiliVrsTxt\" style=\"color: rgb(255, 255, 255);\">Obed-</a>Edom 的家中。",
-            "11": " HYWY 的约柜在 Gath 人俄别 Edom 家中三个月． HYWY 赐福给俄别 Edom 和他的全家。",
+            "11": "HYWY 的约柜在 Gath 人俄别 Edom 家中三个月． HYWY 赐福给 <a id=\"NIV_2Sa_6_10\" class=\"tx txNIV hiliVrsTxt\" style=\"color: rgb(255, 255, 255);\">Obed-</a>Edom 和他的全家。",
             "12": "有人告诉 David 王说、 HYWY 因为约柜、赐福给俄别 Edom 的家、和一切属他的． David 就去、欢欢喜喜的将　神的约柜、从俄别 Edom 家中抬到 David 的城里。",
             "13": "抬 HYWY 约柜的人走了六步、 David 就献牛、与肥羊为祭。",
             "14": " David 穿着细麻布的 Epher 得、在 HYWY 面前极力跳舞。",
