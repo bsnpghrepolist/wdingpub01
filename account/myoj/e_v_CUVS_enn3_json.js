@@ -9259,7 +9259,7 @@ var CUVsen=
             "5": "我家在　神面前并非如此．　神却与我立永远的约．这约凡事坚稳、关乎我的一切救恩、和我一切所想望的、他岂不为我成就么。",
             "6": "但匪类都必像荆棘被丢弃．人不敢用手拿他．",
             "7": "拿他的人必带铁器和枪杆、终久他必被火焚烧。",
-            "8": " David 勇士的名字、记在下面．他革扪人 Josheb-basshebet 、又称伊斯尼人 Adino 、他是军长的统领、一时击杀了八百人。",
+            "8": "David 勇士的名字、记在下面．Tahkemonite 人 Josheb-basshebet 、又称伊斯尼人 Adino 、他是军长的统领、一时击杀了八百人。",
             "9": "其次是亚合人 Dodo 的儿子 Eleazar 。从前 Philistia 人聚集要打仗、 Israel 人迎着上去、有跟随 David 的三个勇士向 Philistia 人骂阵、其中有 Eleazar ．",
             "10": "他起来击杀 Philistia 人、直到手臂疲乏、手粘住刀把．那日 HYWY 使 Israel 人大获全胜．众民在 Eleazar 后头专夺财物。",
             "11": "其次是 Hariph 人 Agee 的儿子 Shama 。一日 Philistia 人聚集成群、在一块长满红豆的田里．众民就在 Philistia 人面前逃跑。",
