@@ -8636,7 +8636,7 @@ var CUVsen=
             "28": "于是 Joab 吹角、众民就站住不再追赶 Israel 人、也不再打仗了。",
             "29": " Abner 和跟随他的人、整夜经过 Arabah 、过 river Jordan 走过毕伦、到了 Mahanaim 。",
             "30": " Joab 追赶 Abner 回来、聚集众民、见 David 的仆人中缺少了十九个人、和 Asahel 。",
-            "31": "但 David 的仆人杀了 Ben  Jamin 人、和跟随 Abner 的人、共三百六十名。",
+            "31": "但 David 的仆人杀了 <a id=\"NIV_2Sa_2_31\" class=\"tx txNIV\" style=\"color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);\">Benjamites</a> 人、和跟随 Abner 的人、共三百六十名。",
             "32": "众人将 Asahel 送到 Beth-lehem 、葬在他父亲的坟墓里。 Joab 和跟随他的人、走了一夜、天亮的时候到了 Hebron 。"
         },
         "3": {
