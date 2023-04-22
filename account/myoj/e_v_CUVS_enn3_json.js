@@ -8795,7 +8795,7 @@ var CUVsen=
             "15": " David 作 Israel 众人的王．又向众民秉公行义。",
             "16": " Zeruiah 的儿子 Joab 作元帅． Ahilud 的儿子 Jehoshaphat 作史官．",
             "17": " Ahitub 的儿子 Zadok 、和 Abiathar 的儿子 Ahimelech 、作祭司长、 Seraiah 作书记．",
-            "18": " Jehoiada 的儿子 Benaiah 、统辖基利提人、和 Beerl 提人、 David 的众子都作领袖。"
+            "18": "Jehoiada 的儿子 Benaiah 、统辖 Kerethites and Pelethites 人、 David 的众子都作领袖。"
         },
         "9": {
             "1": " David 问说、 Saul 家还有剩下的人没有、我要因 Jonathan 的缘故向 Thar-shish 恩。",
