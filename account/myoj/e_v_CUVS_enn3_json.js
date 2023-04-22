@@ -9052,7 +9052,7 @@ var CUVsen=
             "14": "Absalom 和 Israel 众人说、 Agee 人 Hushai 的计谋、比 Ahithophel 的计谋更好．这是因 HYWY 定意破坏 Ahithophel 的良谋、为要降祸与 Absalom 。",
             "15": "Hushai 对祭司 Zadok 和 Abiathar 说、 Ahithophel 为 Absalom 和 Israel 的长老所定的计谋、是如此如此．我所定的计谋、是如此如此。",
             "16": "现在你们要急速打发人去、告诉 David 说、今夜不可住在 Jeshimon 的渡口、务要过河．免得王和跟随他的人、都被吞灭。",
-            "17": "那时 Jonathan 和 Ahimaaz 在隐罗结那里等候不敢进城、恐怕被人看见．有一个使女出来、将这话告诉他们、他们就去报信给 David 王。",
+            "17": "那时 Jonathan 和 Ahimaaz 在 En Rogel 那里等候不敢进城、恐怕被人看见．有一个使女出来、将这话告诉他们、他们就去报信给 David 王。",
             "18": "然而有一个童子看见他们、就去告诉 Absalom ．他们急忙跑到 Bahurim 某人的家里．那人院中有一口井、他们就下到井里。",
             "19": "那家的妇人用盖盖上井口、又在上头铺上碎麦、事就没有泄漏。",
             "20": " Absalom 的仆人来到那家．问妇人说、 Ahimaaz 和 Jonathan 在那里。妇人说、他们过了河了。仆人找他们、找不着、就回 Jerusalem 去了。",
