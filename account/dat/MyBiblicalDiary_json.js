@@ -63,6 +63,7 @@ var MyBiblicalDiary_json =
         "0419": "Jx eye",
         "0420": "p307.<div>last unit of class. </div><div>Weid: The power of association.</div><div>avogah.Gen2:15.&nbsp;</div><div><br></div><div>cultures are not morally neutral. (p314)</div><div>Jerry: health condition,moving. God's will be done.</div><div>Dennis: Knee x-ray, phys therapy.</div><div>-Brandy international coach. new coach cowork.&nbsp;</div><div>-invitation of Brandson, Rily.&nbsp; JHi, question.&nbsp;</div><div>Greg:</div><div>-last weekend.</div><div>-new headmaster. primary school. pca elder.</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
         "0427": "unit1",
-        "0525": "Weid Unit 5. power of association."
+        "0525": "Weid Unit 5. power of association.",
+        "0429": "3:30pm dental&nbsp;"
     }
 }
