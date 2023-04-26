@@ -62,7 +62,7 @@ var MyBiblicalDiary_json =
         "0510": "王国伟 中医科",
         "0419": "Jx eye",
         "0420": "p307.<div>last unit of class. </div><div>Weid: The power of association.</div><div>avogah.Gen2:15.&nbsp;</div><div><br></div><div>cultures are not morally neutral. (p314)</div><div>Jerry: health condition,moving. God's will be done.</div><div>Dennis: Knee x-ray, phys therapy.</div><div>-Brandy international coach. new coach cowork.&nbsp;</div><div>-invitation of Brandson, Rily.&nbsp; JHi, question.&nbsp;</div><div>Greg:</div><div>-last weekend.</div><div>-new headmaster. primary school. pca elder.</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
-        "0427": "unit1<div>I happen to talk with a seller who is about 70. She is talkative. And she tried to convert me to be Buddhism.&nbsp;</div>",
+        "0427": "unit1<div>I happen to talk with a seller who is about 70. She is talkative. And she tried to convert me to be Buddhism.&nbsp;</div><div>She asked me: what do you think of Buddhism? &nbsp;</div><div>I said: “Buddhism is confusing”</div><div>She said: “Buddha is about the heart. You can say this way, he can say that way. All are correct. Buddhist teach us friendship, kindness, love. do not hurt each others. Life is short and pain why we hurt each others. Why not be happy with each others in short life.”&nbsp;</div><div>She want to send me a Buddhism book to read.&nbsp;</div><div>She also told me that she got covid but was healed by taking some medicine in three days.&nbsp;</div><div><br></div><div><br></div><div><br></div><div><br></div>",
         "0525": "Weid Unit 5. power of association.",
         "0429": "3:30pm dental&nbsp;"
     }
