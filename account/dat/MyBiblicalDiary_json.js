@@ -67,6 +67,7 @@ var MyBiblicalDiary_json =
         "0429": "3:30pm dental&nbsp;",
         "0423": "I could not find people selling the turtles on the street in front of the Buddha temple. All people suddenly appeared and suddenly gone triggered me to think selling turtles is probably related to the Easter Day.&nbsp;<div><br></div><div><br><div><br></div><div>In a Buddha shop, I talked with the seller. “Do you really believe in Buddhism?”</div><div><br></div><div>He hesitated: “I believe in my consciousness.”&nbsp;</div><div>I got a little bit comfort. I told him that I am interested in the incense. He told me that he used to work in incense factory. To collect the raisins and other fragrances herbs first. Then grinding them to become the powders very fine. Then use the thick wine to make the burning incense.”</div><div><br></div><div>He also gave me several pieces of raisins for free.&nbsp;</div><div><br></div><div>I felt gratitude. May God show mercy on him.&nbsp;</div><div><br></div><div><br></div><div><br></div><div><br></div></div>",
         "0627": "Teeth first visit. Pan jie 8:30.&nbsp;",
-        "0504": "qigong.&nbsp;"
+        "0504": "qigong.&nbsp;",
+        "0509": "Qigong&nbsp;"
     }
 }
