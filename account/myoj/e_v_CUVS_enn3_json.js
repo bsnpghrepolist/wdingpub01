@@ -9412,7 +9412,7 @@ var CUVsen=
             "33": "故此流这二人血的罪、必归到 Joab 和他后裔的头上、直到永远．惟有 David 和他的后裔、并他的家与国、必从 HYWY 那里得平安、直到永远。",
             "34": "于是 Jehoiada 的儿子 Benaiah 上去、将 Joab 杀死、葬在 Jeshimon  Joab 自己的坟墓里。〔坟墓原文作房屋〕",
             "35": "王就立 Jehoiada 的儿子 Benaiah 作元帅、代替 Joab ．又使祭司 Zadok 代替 Abiathar 。",
-            "36": "王差遣人将 Shimi 召来、对他说、你要在 Jerusalem 建造房屋居住、不可出来往别处去。",
+            "36": "王差遣人将 Shimei 召来、对他说、你要在 Jerusalem 建造房屋居住、不可出来往别处去。",
             "37": "你当确实的知道、你何日出来过 Kidron Valley 、何日必死．你的罪〔原文作血〕必归到自己的头上。",
             "38": "Shimei 对王说、这话甚好．我主我王怎样说、仆人必怎样行．于是 Shimei 多日住在 Jerusalem 。",
             "39": "过了三年、 Shimei 的两个仆人逃到 Gath 王 Maacah 的儿子 Achish 那里去．有人告诉 Shimei 说、你的仆人在 Gath 。",
