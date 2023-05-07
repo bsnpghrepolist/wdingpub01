@@ -9422,7 +9422,7 @@ var CUVsen=
             "43": "现在你为何不遵守你指着 HYWY 起的誓、和我所吩咐你的命令呢。",
             "44": "王又对 Shimei 说、你向我父亲 David 所行的一切恶事、你自己心里也知道、所以 HYWY 必使你的罪恶归到自己的头上。",
             "45": "惟有 Solomon 王必得福、并且 David 的国位必在 HYWY 面前坚定、直到永远。",
-            "46": "于是王吩咐 Jehoiada 的儿子 Benaiah 、他就去杀死 Shimi ．这样、 Ben 坚定了 Solomon 的国位。"
+            "46": "于是王吩咐 Jehoiada 的儿子 Benaiah 、他就去杀死 Shimei ．这样、 Ben 坚定了 Solomon 的国位。"
         },
         "3": {
             "1": " Solomon 与 Egypt 王法老结亲、娶了法老的女儿为妻、接他进入 David 城、直等到造完了自己的宫、和 HYWY 的殿、并 Jerusalem 周围的城墙。",
