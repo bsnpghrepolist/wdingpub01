@@ -9403,7 +9403,7 @@ var CUVsen=
             "24": " HYWY 坚立我、使我坐在父亲 David 的位上、照着所应许的话为我建立家室、现在我指着永生的 HYWY 起誓、 Adonijah 今日必被治死。",
             "25": "于是 Solomon 王差遣 Jehoiada 的儿子 Benaiah 、将 Adonijah 杀死。",
             "26": "王对祭司 Abiathar 说、你回 Anathoth 归自己的田地去吧、你本是该死的、但因你在我父亲 David 面前抬过主 HYWY 的约柜、又与我父亲同受一切苦难、所以我今日不将你杀死。",
-            "27": " Solomon 就革除 Abiathar 、不许他作 HYWY 的祭司．这样、便应验 HYWY 在 Shiloh 论 Ili 家所说的话。",
+            "27": "Solomon 就革除 Abiathar 、不许他作 HYWY 的祭司．这样、便应验 HYWY 在 Shiloh 论 Eli 家所说的话。",
             "28": " Joab 虽然没有归从 Absalom 、却归从了 Adonijah ．他听见这风声、就逃到 HYWY 的帐幕、抓住祭坛的角。",
             "29": "有人告诉 Solomon 王说、 Joab 逃到 HYWY 的帐幕、现今在祭坛的旁边． Solomon 就差遣 Jehoiada 的儿子 Benaiah 说、你去将他杀死。",
             "30": " Benaiah 来到 HYWY 的帐幕、对 Joab 说、王吩咐说、你出来吧．他说、我不出去、我要死在这里． Benaiah 就去回复王说、 Joab 如此如此回答我。",
