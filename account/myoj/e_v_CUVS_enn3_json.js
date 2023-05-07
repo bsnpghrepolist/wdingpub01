@@ -9415,7 +9415,7 @@ var CUVsen=
             "36": "王差遣人将 Shimi 召来、对他说、你要在 Jerusalem 建造房屋居住、不可出来往别处去。",
             "37": "你当确实的知道、你何日出来过 Kidron Valley 、何日必死．你的罪〔原文作血〕必归到自己的头上。",
             "38": "Shimei 对王说、这话甚好．我主我王怎样说、仆人必怎样行．于是 Shimei 多日住在 Jerusalem 。",
-            "39": "过了三年、 Shimi 的两个仆人逃到 Gath 王 Maacah 的儿子 Achish 那里去．有人告诉 Shimi 说、你的仆人在 Gath 。",
+            "39": "过了三年、 Shimei 的两个仆人逃到 Gath 王 Maacah 的儿子 Achish 那里去．有人告诉 Shimei 说、你的仆人在 Gath 。",
             "40": " Shimi 起来、备上驴、往 Gath 到 Achish 那里去找他的仆人．就从 Gath 带他仆人回来。",
             "41": "有人告诉 Solomon 说、 Shimi 出 Jerusalem 往 Gath 去回来了。",
             "42": "王就差遣人将 Shimi 召了来、对他说、我岂不是叫你指着 HYWY 起誓、并且警戒你说、你当确实的知道你那日出来往别处去、那日必死么．你也对我说、这话甚好、我必听从。",
