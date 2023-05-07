@@ -9384,7 +9384,7 @@ var CUVsen=
             "5": "你知道 Zeruiah 的儿子 Joab 向我所行的、就是杀了 Israel 的两个元帅、 Ner 的儿子、 Abner 、和 Jether 的儿子 Amasa 、他在太平之时流这二人的血、如在争战之时一样、将这血染了腰间束的带、和脚上穿的鞋。",
             "6": "所以你要照你的智慧行、不容他白头安然下阴间。",
             "7": "你当恩待 Gilead 人 Barzillai 的众子、使他们常与你同席吃饭、因为我躲避你哥哥 Absalom 的时候、他们拿食物来迎接我。",
-            "8": "在你这里有 Bahurim 的 Ben  Jamin 人、 Chelal 的儿子 Shimi ．我往 Mahanaim 去的那日、他用狠毒的言语咒骂我、后来却下 river Jordan 迎接我、我就指着 HYWY 向他起誓、说、我必不用刀杀你。",
+            "8": "在你这里有 Bahurim 的 Ben  Jamin 人、 Chelal 的儿子 Shimei ．我往 Mahanaim 去的那日、他用狠毒的言语咒骂我、后来却下 river Jordan 迎接我、我就指着 HYWY 向他起誓、说、我必不用刀杀你。",
             "9": "现在你不要以他为无罪、你是聪明人、必知道怎样待他、使他白头见杀、流血下到阴间。",
             "10": " David 与他列祖同睡、葬在 David 城。",
             "11": " David 作 Israel 王四十年．在 Hebron 作王七年、在 Jerusalem 作王三十三年。",
