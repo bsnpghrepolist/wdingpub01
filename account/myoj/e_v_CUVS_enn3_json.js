@@ -9417,7 +9417,7 @@ var CUVsen=
             "38": "Shimei 对王说、这话甚好．我主我王怎样说、仆人必怎样行．于是 Shimei 多日住在 Jerusalem 。",
             "39": "过了三年、 Shimei 的两个仆人逃到 Gath 王 Maacah 的儿子 Achish 那里去．有人告诉 Shimei 说、你的仆人在 Gath 。",
             "40": "Shimei 起来、备上驴、往 Gath 到 Achish 那里去找他的仆人．就从 Gath 带他仆人回来。",
-            "41": "有人告诉 Solomon 说、 Shimi 出 Jerusalem 往 Gath 去回来了。",
+            "41": "有人告诉 Solomon 说、 Shimei 出 Jerusalem 往 Gath 去回来了。",
             "42": "王就差遣人将 Shimi 召了来、对他说、我岂不是叫你指着 HYWY 起誓、并且警戒你说、你当确实的知道你那日出来往别处去、那日必死么．你也对我说、这话甚好、我必听从。",
             "43": "现在你为何不遵守你指着 HYWY 起的誓、和我所吩咐你的命令呢。",
             "44": "王又对 Shimi 说、你向我父亲 David 所行的一切恶事、你自己心里也知道、所以 HYWY 必使你的罪恶归到自己的头上。",
