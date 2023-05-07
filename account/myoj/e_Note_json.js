@@ -9458,7 +9458,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "<ol><li>Abiathar was removed from priest by Solomon. ?  </li></ol>",
             "5": "",
             "6": "",
             "7": "",
