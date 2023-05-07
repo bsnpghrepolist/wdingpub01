@@ -9457,7 +9457,7 @@ var CUVsen=
         "4": {
             "1": " Solomon 作 Israel 众人的王。",
             "2": "他的臣子记在下面． Zadok 的儿子 Azariah 作祭司．",
-            "3": " Shisha 的两个儿子 Elihoreph 、 Ahi 亚、作书记． Ahilud 的儿子 Jehoshaphat 作史官．",
+            "3": "Shisha 的两个儿子 Elihoreph 、 Ahijah、作书记． Ahilud 的儿子 Jehoshaphat 作史官．",
             "4": " Jehoiada 的儿子 Benaiah 作元帅． Zadok 和 Abiathar 作祭司长．",
             "5": " Nathan 的儿子 Azariah 作众吏长．王的朋友 Nathan 的儿子 Zabud 作领袖．",
             "6": " Ahishar 作家宰． Abidah 的儿子 Adoniram 掌管服苦的人。",
