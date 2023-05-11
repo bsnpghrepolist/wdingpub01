@@ -69,6 +69,7 @@ var MyBiblicalDiary_json =
         "0627": "Teeth first visit. Pan jie 8:30.&nbsp;",
         "0504": "qigong.&nbsp;",
         "0509": "Qigong&nbsp;",
-        "0511": "Qigong&nbsp;"
+        "0511": "Qigong&nbsp;",
+        "0519": "Teeth doctor"
     }
 }
