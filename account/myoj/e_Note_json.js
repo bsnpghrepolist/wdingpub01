@@ -9844,7 +9844,7 @@ var _bnotes=
             "29": "",
             "30": "",
             "31": "",
-            "32": "",
+            "32": "<ol><li>What an important lesson.</li><li>Not all prophet are true. </li><li>False prophet also knows the word of God. And love brothers.</li></ol>",
             "33": "",
             "34": ""
         },
