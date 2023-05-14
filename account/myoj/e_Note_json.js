@@ -9844,7 +9844,7 @@ var _bnotes=
             "29": "",
             "30": "",
             "31": "",
-            "32": "<ol><li>What an important lesson.</li><li>Not all prophet are true. </li><li>False prophet also knows the word of God. And love brothers.</li></ol>",
+            "32": "<ol><li>What an important lesson.</li><li>Not all prophet are true. </li><li>False prophet also knows the word of God. </li><li>False prophets act the same as true prophets—they love brothers. </li><li>True prophets may made mistake. Lead to death. Don’t be proud forever. Be humble always. </li></ol>",
             "33": "",
             "34": ""
         },
