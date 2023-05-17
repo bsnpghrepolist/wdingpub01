@@ -70,6 +70,7 @@ var MyBiblicalDiary_json =
         "0504": "qigong.&nbsp;",
         "0509": "Qigong&nbsp;",
         "0511": "Qigong&nbsp;",
-        "0519": "Teeth doctor"
+        "0519": "Teeth doctor",
+        "0531": "weid,unit5"
     }
 }
