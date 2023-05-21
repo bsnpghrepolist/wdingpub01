@@ -75,6 +75,7 @@ var MyBiblicalDiary_json =
         "0729": "daxin airport&nbsp;<div><br></div>",
         "0731": "Sydney 9:45",
         "0829": "Flight daxin",
-        "0909": "Flight"
+        "0909": "Flight",
+        "0908": "22:05 NK1828"
     }
 }
