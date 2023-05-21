@@ -73,6 +73,7 @@ var MyBiblicalDiary_json =
         "0519": "Teeth doctor",
         "0531": "weid,unit5",
         "0729": "daxin airport&nbsp;<div><br></div>",
-        "0731": "Sydney 9:45"
+        "0731": "Sydney 9:45",
+        "0829": "Flight daxin"
     }
 }
