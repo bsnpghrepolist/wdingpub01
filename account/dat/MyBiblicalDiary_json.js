@@ -76,6 +76,6 @@ var MyBiblicalDiary_json =
         "0731": "Sydney 9:45",
         "0829": "Flight daxin",
         "0909": "Flight",
-        "0908": "22:05 NK1828"
+        "0908": "<div>15:30 TN102.&nbsp;</div><div><br></div>22:05 NK1828"
     }
 }
