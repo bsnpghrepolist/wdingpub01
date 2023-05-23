@@ -25795,7 +25795,7 @@ var _bnotes=
             "25": "",
             "26": "",
             "27": "",
-            "28": "<ol><li>It's easy to to serce. But hard to give life as a ransom for others especially for sinners.</li><li>In my life I have heard many propogadars since I was a child: CPP call on people to sacrifice life for communism, the nation, and now to liberate TW.   But callers never do himself.</li></ol>",
+            "28": "<ol><li>It's easy to to serce. But hard to give life as a ransom for others especially for sinners.</li><li>In my life I have heard many propogandars since I was a child: CPP call on people to sacrifice life for communism, the nation, and now to liberate TW.   But callers never do himself.</li><li>Today's Leaders usually get fame by serving others. But they never to give up their life. </li></ol>",
             "29": "",
             "30": "",
             "31": "",
