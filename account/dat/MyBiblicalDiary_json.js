@@ -71,7 +71,7 @@ var MyBiblicalDiary_json =
         "0509": "Qigong&nbsp;",
         "0511": "Qigong&nbsp;",
         "0519": "Teeth doctor",
-        "0531": "weid,unit5",
+        "0531": "weid,unit5<div>Testimony on Sunday attendance after mom.&nbsp;</div><div>Thank this disciple group. Chinese culture is strong I m weak.&nbsp;</div><div>Immanuel. I’m el.&nbsp;</div><div><br></div><div><br></div><ol><li>Testimony on Sunday after sending her to class.&nbsp;</li><li>Thanks the disciples chn+en</li><li>Chn is strong I am weak.&nbsp;</li><li>Chn absorb anything benefit to its cultural but never change.&nbsp;</li><li>Life on life association has to be Jesus centered Holy Spirit driven. &nbsp;I cannot communicate with her.&nbsp;</li><li>Evil don’t want me to associate. My wechat was blocked in 2019. Cop clash down any association against it.&nbsp;</li></ol><ol><li>Life on life mutual influence. Be careful don’t be influenced by evil.&nbsp;</li></ol>",
         "0729": "daxin airport&nbsp;<div><br></div>",
         "0731": "Sydney 9:45",
         "0829": "Flight daxin",
