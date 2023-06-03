@@ -9984,7 +9984,7 @@ var CUVsen=
             "2": " Eliah-or-elijah 就去、要使 Ahab 得见他。那时 Shemer  Leah 有大饥荒。",
             "3": "Ahab 将他的家宰 Pbadiah 召了来。 Obadiah 甚是敬畏 HYWY 。",
             "4": "Jezebel 杀 HYWY 众先知的时候、 Obadiah 将一百个先知藏了、每五十人藏在一个洞里、拿饼和水供养他们。",
-            "5": " Ahab 对 Pbadiah 说、我们走遍这地、到一切水泉旁、和一切溪边、或者找得着青草、可以救活骡马、免得绝了牲畜。",
+            "5": "Ahab 对 Obadiah 说、我们走遍这地、到一切水泉旁、和一切溪边、或者找得着青草、可以救活骡马、免得绝了牲畜。",
             "6": "于是二人分地游行、 Ahab 独走一路、 Pbadiah 独走一路。",
             "7": " Pbadiah 在路上恰与 Eliah-or-elijah 相遇、 Pbadiah 认出他来、就俯伏在地、说、你是我主 Eliah-or-elijah 不是。",
             "8": "回答说、是、你去告诉你主人、说、 Eliah-or-elijah 在这里。",
