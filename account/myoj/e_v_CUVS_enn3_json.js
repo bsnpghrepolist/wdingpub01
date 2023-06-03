@@ -9995,7 +9995,7 @@ var CUVsen=
             "13": " Jezebel 杀 HYWY 众先知的时候、我将 HYWY 的一百个先知藏了、每五十人藏在一个洞里、拿饼和水供养他们、岂没有人将这事告诉我主么。",
             "14": "现在你说、要去告诉你主人、说、 Eliah-or-elijah 在这里、他必杀我。",
             "15": " Eliah-or-elijah 说、我指着所事奉永生的万军之 HYWY 起誓、我今日必使 Ahab 得见我。",
-            "16": "于是 Pbadiah 去迎着 Ahab 告诉他． Ahab 就去迎着 Eliah-or-elijah 。",
+            "16": "于是 Obadiah 去迎着 Ahab 告诉他． Ahab 就去迎着 Eliah-or-elijah 。",
             "17": " Ahab 见了 Eliah-or-elijah 、便说、使 Israel 遭灾的就是你么。",
             "18": " Eliah-or-elijah 说、使 Israel 遭灾的不是我、乃是你、和你父家、因为你们离弃 HYWY 的诫命、去随从 Baal 。",
             "19": "现在你当差遣人、招聚 Israel 众人、和事奉 Baal 的那四百五十个先知、并 Jezebel 所供养事奉亚舍拉的那四百个先知、使他们都上 Mount Carmel 去见我。",
