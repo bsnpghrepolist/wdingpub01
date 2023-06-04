@@ -10134,7 +10134,7 @@ var CUVsen=
             "5": " Jehoshaphat 对 Israel 王说、请你先求问 HYWY ．",
             "6": "于是 Israel 王招聚先知、约有四百人、问他们说、我上去攻取 Gilead 的 Ramoth 、可以不可以．他们说、可以上去、因为主必将那城交在王的手里。",
             "7": " Jehoshaphat 说、这里不是还有 HYWY 的先知、我们可以求问他么．",
-            "8": " Israel 王对 Jehoshaphat 说、还有一个人、是 Imrah 的儿子米该雅、我们可以托他求问 HYWY 、只是我恨他、因为他指着我所说的预言、不说吉语、单说凶言． Jehoshaphat 说、王不必这样说。",
+            "8": "Israel 王对 Jehoshaphat 说、还有一个人、是 Imlah 的儿子 Micaiah 、我们可以托他求问 HYWY 、只是我恨他、因为他指着我所说的预言、不说吉语、单说凶言． Jehoshaphat 说、王不必这样说。",
             "9": " Israel 王就召了一个太监来、说、你快去、将 Imrah 的儿子米该雅召来。",
             "10": " Israel 王和 Judas 王 Jehoshaphat 在 Shemer  Leah 城门前的空场上、各穿朝服、坐在位上．所有的先知都在他们面前说预言．",
             "11": " Chenaanah 的儿子西底家造了两个铁角、说、 HYWY 如此说、你要用这角抵触 Aram 人、直到将他们灭尽。",
