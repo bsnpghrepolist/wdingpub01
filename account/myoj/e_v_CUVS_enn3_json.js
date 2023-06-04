@@ -10209,7 +10209,7 @@ var CUVsen=
             "3": "住 Bethel 的先知门徒出来见 Elishah 、对他说、 HYWY 今日要接你的师傅离开你、你知道不知道。他说、我知道．你们不要作声。",
             "4": " Eliah-or-elijah 对 Elishah 说、 HYWY 差遣我往 Jericho 去、你可以在这里等候． Elishah 说、我指着永生的 HYWY 、又敢在你面前起誓、我必不离开你。于是二人到了 Jericho 。",
             "5": "住 Jericho 的先知门徒就近 Elishah 、对他说、 HYWY 今日要接你的师傅离开你、你知道不知道。他说、我知道．你们不要作声。",
-            "6": "Eliah-or-elijah 对 Elishah 说、 HYWY 差遣我往 Jordan 去、你可以在这里等候． Elishah 说、我指着永生的 HYWY 、又敢在你面前起誓、我必不离开你。于是二人一同前往。",
+            "6": "Eliah-or-elijah 对 Elishah 说、 HYWY 差遣我往 Jordan 河去、你可以在这里等候． Elishah 说、我指着永生的 HYWY 、又敢在你面前起誓、我必不离开你。于是二人一同前往。",
             "7": "有先知门徒去了五十人、远远的站在他们对面．二人在 Jordan 河边站住。",
             "8": " Eliah-or-elijah 将自己的外衣卷起来、用以打水、水就左右分开、二人走干地而过。",
             "9": "过去之后、 Eliah-or-elijah 对 Elishah 说、我未曾被接去离开你、你要我为你作甚么只管求我。 Elishah 说、愿感动你的灵加倍的感动我。",
