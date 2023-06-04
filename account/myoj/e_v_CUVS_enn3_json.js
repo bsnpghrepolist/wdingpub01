@@ -10216,7 +10216,7 @@ var CUVsen=
             "10": " Eliah-or-elijah 说、你所求的难得、虽然如此、我被接去离开你的时候、你若看见我、就必得着．不然、必得不着了。",
             "11": "他们正走着说话、忽有火车火马、将二人隔开、 Eliah-or-elijah 就乘旋风升天去了。",
             "12": " Elishah 看见、就呼叫说、我父阿、我父阿、 Israel 的战车马兵阿。以后不再见他了．于是 Elishah 把自己的衣服撕为两片。",
-            "13": "他拾起 Eliah-or-elijah 身上掉下来的外衣、回去站在 river Jordan 边。",
+            "13": "他拾起 Eliah-or-elijah 身上掉下来的外衣、回去站在  Jordan 河边。",
             "14": "他用 Eliah-or-elijah 身上掉下来的外衣、打水、说、 HYWY 、 Eliah-or-elijah 的　神在哪里呢。打水之后、水也左右分开、 Elishah 就过来了。",
             "15": "住 Jericho 的先知门徒从对面看见他、就说、感动 Eliah-or-elijah 的灵感动 Elishah 了。他们就来迎接他、在他面前俯伏于地、",
             "16": "对他说、仆人们这里有五十个壮士．求你容他们去寻找你师傅、或者 HYWY 的灵将他提起来、投在某山某谷。 Elishah 说、你们不必打发人去。",
