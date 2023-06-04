@@ -10443,7 +10443,7 @@ var CUVsen=
             "18": "骑马的就去、迎接 Jehu 、说、王问说、平安不平安。 Jehu 说、平安不平安与你何干．你转在我后头吧。守望的人又说、使者到了他们那里、却不回来。",
             "19": "王又打发一个骑马的去．这人到了他们那里、说、王问说、平安不平安。 Jehu 说、平安不平安与你何干．你转在我后头吧。",
             "20": "守望的人又说、他到了他们那里、也不回来．车赶得甚猛、像 Nimshi 的孙子 Jehu 的赶法。",
-            "21": " Johoram 吩咐说、套车．人就给他套车。 Israel 王 Johoram 、和 Judas 王 Ahoaziah 、各坐自己的车、出去迎接 Jehu 、在 Jezreel 人 Naboth 的田那里遇见他。",
+            "21": "Johoram 吩咐说、套车．人就给他套车。 Israel 王 Johoram 、和 Judas 王 Ahaziah 、各坐自己的车、出去迎接 Jehu 、在 Jezreel 人 Naboth 的田那里遇见他。",
             "22": " Johoram 见 Jehu 就说、 Jehu 阿、平安么。 Jehu 说、你母亲 Jezebel 的淫行邪术这样多、焉能平安呢。",
             "23": " Johoram 就转车逃跑、对 Ahoaziah 说、 Ahoaziah 阿、反了。",
             "24": " Jehu 开满了弓、射中 Johoram 的脊背．箭从心窝穿出、 Johoram 就仆倒在车上。",
