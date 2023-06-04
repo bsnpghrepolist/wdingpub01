@@ -10500,7 +10500,7 @@ var CUVsen=
             "36": "Jehu 在 Samaria 作 Israel 王二十八年。"
         },
         "11": {
-            "1": " Ahoaziah 的母亲 Athaliah 见他儿子死了、就起来剿灭王室。",
+            "1": "Ahaziah 的母亲 Athaliah 见他儿子死了、就起来剿灭王室。",
             "2": "但 Johoram 王的女儿、 Ahoaziah 的妹子 Jehosheba 、将 Ahoaziah 的儿子 Joash 从那被杀的王子中偷出来、把他和他的乳母、都藏在卧房里、躲避 Athaliah 、免得被杀．",
             "3": " Joash 和他的乳母藏在 HYWY 的殿里六年． Athaliah 篡了国位。",
             "4": "第七年、 Jehoiada 打发人叫迦利人〔或作亲兵〕和护卫兵的众百夫长来、领他们进了 HYWY 的殿、与他们立约、使他们在 HYWY 殿里起誓．又将王的儿子指给他们看．",
