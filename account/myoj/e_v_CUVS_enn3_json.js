@@ -10458,7 +10458,7 @@ var CUVsen=
             "33": " Jehu 说、把他扔下来．他们就把他扔下来．他的血溅在墙上、和马上．于是把他践踏了。",
             "34": " Jehu 进去、吃了喝了、吩咐说、你们把这被咒诅的妇人葬埋了．因为他是王的女儿。",
             "35": "他们就去葬埋他．只寻得他的头骨、和脚、并手掌。",
-            "36": "他们回去告诉 Jehu 。 Jehu 说、这正应验 HYWY 、借他仆人提斯比人 Eliah-or-elijah 所说的话、说、在 Jezreel 田间、狗必吃 Jezebel 的肉．",
+            "36": "他们回去告诉 Jehu 。 Jehu 说、这正应验 HYWY 、借他仆人Tishbite 人 Eliah-or-elijah 所说的话、说、在 Jezreel 田间、狗必吃 Jezebel 的肉．",
             "37": " Jezebel 的尸首必在 Jezreel 田间如同粪土、甚至人不能说、这是 Jezebel 。"
         },
         "10": {
