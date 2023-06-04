@@ -10152,7 +10152,7 @@ var CUVsen=
             "23": "现在 HYWY 使谎言的灵入了你这些先知的口．并且 HYWY 已经命定降祸与你。",
             "24": "Chenaanah 的儿子 Zedekiah 前来、打 Micaiah 的脸、说、 HYWY 的灵从那里离开我与你说话呢．",
             "25": "Micaiah说、你进严密的屋子藏躲的那日、就必看见了。",
-            "26": " Israel 王说、将米该雅带回交给邑宰 Amon 和王的儿子 Joash 、说、",
+            "26": "Israel 王说、将 Micaiah 带回交给邑宰 Amon 和王的儿子 Joash 、说、",
             "27": "王如此说、把这个人下在监里、使他受苦、吃不饱喝不足、等候我平平安安的回来．",
             "28": "米该雅说、你若能平平安安的回来、那就是 HYWY 没有借我说这话了．又说、众民哪、你们都要听。",
             "29": " Israel 王和 Judas 王 Jehoshaphat 上 Gilead 的 Ramoth 去了．",
