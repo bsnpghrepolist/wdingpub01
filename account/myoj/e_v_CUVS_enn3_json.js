@@ -10185,7 +10185,7 @@ var CUVsen=
     "2Ki": {
         "1": {
             "1": " Ahab 死后、 Moab 背叛 Israel 。",
-            "2": " Ahoaziah 在 Shemer  Leah 、一日从楼上的栏杆里掉下来、就病了．于是差遣使者说、你们去问 Ekron 的神 Baal 西卜、我这病能好不能好。",
+            "2": "Ahaziah 在 Samaria 、一日从楼上的栏杆里掉下来、就病了．于是差遣使者说、你们去问 Ekron 的神 Baal-Zebub 、我这病能好不能好。",
             "3": "但 HYWY 的使者对提斯比人 Eliah-or-elijah 说、你起来、去迎着 Shemer  Leah 王的使者、对他们说、你们去问 Ekron 神 Baal 西卜、岂因 Israel 中没有　神么。",
             "4": "所以 HYWY 如此说、你必不下你所上的床、必定要死． Eliah-or-elijah 就去了。",
             "5": "使者回来见王、王问他们说、你们为甚么回来呢。",
