@@ -10186,7 +10186,7 @@ var CUVsen=
         "1": {
             "1": " Ahab 死后、 Moab 背叛 Israel 。",
             "2": "Ahaziah 在 Samaria 、一日从楼上的栏杆里掉下来、就病了．于是差遣使者说、你们去问 Ekron 的神 Baal-Zebub 、我这病能好不能好。",
-            "3": "但 HYWY 的使者对 Tishbite 人 Eliah-or-elijah 说、你起来、去迎着 Samara 王的使者、对他们说、你们去问 Ekron 神 Baal-Zebub、岂因 Israel 中没有　神么。",
+            "3": "但 HYWY 的使者对 Tishbite 人 Eliah-or-elijah 说、你起来、去迎着 Samaria 王的使者、对他们说、你们去问 Ekron 神 Baal-Zebub、岂因 Israel 中没有　神么。",
             "4": "所以 HYWY 如此说、你必不下你所上的床、必定要死． Eliah-or-elijah 就去了。",
             "5": "使者回来见王、王问他们说、你们为甚么回来呢。",
             "6": "使者回答说、有一个人迎着我们来、对我们说、你们回去见差你们来的王、对他说、 HYWY 如此说、你差人去问 Ekron 神 Baal 西卜、岂因 Israel 中没有　神么．所以你必不下所上的床、必定要死。",
