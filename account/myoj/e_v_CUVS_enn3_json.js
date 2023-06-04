@@ -10043,7 +10043,7 @@ var CUVsen=
             "13": " Eliah-or-elijah 听见、就用外衣蒙上脸、出来站在洞口．有声音向他说、 Eliah-or-elijah 阿、你在这里作甚么．",
             "14": "他说、我为 HYWY 万军之　神大发热心、因为 Israel 人背弃了你的约、毁坏了你的坛、用刀杀了你的先知、只剩下我一个人、他们还要寻索我的命。",
             "15": " HYWY 对他说、你回去、从 Jeshimon 往 Damascus 去．到了那里、就要膏 Hazael 作 Aram 王．",
-            "16": "又膏 Nimshi 的孙子 Jehu 作 Israel 王．并膏 Abel 米何拉人 Shaphat 的儿子 Elishah 作先知接续你。",
+            "16": "又膏 Nimshi 的孙子 Jehu 作 Israel 王．并膏 Abel Meholah 人 Shaphat 的儿子 Elishah 作先知接续你。",
             "17": "将来躲避 Hazael 之刀的、必被 Jehu 所杀．躲避 Jehu 之刀的、必被 Elishah 所杀．",
             "18": "但我在 Israel 人中为自己留下七千人、是未曾向 Baal 屈膝的、未曾与 Baal 亲嘴的。",
             "19": "于是 Eliah-or-elijah 离开那里走了、遇见 Shaphat 的儿子 Elishah 耕地、在他前头有十二对牛、自己赶着第十二对． Eliah-or-elijah 到他那里去、将自己的外衣搭在他身上．",
