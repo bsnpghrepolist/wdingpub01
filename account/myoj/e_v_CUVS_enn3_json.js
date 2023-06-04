@@ -10137,7 +10137,7 @@ var CUVsen=
             "8": "Israel 王对 Jehoshaphat 说、还有一个人、是 Imlah 的儿子 Micaiah 、我们可以托他求问 HYWY 、只是我恨他、因为他指着我所说的预言、不说吉语、单说凶言． Jehoshaphat 说、王不必这样说。",
             "9": "Israel 王就召了一个太监来、说、你快去、将 Imlah 的儿子 <span style=\"caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); -webkit-text-size-adjust: auto; background-color: rgb(0, 0, 0);\">Micaiah </span>召来。",
             "10": "Israel 王和 Judas 王 Jehoshaphat 在 Samaria 城门前的空场上、各穿朝服、坐在位上．所有的先知都在他们面前说预言．",
-            "11": " Chenaanah 的儿子西底家造了两个铁角、说、 HYWY 如此说、你要用这角抵触 Aram 人、直到将他们灭尽。",
+            "11": "Chenaanah 的儿子Zedekiah 造了两个铁角、说、 HYWY 如此说、你要用这角抵触 Aram 人、直到将他们灭尽。",
             "12": "所有的先知也都这样预言说、可以上 Gilead 的 Ramoth 去、必然得胜、因为 HYWY 必将那城交在王的手中。",
             "13": "那去召米该雅的使者对米该雅说、众先知一口同音的都向王说吉言、你不如与他们说一样的话、也说吉言．",
             "14": "米该雅说、我指着永生的 HYWY 起誓、 HYWY 对我说甚么、我就说甚么。",
