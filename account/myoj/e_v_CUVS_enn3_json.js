@@ -10201,7 +10201,7 @@ var CUVsen=
             "15": " HYWY 的使者对 Eliah-or-elijah 说、你同着他下去、不要怕他． Eliah-or-elijah 就起来、同着他下去见王。",
             "16": "对王说、 HYWY 如此说、你差人去问 Ekron 神 Baal-Zebub、岂因 Israel 中没有　神可以求问么．所以你必不下所上的床、必定要死。",
             "17": "Ahaziah 果然死了、正如 HYWY 借 Eliah-or-elijah 所说的话．因他没有儿子、他兄弟 Johoram 接续他作王、正在 Judas 王 Jehoshaphat 的儿子 Johoram 第二年。",
-            "18": " Ahoaziah 其余所行的事、都写在 Israel 诸王记上。"
+            "18": "Ahaziah 其余所行的事、都写在 Israel 诸王记上。"
         },
         "2": {
             "1": " HYWY 要用旋风接 Eliah-or-elijah 升天的时候、 Eliah-or-elijah 与 Elishah 从 Gilgal 前往。",
