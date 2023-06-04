@@ -10412,7 +10412,7 @@ var CUVsen=
             "18": "他行 Israel 诸王所行的、与 Ahab 家一样．因为他娶了 Ahab 的女儿为妻、行 HYWY 眼中看为恶的事。",
             "19": " HYWY 却因他仆人 David 的缘故、仍不肯灭绝 Judas 、照他所应许 David 的话、永远赐灯光与他的子孙。",
             "20": " Johoram 年间、 Edom 人背叛 Judas 、脱离他的权下、自己立王。",
-            "21": " Johoram 率领所有的战车、往撒益去．夜间起来、攻打围困他的 Edom 人和车兵长． Judas 兵就逃跑、各回各家去了。",
+            "21": "Johoram 率领所有的战车、往Zair去．夜间起来、攻打围困他的 Edom 人和车兵长． Judas 兵就逃跑、各回各家去了。",
             "22": "这样、 Edom 人背叛 Judas 、脱离他的权下、直到今日。那时 Libnah 人也背叛了。",
             "23": " Johoram 其余的事、凡他所行的都写在 Judas 列王记上。",
             "24": " Johoram 与他列祖同睡、葬在 David 城、他列祖的坟地里．他儿子 Ahoaziah 接续他作王。",
