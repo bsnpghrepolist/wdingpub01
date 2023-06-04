@@ -10228,7 +10228,7 @@ var CUVsen=
             "22": "于是那水治好了、直到今日、正如 Elishah 所说的。",
             "23": " Elishah 从那里上 Bethel 去．正上去的时候、有些童子从城里出来、戏笑他、说、秃头的上去吧、秃头的上去吧。",
             "24": "他回头看见、就奉 HYWY 的名咒诅他们。于是有两个母熊从林中出来、撕裂他们中间四十二个童子。",
-            "25": " Elishah 从 Bethel 上 Mount Carmel 、又从 Mount Carmel 回到 Shemer  Leah 。"
+            "25": "Elishah 从 Bethel 上 Mount Carmel 、又从 Mount Carmel 回到 Samaria 。"
         },
         "3": {
             "1": " Judas 王 Jehoshaphat 十八年、 Ahab 的儿子 Johoram 在 Shemer  Leah 登基、作了 Israel 王十二年。",
