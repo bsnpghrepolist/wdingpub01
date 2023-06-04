@@ -10231,7 +10231,7 @@ var CUVsen=
             "25": "Elishah 从 Bethel 上 Mount Carmel 、又从 Mount Carmel 回到 Samaria 。"
         },
         "3": {
-            "1": " Judas 王 Jehoshaphat 十八年、 Ahab 的儿子 Johoram 在 Shemer  Leah 登基、作了 Israel 王十二年。",
+            "1": "Judas 王 Jehoshaphat 十八年、 Ahab 的儿子 Johoram 在 Samaria 登基、作了 Israel 王十二年。",
             "2": "他行 HYWY 眼中看为恶的事、但不至像他父母所行的、因为除掉他父所造 Baal 的柱像。",
             "3": "然而他贴近 Nebat 的儿子 Jeroboam 使 Israel 人陷在罪里的那罪、总不离开。",
             "4": " Moab 王 Mesha 牧养许多羊．每年将十万羊羔的毛、和十万公绵羊的毛、给 Israel 王进贡。",
