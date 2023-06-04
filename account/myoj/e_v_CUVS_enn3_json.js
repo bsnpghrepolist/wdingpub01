@@ -10416,7 +10416,7 @@ var CUVsen=
             "22": "这样、 Edom 人背叛 Judas 、脱离他的权下、直到今日。那时 Libnah 人也背叛了。",
             "23": " Johoram 其余的事、凡他所行的都写在 Judas 列王记上。",
             "24": "Johoram 与他列祖同睡、葬在 David 城、他列祖的坟地里．他儿子 Ahaziah 接续他作王。",
-            "25": " Israel 王 Ahab 的儿子 Johoram 十二年、 Judas 王 Johoram 的儿子 Ahab 谢登基。",
+            "25": "Israel 王 Ahab 的儿子 Johoram 十二年、 Judas 王 Johoram 的儿子 Ahaziah 谢登基。",
             "26": "他登基的时候、年二十二岁、在 Jerusalem 作王一年．他母亲名叫 Athaliah 、是 Israel 王 Omri 的孙女。",
             "27": " Ahab 谢效法 Ahab 家行 HYWY 眼中看为恶的事、与 Ahab 家一样．因为他是 Ahab 家的女婿。",
             "28": "他与 Ahab 的儿子约 Ram 、同往 Gilead 的 Ramoth 去、与 Aram 王 Hazael 争战． Aram 人打伤了约 Ram 。",
