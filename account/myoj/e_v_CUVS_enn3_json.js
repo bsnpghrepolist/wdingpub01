@@ -10166,7 +10166,7 @@ var CUVsen=
             "37": "王既死了、众人将他送到 Samaria 、就葬在那里。",
             "38": "又有人把他的车、洗在 Samaria 的池旁．（妓女在那里洗澡）狗来餂他的血、正如 HYWY 所说的话。",
             "39": " Ahab 其余的事、凡他所行的、和他所修造的象牙宫、并所建筑的一切城邑、都写在 Israel 诸王记上。",
-            "40": " Ahab 与他列祖同睡．他儿子 Ahab 谢接续他作王。",
+            "40": "Ahab 与他列祖同睡．他儿子 Ahaziah 谢接续他作王。",
             "41": " Israel 王 Ahab 第四年、 Asa 的儿子 Jehoshaphat 登基作了 Judas 王．",
             "42": " Jehoshaphat 登基的时候、年三十五岁、在 Jerusalem 作王二十五年．他母亲名叫 Azubah 、乃 Shilhi 的女儿。",
             "43": " Jehoshaphat 行他父亲 Asa 所行的道、不偏离左右、行 HYWY 眼中看为正的事．只是丘坛还没有废去、百姓仍在那里献祭烧香。",
