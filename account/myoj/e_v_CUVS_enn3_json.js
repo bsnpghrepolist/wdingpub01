@@ -10177,7 +10177,7 @@ var CUVsen=
             "48": "Jehoshaphat 制造 Thar-shish 船只、要往 Ophir 去、将金子运来．只是没有去．因为船在Ezion Geber 破坏了。",
             "49": "Ahab 的儿子 Ahaziah 对 Jehoshaphat 说、容我的仆人和你的仆人坐船同去吧． Jehoshaphat 却不肯。",
             "50": " Jehoshaphat 与列祖同睡、葬在 David 城他列祖的坟地里．他儿子 Johoram 接续他作王。",
-            "51": " Judas 王 Jehoshaphat 十七年、 Ahab 的儿子 Ahab 谢在 Shemer  Leah 登基、作 Israel 王共二年。",
+            "51": "Judas 王 Jehoshaphat 十七年、 Ahab 的儿子 Ahaziah 在 Samaria 登基、作 Israel 王共二年。",
             "52": "他行 HYWY 眼中看为恶的事、效法他的父母、又行 Nebat 的儿子 Jeroboam 使 Israel 人陷在罪里的事．",
             "53": "他照他父亲一切所行的、事奉敬拜 Baal 、惹 HYWY  Israel 　神的怒气。"
         }
