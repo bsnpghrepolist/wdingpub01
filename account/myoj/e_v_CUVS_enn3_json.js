@@ -10478,7 +10478,7 @@ var CUVsen=
             "14": " Jehu 吩咐说，活捉他们。跟从的人就活捉了他们，将他们杀在 Betheked 的坑边，共四十二人，没有留下一个。",
             "15": " Jehu 从那里前行，恰遇 Rechab 的儿子 Jonadab 来迎接他， Jehu 问他安，对他说，你诚心待我像我诚心待你吗？ Jonadab 回答说，是。 Jehu 说，若是这样，你向我伸手，他就伸手。 Jehu 拉他上车。",
             "16": " Jehu 说，你和我同去，看我为 HYWY 怎样热心。于是请他坐在车上，",
-            "17": "到了 Shemer  Leah ，就把 Shemer  Leah  Ahab 家剩下的人都杀了，直到灭尽，正如 HYWY 对 Eliah-or-elijah 所说的。",
+            "17": "到了 Samaria ，就把 Samaria Ahab 家剩下的人都杀了，直到灭尽，正如 HYWY 对 Eliah-or-elijah 所说的。",
             "18": " Jehu 招聚众民，对他们说， Ahab 事奉 Baal 还冷淡， Jehu 却更热心。",
             "19": "现在我要给 Baal 献大祭。应当叫 Baal 的众先知和一切拜 Baal 的人，并 Baal 的众祭司，都到我这里来，不可缺少一个。凡不来的必不得活。 Jehu 这样行，是用诡计要杀尽拜 Baal 的人。",
             "20": " Jehu 说，要为 Baal 宣告严肃会。于是宣告了。",
