@@ -10096,7 +10096,7 @@ var CUVsen=
             "43": "于是 Israel 王闷闷不乐的回到 Samaria 、进了他的宫。"
         },
         "21": {
-            "1": "这事以后、又有一事、 Jezreel 人 Naboth 在 Jezreel 有一个葡萄园、靠近 Shemer  Leah 王 Ahab 的宫．",
+            "1": "这事以后、又有一事、 Jezreel 人 Naboth 在 Jezreel 有一个葡萄园、靠近 Samaria 王 Ahab 的宫．",
             "2": " Ahab 对 Naboth 说、你将你的葡萄园给我作菜园、因为是靠近我的宫、我就把更好的葡萄园换给你、或是你要银子、我就按着价值给你．",
             "3": " Naboth 对 Ahab 说、我敬畏 HYWY 、万不敢将我先人留下的产业给你。",
             "4": " Ahab 因 Jezreel 人 Naboth 说、我不敢将我先人留下的产业给你、就闷闷不乐的回宫、躺在床上、转脸向内、也不吃饭。",
