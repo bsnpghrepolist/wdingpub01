@@ -10445,7 +10445,7 @@ var CUVsen=
             "20": "守望的人又说、他到了他们那里、也不回来．车赶得甚猛、像 Nimshi 的孙子 Jehu 的赶法。",
             "21": "Johoram 吩咐说、套车．人就给他套车。 Israel 王 Johoram 、和 Judas 王 Ahaziah 、各坐自己的车、出去迎接 Jehu 、在 Jezreel 人 Naboth 的田那里遇见他。",
             "22": " Johoram 见 Jehu 就说、 Jehu 阿、平安么。 Jehu 说、你母亲 Jezebel 的淫行邪术这样多、焉能平安呢。",
-            "23": " Johoram 就转车逃跑、对 Ahoaziah 说、 Ahoaziah 阿、反了。",
+            "23": "Johoram 就转车逃跑、对 Ahaziah 说、 Ahaziah 阿、反了。",
             "24": " Jehu 开满了弓、射中 Johoram 的脊背．箭从心窝穿出、 Johoram 就仆倒在车上。",
             "25": " Jehu 对他的军长 Bidkar 说、你把他抛在 Jezreel 人 Naboth 的田间．你当追想、你我一同坐车跟随他父 Ahab 的时候、 HYWY 对 Ahab 所说的预言、",
             "26": "说、我昨日看见 Naboth 的血、和他众子的血．我必在这块田上报应你．这是 HYWY 说的．现在你要照着 HYWY 的话、把他抛在这田间。",
