@@ -10236,7 +10236,7 @@ var CUVsen=
             "3": "然而他贴近 Nebat 的儿子 Jeroboam 使 Israel 人陷在罪里的那罪、总不离开。",
             "4": " Moab 王 Mesha 牧养许多羊．每年将十万羊羔的毛、和十万公绵羊的毛、给 Israel 王进贡。",
             "5": " Ahab 死后、 Moab 王背叛 Israel 王。",
-            "6": "那时 Johoram 王出 Shemer  Leah 、数点 Israel 众人。",
+            "6": "那时 Johoram 王出 Samaria 、数点 Israel 众人。",
             "7": "前行的时候、差人去见 Judas 王 Jehoshaphat 、说、 Moab 王背叛我．你肯同我去攻打 Moab 么。他说、我肯上去．你我不分彼此、我的民与你的民一样、我的马与你的马一样。",
             "8": " Johoram 说、我们从那条路上去呢。回答说、从 Edom  Jeshimon 的路上去。",
             "9": "于是 Israel 王、和 Judas 王、并 Edom 王、都一同去绕行七日的路程．军队和所带的牲畜没有水喝。",
