@@ -10449,7 +10449,7 @@ var CUVsen=
             "24": " Jehu 开满了弓、射中 Johoram 的脊背．箭从心窝穿出、 Johoram 就仆倒在车上。",
             "25": " Jehu 对他的军长 Bidkar 说、你把他抛在 Jezreel 人 Naboth 的田间．你当追想、你我一同坐车跟随他父 Ahab 的时候、 HYWY 对 Ahab 所说的预言、",
             "26": "说、我昨日看见 Naboth 的血、和他众子的血．我必在这块田上报应你．这是 HYWY 说的．现在你要照着 HYWY 的话、把他抛在这田间。",
-            "27": " Judas 王 Ahoaziah 见这光景、就从 Beth-haggan 逃跑。 Jehu 追赶他说、把这人也杀在车上。到了靠近 Ibleam  Gur 的坡上击伤了他。他逃到 Megiddo 、就死在那里。",
+            "27": "Judas 王 Ahaziah 见这光景、就从 Beth-haggan 逃跑。 Jehu 追赶他说、把这人也杀在车上。到了靠近 Ibleam  Gur 的坡上击伤了他。他逃到 Megiddo 、就死在那里。",
             "28": "他的臣仆用车将他的尸首送到 Jerusalem 、葬在 David 城、他自己的坟墓里、与他列祖同葬。",
             "29": " Ahab 谢登基、作 Judas 王的时候、是在 Ahab 的儿子 Johoram 第十一年。",
             "30": " Jehu 到了 Jezreel 、 Jezebel 听见、就擦粉、梳头、从窗户里往外观看。",
