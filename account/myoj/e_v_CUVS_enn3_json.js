@@ -10451,7 +10451,7 @@ var CUVsen=
             "26": "说、我昨日看见 Naboth 的血、和他众子的血．我必在这块田上报应你．这是 HYWY 说的．现在你要照着 HYWY 的话、把他抛在这田间。",
             "27": "Judas 王 Ahaziah 见这光景、就从 Beth-haggan 逃跑。 Jehu 追赶他说、把这人也杀在车上。到了靠近 Ibleam  Gur 的坡上击伤了他。他逃到 Megiddo 、就死在那里。",
             "28": "他的臣仆用车将他的尸首送到 Jerusalem 、葬在 David 城、他自己的坟墓里、与他列祖同葬。",
-            "29": " Ahab 谢登基、作 Judas 王的时候、是在 Ahab 的儿子 Johoram 第十一年。",
+            "29": "Ahaziah登基、作 Judas 王的时候、是在 Ahab 的儿子 Johoram 第十一年。",
             "30": " Jehu 到了 Jezreel 、 Jezebel 听见、就擦粉、梳头、从窗户里往外观看。",
             "31": " Jehu 进门的时候、 Jezebel 说、杀主人的 Zimrio 阿、平安么。",
             "32": " Jehu 抬头向窗户观看、说、谁顺从我。有两三个太监从窗户往外看他。",
