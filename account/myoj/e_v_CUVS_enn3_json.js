@@ -10438,7 +10438,7 @@ var CUVsen=
             "13": "他们就急忙、各将自己的衣服铺在上层台阶、使 Jehu 坐在其上．他们吹角、说、 Jehu 作王了。",
             "14": "这样、 Nimshi 的孙子、 Jehoshaphat 的儿子 Jehu 、背叛 Joram 。先是 Joram 、和 Israel 众人、因为 Aram 王 Hazael 的缘故、把守 Gilead 的 Ramoth ．",
             "15": "但 Johoram 王回到 Jezreel 、医治与 Aram 王 Hazael 打仗所受的伤。 Jehu 说、若合你们的意思、就不容人逃出城往 Jezreel 报信去。",
-            "16": "于是 Jehu 坐车、往 Jezreel 去．因为 Johoram 病卧在那里。 Judas 王 Ahoaziah 已经下去看望他。",
+            "16": "于是 Jehu 坐车、往 Jezreel 去．因为 Johoram 病卧在那里。 Judas 王 Ahaziah 已经下去看望他。",
             "17": "有一个守望的人、站在 Jezreel 的楼上、看见 Jehu 带着一群人来、就说、我看见一群人。 Johoram 说、打发一个骑马的去、迎接他们、问说、平安不平安。",
             "18": "骑马的就去、迎接 Jehu 、说、王问说、平安不平安。 Jehu 说、平安不平安与你何干．你转在我后头吧。守望的人又说、使者到了他们那里、却不回来。",
             "19": "王又打发一个骑马的去．这人到了他们那里、说、王问说、平安不平安。 Jehu 说、平安不平安与你何干．你转在我后头吧。",
