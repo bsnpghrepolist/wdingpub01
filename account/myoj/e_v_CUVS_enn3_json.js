@@ -10473,7 +10473,7 @@ var CUVsen=
             "9": "次日早晨， Jehu 出来，站着对众民说，你们都是公义的，我背叛我主人，将他杀了。这些人却是谁杀的呢？",
             "10": "由此可知， HYWY 指着 Ahab 家所说的话一句没有落空，因为 HYWY 借他仆人 Eliah-or-elijah 所说的话都成就了。",
             "11": "凡 Ahab 家在 Jezreel 所剩下的人和他的大臣，密友，祭司， Jehu 尽都杀了，没有留下一个。",
-            "12": " Jehu 起身往 Shemer  Leah 去。在路上，牧人 Betheked ，",
+            "12": "Jehu 起身往 Samaria 去。在路上，牧人 Betheked ，",
             "13": "遇见 Judas 王 Ahoaziah 的弟兄，问他们说，你们是谁。回答说，我们是 Ahoaziah 的弟兄，现在下去要问王和太后的众子安。",
             "14": " Jehu 吩咐说，活捉他们。跟从的人就活捉了他们，将他们杀在 Betheked 的坑边，共四十二人，没有留下一个。",
             "15": " Jehu 从那里前行，恰遇 Rechab 的儿子 Jonadab 来迎接他， Jehu 问他安，对他说，你诚心待我像我诚心待你吗？ Jonadab 回答说，是。 Jehu 说，若是这样，你向我伸手，他就伸手。 Jehu 拉他上车。",
