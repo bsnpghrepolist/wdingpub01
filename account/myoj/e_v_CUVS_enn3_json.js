@@ -10238,7 +10238,7 @@ var CUVsen=
             "5": " Ahab 死后、 Moab 王背叛 Israel 王。",
             "6": "那时 Johoram 王出 Samaria 、数点 Israel 众人。",
             "7": "前行的时候、差人去见 Judas 王 Jehoshaphat 、说、 Moab 王背叛我．你肯同我去攻打 Moab 么。他说、我肯上去．你我不分彼此、我的民与你的民一样、我的马与你的马一样。",
-            "8": " Johoram 说、我们从那条路上去呢。回答说、从 Edom  Jeshimon 的路上去。",
+            "8": "Johoram 说、我们从那条路上去呢。回答说、从 Edom 旷野的路上去。",
             "9": "于是 Israel 王、和 Judas 王、并 Edom 王、都一同去绕行七日的路程．军队和所带的牲畜没有水喝。",
             "10": " Israel 王说、哀哉、 HYWY 招聚我们这三王、乃要交在 Moab 人的手里。",
             "11": " Jehoshaphat 说、这里不是有 HYWY 的先知么．我们可以托他求问 HYWY 。 Israel 王的一个臣子回答说、这里有 Shaphat 的儿子 Elishah 、就是从前服事 Eliah-or-elijah 的。〔原文作倒水在 Eliah-or-elijah 手上的〕",
