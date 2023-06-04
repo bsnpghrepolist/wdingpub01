@@ -10420,7 +10420,7 @@ var CUVsen=
             "26": "他登基的时候、年二十二岁、在 Jerusalem 作王一年．他母亲名叫 Athaliah 、是 Israel 王 Omri 的孙女。",
             "27": "Ahaziah 效法 Ahab 家行 HYWY 眼中看为恶的事、与 Ahab 家一样．因为他是 Ahab 家的女婿。",
             "28": "他与 Ahab 的儿子Joram 、同往 Gilead 的 Ramoth 去、与 Aram 王 Hazael 争战． Aram 人打伤了Joram 。",
-            "29": "约 Ram 王回到 Jezreel 、医治在 Ramoth 与 Aram 王 Hazael 打仗的时候所受的伤。 Judas 王约 Ram 的儿子 Ahab 谢、因为 Ahab 的儿子约 Ram 病了、就下到 Jezreel 看望他。"
+            "29": "Joram 王回到 Jezreel 、医治在 Ramoth 与 Aram 王 Hazael 打仗的时候所受的伤。 Judas 王约 Ram 的儿子 Ahab 谢、因为 Ahab 的儿子Joram 病了、就下到 Jezreel 看望他。"
         },
         "9": {
             "1": "先知 Elishah 叫了一个先知门徒来、吩咐他说、你束上腰、手拿这瓶膏油、往 Gilead 的 Ramoth 去。",
