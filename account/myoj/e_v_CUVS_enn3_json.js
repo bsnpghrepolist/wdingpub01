@@ -10497,7 +10497,7 @@ var CUVsen=
             "33": "乃是 Jordan 河东， Gilead 全地，从靠近 Arnon 谷边的 Aroer 起，就是 Gilead 和 Bashan 的 Gad 人， Reuben 人， Manasseh 人之地。",
             "34": " Jehu 其余的事，凡他所行的和他的勇力都写在 Israel 诸王记上。",
             "35": " Jehu 与他列祖同睡，葬在 Shemer  Leah 。他儿子 Jehoahaz 接续他作王。",
-            "36": " Jehu 在 Shemer  Leah 作 Israel 王二十八年。"
+            "36": "Jehu 在 Samaria 作 Israel 王二十八年。"
         },
         "11": {
             "1": " Ahoaziah 的母亲 Athaliah 见他儿子死了、就起来剿灭王室。",
