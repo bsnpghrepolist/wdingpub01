@@ -10174,7 +10174,7 @@ var CUVsen=
             "45": " Jehoshaphat 其余的事、和他所显出的勇力、并他怎样争战、都写在 Judas 列王记上。",
             "46": " Jehoshaphat 将他父亲 Asa 在世所剩下的娈童、都从国中除去了。",
             "47": "那时 Edom 没有王、有总督治理。",
-            "48": " Jehoshaphat 制造 Thar-shish 船只、要往 Ophir 去、将金子运来．只是没有去．因为船在以旬迦别破坏了。",
+            "48": "Jehoshaphat 制造 Thar-shish 船只、要往 Ophir 去、将金子运来．只是没有去．因为船在Ezion Geber 破坏了。",
             "49": " Ahab 的儿子 Ahab 谢对 Jehoshaphat 说、容我的仆人和你的仆人坐船同去吧． Jehoshaphat 却不肯。",
             "50": " Jehoshaphat 与列祖同睡、葬在 David 城他列祖的坟地里．他儿子 Johoram 接续他作王。",
             "51": " Judas 王 Jehoshaphat 十七年、 Ahab 的儿子 Ahab 谢在 Shemer  Leah 登基、作 Israel 王共二年。",
