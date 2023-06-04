@@ -10113,7 +10113,7 @@ var CUVsen=
             "15": " Jezebel 听见 Naboth 被石头打死、就对 Ahab 说、你起来得 Jezreel 人 Naboth 不肯为价银给你的葡萄园吧．现在他已经死了。",
             "16": " Ahab 听见 Naboth 死了、就起来下去、要得 Jezreel 人 Naboth 的葡萄园。",
             "17": " HYWY 的话临到提斯比人 Eliah-or-elijah 说、",
-            "18": "你起来、去见住 Shemer  Leah 的 Israel 王 Ahab ．他下去要得 Naboth 的葡萄园．现今正在那园里。",
+            "18": "你起来、去见住 Samaria 的 Israel 王 Ahab ．他下去要得 Naboth 的葡萄园．现今正在那园里。",
             "19": "你要对他说、 HYWY 如此说、你杀了人、又得他的产业么．又要对他说、 HYWY 如此说、狗在何处餂 Naboth 的血、也必在何处餂你的血。",
             "20": " Ahab 对 Eliah-or-elijah 说、我仇敌阿、你找到我么．他回答说、我找到你了、因为你卖了自己、行 HYWY 眼中看为恶的事．",
             "21": " HYWY 说、我必使灾祸临到你、将你除尽、凡属你的男丁、无论困住的、自由的、都从 Israel 中剪除．",
