@@ -10419,7 +10419,7 @@ var CUVsen=
             "25": "Israel 王 Ahab 的儿子 Johoram 十二年、 Judas 王 Johoram 的儿子 Ahaziah 登基。",
             "26": "他登基的时候、年二十二岁、在 Jerusalem 作王一年．他母亲名叫 Athaliah 、是 Israel 王 Omri 的孙女。",
             "27": "Ahaziah 效法 Ahab 家行 HYWY 眼中看为恶的事、与 Ahab 家一样．因为他是 Ahab 家的女婿。",
-            "28": "他与 Ahab 的儿子约 Ram 、同往 Gilead 的 Ramoth 去、与 Aram 王 Hazael 争战． Aram 人打伤了约 Ram 。",
+            "28": "他与 Ahab 的儿子约 Ram 、同往 Gilead 的 Ramoth 去、与 Aram 王 Hazael 争战． Aram 人打伤了Joram 。",
             "29": "约 Ram 王回到 Jezreel 、医治在 Ramoth 与 Aram 王 Hazael 打仗的时候所受的伤。 Judas 王约 Ram 的儿子 Ahab 谢、因为 Ahab 的儿子约 Ram 病了、就下到 Jezreel 看望他。"
         },
         "9": {
