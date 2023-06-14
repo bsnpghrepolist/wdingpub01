@@ -81,6 +81,6 @@ var MyBiblicalDiary_json =
         "0524": "Dennis: groompy(unhappiness)<div>Cast a vision for movement(not a program)</div><div>Difference between leader and mgr.</div><div>Remove stitches of teeth.</div><div>Daoism advocate humbleness: fake humble.</div><div><br></div>",
         "0602": "jx 721",
         "0628": "jx 721",
-        "0807": "aukland"
+        "0807": "aukland<div>18:05 JQ149</div>"
     }
 }
