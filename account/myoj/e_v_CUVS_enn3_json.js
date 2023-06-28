@@ -9755,7 +9755,7 @@ var CUVsen=
             "20": " Tahpenes 的妹子给 Hadad 生了一个儿子、名叫 Genubath 、 Tahpenes 使 Genubath 在法老的宫里断奶． Genubath 就与法老的众子一同住在法老的宫里。",
             "21": " Hadad 在 Egypt 听见 David 与他列祖同睡、元帅 Joab 也死了、就对法老说、求王容我回本国去。",
             "22": "法老对他说、你在我这里有甚么缺乏、你竟要回你本国去呢。他回答说、我没有缺乏甚么．只是求王容我回去。",
-            "23": "神又使 Eliah-or-elijah 大的儿子 Rezon 兴起、作 Solomon 的敌人．他先前逃避主人 Zobah 王 Hadadezer ．",
+            "23": "神又使 Eliadah 的儿子 Rezon 兴起、作 Solomon 的敌人．他先前逃避主人 Zobah 王 Hadadezer ．",
             "24": " David 击杀 Zobah 人的时候、 Rezon 招聚了一群人、自己作他们的头目、往 Damascus 居住、在那里作王。",
             "25": " Solomon 活着的时候、 Hadad 为患之外、 Rezon 也作 Israel 的敌人．他恨恶 Israel 人、且作了 Aram 人的王。",
             "26": " Solomon 的臣仆、 Nebat 的儿子 Jeroboam 、也举手攻击王．他是 Ephraim 支派的 Zeredah 人．他母亲是寡妇、名叫 Zereda 。",
