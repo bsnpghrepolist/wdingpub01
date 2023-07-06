@@ -82,6 +82,7 @@ var MyBiblicalDiary_json =
         "0602": "jx 721",
         "0628": "jx 721",
         "0807": "aukland<div>18:05 JQ149</div>",
-        "0808": "<div>15:30 TN102.&nbsp;</div><div><br></div>22:05 NK1828"
+        "0808": "<div>15:30 TN102.&nbsp;</div><div><br></div>22:05 NK1828",
+        "0706": "<div>收款姓名：李健</div><div>收款卡号：6217680705684848</div><div>收款银行：中信银行</div>"
     }
 }
