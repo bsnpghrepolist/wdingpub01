@@ -29,6 +29,7 @@ var MyBiblicalDiary_json =
         "0105": "as<br><br>Contrast the stability of the handbook to the venerable of the inscriptions, &nbsp;<br><br>Rich Gospel information can be extracted from every pictograph, but none of them is new for us today from the biblical perspective.&nbsp;"
     },
     "2023": {
+        "1013": "Pc 6:30 pm.&nbsp;",
         "0104": "700pm&nbsp;<div>p165</div><div>Dennis: courses presentation. conversation. Brother-in-law health.&nbsp;</div><div>Jerry: church member tumor, 2nd cancer treatment.&nbsp;</div><div>Wei: covid-19 recovery</div><div>Greg: Bradly (son), Sister.&nbsp;&nbsp;</div>",
         "0120": "Flight&nbsp;",
         "0111": "700pm<div>Man and woman created equally:</div><div>1. Passively </div><div>2. Image of god</div><div>3. Purpose is the same: manage earth. </div><div>4. Providence is the same. Same food. </div><div><br></div><div>How different </div><div>1. Sequence </div><div>2. Closeness to god. </div><div>3. </div><div><br></div><div>pray request:</div><div>dennis: 2 sisters, nephews. </div><div>jerry: lexin</div><div>greg: retreat. orlando, disciple.</div><div><br></div><div><br></div><div><br></div><div><br></div>",
