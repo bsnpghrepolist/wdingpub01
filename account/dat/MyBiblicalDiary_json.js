@@ -32,6 +32,7 @@ var MyBiblicalDiary_json =
         "1004": "Dental 2:00 pm",
         "1013": "Pc 6:30 pm.&nbsp;",
         "1026": "Jerry: out.&nbsp;",
+        "1109": "Jerry: friend lead to Christ. Lexing presentation.&nbsp;<div>Tom: child school.&nbsp;</div><div>Dennis: group, maple tree replacing. Ellison pain.&nbsp;</div><div>Hip hurt. Donna test ok. &nbsp;</div><div><br></div>",
         "0104": "700pm&nbsp;<div>p165</div><div>Dennis: courses presentation. conversation. Brother-in-law health.&nbsp;</div><div>Jerry: church member tumor, 2nd cancer treatment.&nbsp;</div><div>Wei: covid-19 recovery</div><div>Greg: Bradly (son), Sister.&nbsp;&nbsp;</div>",
         "0120": "Flight&nbsp;",
         "0111": "700pm<div>Man and woman created equally:</div><div>1. Passively </div><div>2. Image of god</div><div>3. Purpose is the same: manage earth. </div><div>4. Providence is the same. Same food. </div><div><br></div><div>How different </div><div>1. Sequence </div><div>2. Closeness to god. </div><div>3. </div><div><br></div><div>pray request:</div><div>dennis: 2 sisters, nephews. </div><div>jerry: lexin</div><div>greg: retreat. orlando, disciple.</div><div><br></div><div><br></div><div><br></div><div><br></div>",
