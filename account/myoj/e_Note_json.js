@@ -6258,7 +6258,7 @@ var _bnotes=
             "18": ""
         },
         "2": {
-            "1": "",
+            "1": "<ol><li>Gentile. Dammed race</li><li>Adultery, Woman low class. </li><li><br></li><li>Faith, life. </li><li>Rebel motherland culture race. </li><li>Obey God. </li></ol><div><br></div><div><br></div>",
             "2": "",
             "3": "",
             "4": "",
