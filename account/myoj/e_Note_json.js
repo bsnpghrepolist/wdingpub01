@@ -6711,7 +6711,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": ""
+            "18": "<ol><li>God wants us to conquer the Santan through Him.</li><li>We need to conquer the sin inside first, outside is done by God.</li></ol>"
         },
         "18": {
             "1": "",
