@@ -6864,7 +6864,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "<ol><li>https://cmcbiblereading.com/2015/06/16/约书亚记第17章逐节注解、祷读/amp/</li></ol>",
+            "10": "<ol><li>https://cmcbiblereading.com/2015/06/16/约书亚记第17章逐节注解、祷读/amp/</li><li>how to handle differences within the church among br/si.</li><li>Cathlic, linEn party, Momen, cult.</li><li>Pray others blessing others. </li><li>Be tube of the blessing from God.</li><li>For the kingdom of God. The Great Commission. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
