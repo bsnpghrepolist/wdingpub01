@@ -6865,7 +6865,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "<ol><li>https://cmcbiblereading.com/2015/06/16/约书亚记第17章逐节注解、祷读/amp/</li><li>Cad and Reubon left in east of river. Is it the will of God?</li><li>how to handle differences within the church among br/si.</li><li>Cathlic, linEn party, Momen, cult.</li><li>Pray for others blessing others. </li><li>Be a tube of the blessing from God.</li><li>For the kingdom of God. The Great Commission. </li><li>Personal salvation vs Kingdom of God. </li></ol>",
-            "11": "",
+            "11": "<ol><li>https://www.britannica.com/place/Gilead-ancient-region-Palestine (map of Gelead)</li><li><br></li></ol>",
             "12": "",
             "13": "",
             "14": "",
