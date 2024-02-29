@@ -6897,7 +6897,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "<ol><li>Do not mix the gospel faith with the world and culture. Keep our heart is more important.  </li></ol>",
             "8": "",
             "9": "",
             "10": "",
