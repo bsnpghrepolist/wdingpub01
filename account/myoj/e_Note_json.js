@@ -6891,7 +6891,7 @@ var _bnotes=
             "34": ""
         },
         "23": {
-            "1": "<ol><li>110 years old.</li></ol>",
+            "1": "<ol><li>Joshua was 110 years old.</li></ol>",
             "2": "",
             "3": "",
             "4": "",
