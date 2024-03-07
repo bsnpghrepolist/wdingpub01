@@ -6948,7 +6948,7 @@ var _bnotes=
         "1": {
             "1": "",
             "2": "<ol><li>God selects Judah, the ancestor of Jesus.</li></ol>",
-            "3": "",
+            "3": "<ol><li>Judah, Simeon blood brothers from a servant of Liya.</li></ol>",
             "4": "",
             "5": "",
             "6": "",
