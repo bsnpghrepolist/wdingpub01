@@ -6947,7 +6947,7 @@ var _bnotes=
     "Jug": {
         "1": {
             "1": "",
-            "2": "<ol><li>God selects Judah.</li></ol>",
+            "2": "<ol><li>God selects Judah, the ancestor of Jesus.</li></ol>",
             "3": "",
             "4": "",
             "5": "",
