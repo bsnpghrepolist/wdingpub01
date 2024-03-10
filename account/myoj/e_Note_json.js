@@ -5863,7 +5863,7 @@ var _bnotes=
         "23": {
             "1": "",
             "2": "",
-            "3": "",
+            "3": "<ol><li> Lot and his daughters</li></ol>",
             "4": "",
             "5": "",
             "6": "",
@@ -6258,7 +6258,7 @@ var _bnotes=
             "18": ""
         },
         "2": {
-            "1": "",
+            "1": "<ol><li>Gentile. Dammed race</li><li>Adultery, Woman low class. </li></ol><ol><li>Faith, </li><li>Risk life. </li><li>Rebel motherland culture race. </li><li>Obey God unconditionally. </li><li>Love brothers sisters </li></ol><div><br></div><div><br></div>",
             "2": "",
             "3": "",
             "4": "",
@@ -6711,7 +6711,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": ""
+            "18": "<ol><li>God wants us to conquer the Santan through Him.</li><li>We need to conquer the sin inside first, outside is done by God.</li></ol>"
         },
         "18": {
             "1": "",
@@ -6864,14 +6864,14 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
-            "11": "",
+            "10": "<ol><li>https://cmcbiblereading.com/2015/06/16/约书亚记第17章逐节注解、祷读/amp/</li><li>Cad and Reubon left in east of river. Is it the will of God?</li><li>how to handle differences within the church among br/si.</li><li>Cathlic, linEn party, Momen, cult.</li><li>Pray for others blessing others. </li><li>Be a tube of the blessing from God.</li><li>For the kingdom of God. The Great Commission. </li><li>Personal salvation vs Kingdom of God. </li></ol>",
+            "11": "<ol><li>https://www.britannica.com/place/Gilead-ancient-region-Palestine (map of Gelead)</li><li><br></li></ol>",
             "12": "",
             "13": "",
             "14": "",
-            "15": "",
+            "15": "<ol><li>Num32:1-</li></ol>",
             "16": "",
-            "17": "",
+            "17": "<ol><li>Num25:9. </li></ol>",
             "18": "",
             "19": "",
             "20": "",
@@ -6891,13 +6891,13 @@ var _bnotes=
             "34": ""
         },
         "23": {
-            "1": "",
+            "1": "<ol><li>Joshua was 110 years old.</li></ol>",
             "2": "",
             "3": "",
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "<ol><li>Do not mix the gospel faith with the world and culture. Keep our heart is more important.  </li></ol>",
             "8": "",
             "9": "",
             "10": "",
@@ -6947,8 +6947,8 @@ var _bnotes=
     "Jug": {
         "1": {
             "1": "",
-            "2": "",
-            "3": "",
+            "2": "<ol><li>God selects Judah, the ancestor of Jesus.</li></ol>",
+            "3": "<ol><li>Judah, Simeon blood brothers from a servant of Liya.</li></ol>",
             "4": "",
             "5": "",
             "6": "",
@@ -6960,7 +6960,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "",
+            "15": "<ol><li>Jos15</li></ol>",
             "16": "",
             "17": "",
             "18": "",
@@ -24183,7 +24183,7 @@ var _bnotes=
     "Amo": {
         "1": {
             "1": "<ol><li>ffx</li><li>fda</li><li>safdasdf</li><li>ooo<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\"><tbody><tr><td>tt</td><td>rew</td></tr><tr><td>rr</td><td>bsser</td></tr><tr><td>rew</td><td>wret</td></tr></tbody></table><div></div></li></ol>",
-            "2": "",
+            "2": "<ol><li>tet</li></ol>",
             "3": "",
             "4": "",
             "5": "",
@@ -28373,7 +28373,7 @@ var _bnotes=
             "24": "",
             "25": "",
             "26": "",
-            "27": "",
+            "27": "<ol><li>Food can be two purposes. </li></ol>",
             "28": "",
             "29": "",
             "30": "",
