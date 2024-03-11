@@ -24184,7 +24184,7 @@ var _bnotes=
         "1": {
             "1": "<ol><li>ffx</li><li>fda</li><li>safdasdf</li><li>ooo<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\"><tbody><tr><td>tt</td><td>rew</td></tr><tr><td>rr</td><td>bsser</td></tr><tr><td>rew</td><td>wret</td></tr></tbody></table><div></div></li></ol>",
             "2": "240311r.240311r.240312r.<ol><li>tet</li></ol>",
-            "3": "",
+            "3": "<ol><li></li></ol>",
             "4": "",
             "5": "",
             "6": "",
