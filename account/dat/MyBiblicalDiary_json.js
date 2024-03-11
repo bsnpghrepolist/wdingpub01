@@ -92,5 +92,8 @@ var MyBiblicalDiary_json =
         "0713": "esl:9-10",
         "0720": "esl: skip",
         "0727": "esl:9-10"
+    },
+    "2024": {
+        "0312": "Share prayers&nbsp;"
     }
 }
