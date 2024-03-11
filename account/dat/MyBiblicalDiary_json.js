@@ -94,6 +94,7 @@ var MyBiblicalDiary_json =
         "0727": "esl:9-10"
     },
     "2024": {
-        "0312": "Share prayers&nbsp;"
+        "0312": "Share prayers&nbsp;",
+        "0326": "Jos8:18-21"
     }
 }
