@@ -7009,7 +7009,7 @@ var _bnotes=
             "23": ""
         },
         "3": {
-            "1": "240311_204657_ed.<ol><li>God wanted all Israel to fight in the war. </li><li>Israelites wanted peace in the life—comfort zone, entertainment, corruption, idolatry life. </li></ol>",
+            "1": "240311_220157_ed.<ol><li>God wanted all Israel to fight in the war. </li><li>Israelites wanted peace in the life—comfort zone, entertainment, corruption, idolatry life. </li><li>Jas1:13。</li></ol>",
             "2": "240311_212224_ed.<ol><li>The warfare is not about militarism technology, strategy, tactics, the art of war, surveillance, liars, etc. </li><li>it is about the justice, righteousness, the will of the the Lord. The mission of God. The obeying/relying/love God. Understanding/remember/following the Moses Law. Remember the ancestors, the mysteries and actions of God. Teaching next generation. </li><li>Praise the Lord. </li><li>Love neighbors. Support each other. Understanding each other. </li><li>Self care, prayer to God. </li></ol>",
             "3": "240311_214547_ed.<ol><li>Mountain Baal Hermon. <a href=\"https://www.openbible.info/geo/ancient/ac8955e/mount-baal-hermon\">https://www.openbible.info/geo/ancient/ac8955e/mount-baal-hermon</a></li><li>Leno Hamath. <a href=\"https://www.openbible.info/geo/ancient/a5eb047/lebo-hamath\">https://www.openbible.info/geo/ancient/a5eb047/lebo-hamath</a></li><li><br></li></ol>",
             "4": "",
