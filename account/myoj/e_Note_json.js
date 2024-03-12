@@ -7009,7 +7009,7 @@ var _bnotes=
             "23": ""
         },
         "3": {
-            "1": "",
+            "1": "240311_204544_ed.<ol><li>God wanted all Israel to fight in the war. </li><li>Israelites wanted peace in the life—comfort zone, entertainment, idolatry life. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
