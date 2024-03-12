@@ -7010,7 +7010,7 @@ var _bnotes=
         },
         "3": {
             "1": "240311_204657_ed.<ol><li>God wanted all Israel to fight in the war. </li><li>Israelites wanted peace in the life—comfort zone, entertainment, corruption, idolatry life. </li></ol>",
-            "2": "",
+            "2": "240311_210046_ed.<ol><li>The warfare is not about militarism technology, strategy, tactics, the art of war, surveillance, liars, etc. </li><li>it is about the justice, righteousness, the will of the the Lord. The mission of God. The obeying/relying/love God. Understanding/remember/following the Moses Law. Remember the ancestors, the mysteries and actions of God. Teaching next generation. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
