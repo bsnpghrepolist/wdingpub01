@@ -6984,7 +6984,7 @@ var _bnotes=
             "36": ""
         },
         "2": {
-            "1": "",
+            "1": "240311_213231_ed.<ol><li>Map   <a href=\"https://bibleatlas.org/full/bochim.htm\">https://bibleatlas.org/full/bochim.htm</a></li><li><br></li></ol>",
             "2": "<ol><li></li></ol>",
             "3": "",
             "4": "",
