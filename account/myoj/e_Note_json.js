@@ -30313,7 +30313,7 @@ var _bnotes=
         "8": {
             "1": "",
             "2": "",
-            "3": "<ol><li>Law must work with ethos and conscience. </li></ol>",
+            "3": "240314_171515(ed).<ol><li>Law must work with ethos and conscience. </li><li>Law is limited because of weakness </li></ol>",
             "4": "<ol><li>The purpose of laws is to be righteousness, </li><li>Fulfill the law. Jesus said I came not forfeit the law but fulfilled the law. </li><li>Righteousness = A. Follow the laws B. To offering sacrifices. </li></ol>",
             "5": "<ol><li>See Jhn3:6</li><li>How to love neighbors with all your heart soul mind strength. </li></ol>",
             "6": "<ol><li>Greatest commands </li></ol>",
