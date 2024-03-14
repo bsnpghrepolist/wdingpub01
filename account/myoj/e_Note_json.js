@@ -30328,7 +30328,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "240314_164306(ed).<ol><li>Ccp and many religions make up a beautiful glorious idealism to allow people to die for. </li></ol>",
+            "18": "240314_164348(mm).<ol><li>Ccp and many religions make up a beautiful glorious idealism to allow people to die for. </li></ol>",
             "19": "<ol><li>creation contains information the sons of God. </li><li>The purpose of the creation. </li></ol>",
             "20": "",
             "21": "<ol><li>The world will decay like a car a house. </li><li>The meaning of the world is to glorify Jesus and his bride — the children of God. </li></ol>",
