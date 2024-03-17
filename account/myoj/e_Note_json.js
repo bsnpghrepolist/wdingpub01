@@ -32971,7 +32971,7 @@ var _bnotes=
             "10": "Jesus said so. ",
             "11": "",
             "12": "",
-            "13": "Christian does not afraid of the end of day but expect it. ",
+            "13": "240317_153519(ed).Christian does not afraid of the end of day but expect it. ",
             "14": "How to expect? Not sleep snap like waiting for a bus. ",
             "15": "Example Paul. ",
             "16": "Be careful the heresy during the waiting time. ",
