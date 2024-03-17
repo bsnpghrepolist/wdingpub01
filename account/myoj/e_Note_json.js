@@ -5867,7 +5867,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "240317_122613(ed).<ol><li>Different treatment among Egyptian, Edomite, and Canaanite. </li></ol>",
             "8": "",
             "9": "",
             "10": "",
