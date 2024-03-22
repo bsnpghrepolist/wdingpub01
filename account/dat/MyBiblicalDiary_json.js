@@ -95,6 +95,6 @@ var MyBiblicalDiary_json =
     },
     "2024": {
         "0312": "Share prayers&nbsp;",
-        "0326": "Jos8:18-21"
+        "0326": "Allen Vickers, &nbsp;11:00 dentist&nbsp;<div><br></div>"
     }
 }
