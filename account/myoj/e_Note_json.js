@@ -7190,7 +7190,7 @@ var _bnotes=
             "18": "",
             "19": "",
             "20": "",
-            "21": "240324_152854(ed).<ol><li>The bolts of your gates will be iron and bronze, and your strength will equal your days.\" (Deu33:25 NIV) </li><li><a href=\"http://www.fishermanofchrist.org/?q=node/1417\">http://www.fishermanofchrist.org/?q=node/1417</a></li><li>Why did they not fear of death?</li><li>ZZ are filled with evil spirits. </li><li>ZZ don’t believe that Gileon dear to kill them. </li></ol>",
+            "21": "240324_153404(ed).<ol><li>The bolts of your gates will be iron and bronze, and your strength will equal your days.\" (Deu33:25 NIV) </li><li><a href=\"http://www.fishermanofchrist.org/?q=node/1417\">http://www.fishermanofchrist.org/?q=node/1417</a></li><li>Why did they not fear of death?</li><li>ZZ are filled with evil spirits. </li><li>ZZ don’t believe that Gileon dear to kill them. </li><li>Zebah (Hebrew: זֶ֫בַח Zeḇaḥ, \"sacrifice\", Zebee in the Brenton Septuagint Translation and the Douai-Rheims Bible) and Zalmunna (צַלְמֻנָּע Ṣalmunnā‘, \"shade denied\" or \"Salm protects\" </li></ol>",
             "22": "",
             "23": "",
             "24": "",
