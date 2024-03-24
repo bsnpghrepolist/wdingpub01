@@ -7190,7 +7190,7 @@ var _bnotes=
             "18": "",
             "19": "",
             "20": "",
-            "21": "240324_151639(ed).<ol><li>The bolts of your gates will be iron and bronze, and your strength will equal your days.\" (Deu33:25 NIV) </li></ol>",
+            "21": "240324_151758(ed).<ol><li>The bolts of your gates will be iron and bronze, and your strength will equal your days.\" (Deu33:25 NIV) </li><li><a href=\"http://www.fishermanofchrist.org/?q=node/1417\">http://www.fishermanofchrist.org/?q=node/1417</a></li></ol>",
             "22": "",
             "23": "",
             "24": "",
