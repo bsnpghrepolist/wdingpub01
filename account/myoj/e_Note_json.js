@@ -7172,7 +7172,7 @@ var _bnotes=
         "8": {
             "1": "240324_150344(ed).<ol><li><a href=\"https://cmcbiblereading.com/2015/06/28/%E5%A3%AB%E5%B8%88%E8%AE%B0%E7%AC%AC8%E7%AB%A0%E9%80%90%E8%8A%82%E6%B3%A8%E8%A7%A3%E3%80%81%E7%A5%B7%E8%AF%BB/amp/\">https://cmcbiblereading.com/2015/06/28/%E5%A3%AB%E5%B8%88%E8%AE%B0%E7%AC%AC8%E7%AB%A0%E9%80%90%E8%8A%82%E6%B3%A8%E8%A7%A3%E3%80%81%E7%A5%B7%E8%AF%BB/amp/</a></li></ol>",
             "2": "",
-            "3": "",
+            "3": "240325_094137(ed).<ol><li>speak peacefully, gently, and softly, remove anger, and reduce the wars and hostility not for our safe living but for the course of the kingdom of God. </li></ol>",
             "4": "",
             "5": "",
             "6": "",
