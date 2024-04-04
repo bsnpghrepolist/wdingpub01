@@ -7303,7 +7303,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
+            "18": "240404_094416(ed).<ol><li>https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1419&top=0509 </li></ol>",
             "19": "",
             "20": "",
             "21": "",
