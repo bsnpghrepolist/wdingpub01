@@ -7369,7 +7369,7 @@ var _bnotes=
             "22": "240408_172612(ed).<ol><li>seen God=: Book of John.</li></ol>",
             "23": "",
             "24": "",
-            "25": ""
+            "25": "240408_172922(ed).<ol><li>see. https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1435&top=1098-1 </li></ol>"
         },
         "14": {
             "1": "",
