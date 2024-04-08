@@ -7366,7 +7366,7 @@ var _bnotes=
             "19": "240408_172434(ed).<ol><li>Jesus:=lamb</li></ol>",
             "20": "240408_172512(ed).<ol><li>Arison of Jesus</li></ol>",
             "21": "",
-            "22": "",
+            "22": "240408_172612(ed).<ol><li>seen God=: Book of John.</li></ol>",
             "23": "",
             "24": "",
             "25": ""
