@@ -7369,7 +7369,7 @@ var _bnotes=
             "22": "240408_172612(ed).<ol><li>seen God=: Book of John.</li></ol>",
             "23": "",
             "24": "",
-            "25": "240408_173026(ed).<ol><li>see. https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1435&top=1098-1 </li><li>Jesus was led to the wildland for temptation. </li></ol>"
+            "25": "240408_174127(ed).<ol><li>see. https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1435&top=1098-1 </li><li>Jesus was led to the wildland for temptation. <br><br></li><li>The Lord never forsakes Israelites. -- His love forever.</li><li>The Lord thrives human savor to save Israelites. -- but always failed -- do not rely on any human leaders, pastors, presidents, famous scholars, and so on.</li><li>Predicting Jesus. His Glory never fails.</li></ol>"
         },
         "14": {
             "1": "",
