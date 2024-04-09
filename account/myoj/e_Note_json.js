@@ -7376,7 +7376,7 @@ var _bnotes=
             "2": "",
             "3": "",
             "4": "",
-            "5": "",
+            "5": "240409_100426(ed).<ol><li>see map: https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1438&top=0678-2</li></ol>",
             "6": "",
             "7": "",
             "8": "",
