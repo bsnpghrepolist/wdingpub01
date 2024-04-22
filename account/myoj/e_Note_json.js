@@ -7526,7 +7526,7 @@ var _bnotes=
             "27": "",
             "28": "",
             "29": "",
-            "30": ""
+            "30": "240422_095701(ed).<ol><li>This story is not appropriate for non-Christians. </li><li>Be careful of the kindness in the world. </li><li>The result of the fall of the faith.</li><li><br></li></ol>"
         },
         "20": {
             "1": "",
