@@ -7603,7 +7603,7 @@ var _bnotes=
             "22": "",
             "23": "",
             "24": "",
-            "25": ""
+            "25": "240423_044154(ed).<ol><li>No king, no ruler, no oppressor, fully freedom. </li></ol>"
         }
     },
     "Rut": {
