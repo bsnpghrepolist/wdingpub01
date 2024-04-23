@@ -7529,7 +7529,7 @@ var _bnotes=
             "30": "240422_100944(ed).<ol><li>This story is not appropriate for non-Christians. </li><li>Be careful of the kindness in the world. </li><li>The result of the fall of the faith.</li><li>Sadness and heavy heart.</li></ol>"
         },
         "20": {
-            "1": "240423_081114(ed).<ol><li>The Lord and freedom</li><li>Wicked, idolatry, adultery, murder, death. </li><li>Jesus, the final judge, eternal judge. </li></ol>",
+            "1": "240423_081516(ed).<ol><li>The Lord and freedom</li><li>Wicked, idolatry, adultery, murder, death. </li><li>Jesus, the final judge, eternal judge. </li><li>Missionary is the only way for personal life, for next generation and for the kingdom of Heaven. </li><li>Rom12:1. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
