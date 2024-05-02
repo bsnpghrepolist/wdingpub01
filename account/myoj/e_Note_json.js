@@ -32528,7 +32528,7 @@ var _bnotes=
             "24": "",
             "25": "",
             "26": "",
-            "27": "",
+            "27": "240502_094338(ed).<ol><li>Mao misled: or heavier than mountain or lighter than feather.</li></ol>",
             "28": ""
         },
         "10": {
