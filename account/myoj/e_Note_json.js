@@ -32402,7 +32402,7 @@ var _bnotes=
         },
         "4": {
             "1": "",
-            "2": "",
+            "2": "240502_100458(ed).<ol><li>united by faith with those who listened. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
