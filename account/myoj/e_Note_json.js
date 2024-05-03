@@ -32444,7 +32444,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "240503_141939(ed).<ol><li>Serving saint : serving pastor </li><li><a href=\"https://chs.goldenlampstand.org/lib/epistles/index.php\">https://chs.goldenlampstand.org/lib/epistles/index.php</a></li></ol>",
             "11": "",
             "12": "",
             "13": "",
