@@ -32445,7 +32445,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "240507_091247(ed).<ol><li>Serving Saint=serving pastor=for showing in the world.</li><li><a href=\"https://chs.goldenlampstand.org/lib/epistles/read.php?b=Heb&p=2.2.4\">https://chs.goldenlampstand.org/lib/epistles/read.php?b=Heb&p=2.2.4</a></li><li><br></li></ol>",
-            "11": "240507_092043(ed).<ol><li>show to God, not show to people, not show in media or public.</li><li>show people only if it builds the kingdom of heaven.</li></ol>",
+            "11": "240507_092107(ed).<ol><li>show to God first, not show to people, not show in media or public.</li><li>show people only if it builds the kingdom of heaven.</li></ol>",
             "12": "",
             "13": "",
             "14": "",
