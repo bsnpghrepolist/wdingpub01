@@ -32453,7 +32453,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "",
+            "19": "240507_091743(ed).<ol><li>enter the kingdom of heaven. the inner part of the temple, the core of the church.</li><li>Jesus, on the cross, opened the curtain and removed the limit and bars to allow everyone to enter. </li></ol>",
             "20": ""
         },
         "7": {
