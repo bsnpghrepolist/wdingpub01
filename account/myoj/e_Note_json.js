@@ -32444,7 +32444,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "240503_142106(ed).<ol><li>Serving saint : serving pastor </li><li><a href=\"https://chs.goldenlampstand.org/lib/epistles/read.php?b=Heb&p=2.2.4\">https://chs.goldenlampstand.org/lib/epistles/read.php?b=Heb&p=2.2.4</a></li><li><br></li></ol>",
+            "10": "240507_091247(ed).<ol><li>Serving Saint=serving pastor=for showing in the world.</li><li><a href=\"https://chs.goldenlampstand.org/lib/epistles/read.php?b=Heb&p=2.2.4\">https://chs.goldenlampstand.org/lib/epistles/read.php?b=Heb&p=2.2.4</a></li><li><br></li></ol>",
             "11": "",
             "12": "",
             "13": "",
