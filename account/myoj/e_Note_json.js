@@ -32515,7 +32515,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "",
-            "14": "",
+            "14": "240513_103603(ed).<ol><li>to gain eternal life is to serve the eternal God.</li></ol>",
             "15": "",
             "16": "",
             "17": "",
