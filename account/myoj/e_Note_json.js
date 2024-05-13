@@ -32596,7 +32596,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
+            "24": "240513_104605(ed).<ol><li>rebel the mother land and culture, to reborn.</li></ol>",
             "25": "",
             "26": "",
             "27": "",
