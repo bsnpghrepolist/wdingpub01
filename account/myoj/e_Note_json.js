@@ -32598,7 +32598,7 @@ var _bnotes=
             "23": "",
             "24": "240513_104750(ed).<ol><li>rebel the mother land and culture, to reborn.</li><li>not the offsrping of the YanHuan ancestors but the children of Abraham.</li></ol>",
             "25": "",
-            "26": "",
+            "26": "240513_105357(ed).<ol><li>https://chs.goldenlampstand.org/lib/epistles/read.php?b=Heb&p=4.1.12 </li></ol>",
             "27": "",
             "28": "",
             "29": "",
