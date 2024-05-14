@@ -32544,7 +32544,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
+            "13": "240514_092953(ed).<ol><li>He waits for his enemies to be made his footstool--implying the work for missionary.</li></ol>",
             "14": "",
             "15": "",
             "16": "",
