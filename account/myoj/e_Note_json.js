@@ -32557,7 +32557,7 @@ var _bnotes=
             "23": "",
             "24": "<ol><li>Lettuce </li></ol>",
             "25": "<ol><li>Social </li><li>Lazy </li></ol>",
-            "26": "",
+            "26": "240516_094300(ed).<ol><li>failed in perseverance. </li></ol>",
             "27": "",
             "28": "",
             "29": "",
