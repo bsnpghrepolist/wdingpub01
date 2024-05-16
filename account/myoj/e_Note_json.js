@@ -32557,7 +32557,7 @@ var _bnotes=
             "23": "",
             "24": "<ol><li>Lettuce </li></ol>",
             "25": "<ol><li>Social </li><li>Lazy </li></ol>",
-            "26": "240516_094930(ed).<ol><li>failed in perseverance. </li><li>tired in the comfort zone.</li><li>the sons of perishment.</li></ol>",
+            "26": "240516_095415(ed).<ol><li>failed in perseverance. </li><li>tired in the comfort zone.</li><li>the sons of perishment.</li><li>fake Christian (Pauline)</li></ol>",
             "27": "",
             "28": "",
             "29": "",
