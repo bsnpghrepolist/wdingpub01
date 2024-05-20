@@ -32604,7 +32604,7 @@ var _bnotes=
             "29": "",
             "30": "",
             "31": "",
-            "32": "240520_102305(ed).<ol><li>experience retribution, fear, and temptation, but made beautiful testament to consolidate the faith.</li></ol>",
+            "32": "240520_102348(ed).<ol><li>experience retribution, fear, temptation, mistake, failure, but made beautiful testament to consolidate the faith.</li></ol>",
             "33": "",
             "34": "",
             "35": "",
