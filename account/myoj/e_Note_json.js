@@ -32603,7 +32603,7 @@ var _bnotes=
             "28": "",
             "29": "",
             "30": "",
-            "31": "",
+            "31": "240520_103050(ed).<ol><li>Thamar.</li><li>(Mat1:1 CUVS) </li></ol>",
             "32": "240520_102348(ed).<ol><li>experience retribution, fear, temptation, mistake, failure, but made beautiful testament to consolidate the faith.</li></ol>",
             "33": "",
             "34": "",
