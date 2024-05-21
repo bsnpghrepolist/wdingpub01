@@ -32580,7 +32580,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "240521_085037(ed).<ol><li>Why is Abraham called the father of faith?</li><li>Why is Jesus the offspring of Abraham?</li></ol>",
             "9": "",
             "10": "",
             "11": "",
