@@ -99,7 +99,7 @@ var MyBiblicalDiary_json =
         "0327": "Chen Jeffery 11:00 dentist&nbsp;",
         "0328": "12:00 dental&nbsp;",
         "0403": "FCC Jason zhang",
-        "0521": "Wei. Lager.&nbsp;",
+        "0521": "Wei. Rahab, Heb11:35",
         "0522": "Zoom done"
     }
 }
