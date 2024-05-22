@@ -98,6 +98,7 @@ var MyBiblicalDiary_json =
         "0326": "Allen Vickers, &nbsp;11:00 dentist&nbsp;<div><br></div>",
         "0327": "Chen Jeffery 11:00 dentist&nbsp;",
         "0328": "12:00 dental&nbsp;",
-        "0403": "FCC Jason zhang"
+        "0403": "FCC Jason zhang",
+        "0521": "Wei. Lager.&nbsp;"
     }
 }
