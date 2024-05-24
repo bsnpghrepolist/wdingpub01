@@ -102,6 +102,7 @@ var MyBiblicalDiary_json =
         "0521": "Wei. Rahab, Heb11:31",
         "0522": "Zoom done",
         "0531": "Lut2:1-7",
-        "0611": "Jam:2:21-26"
+        "0611": "Jam:2:21-26",
+        "0625": "Sam2:27-36"
     }
 }
