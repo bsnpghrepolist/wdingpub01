@@ -100,6 +100,7 @@ var MyBiblicalDiary_json =
         "0328": "12:00 dental&nbsp;",
         "0403": "FCC Jason zhang",
         "0521": "Wei. Rahab, Heb11:31",
-        "0522": "Zoom done"
+        "0522": "Zoom done",
+        "0531": "Lut2:1-7"
     }
 }
