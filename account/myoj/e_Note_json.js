@@ -32660,7 +32660,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "",
+            "15": "240527_094727(ed).<ol><li>Rom12:1 to offer body to Him as sacrifice. offer praise Him as sacrifice. </li></ol>",
             "16": "",
             "17": "",
             "18": "",
