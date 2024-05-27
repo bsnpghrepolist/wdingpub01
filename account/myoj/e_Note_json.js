@@ -32661,7 +32661,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "240527_094727(ed).<ol><li>Rom12:1 to offer body to Him as sacrifice. offer praise Him as sacrifice. </li></ol>",
-            "16": "240527_100543(ed).<ol><li>Not depending on good deeds but do as many as possible. </li><li>Good deeds earn praise, misleading pride. </li><li>Good deeds are a form of preaching.</li><li>Doing evil may not go to hell.</li></ol>",
+            "16": "240527_101037(ed).<ol><li>Not depending on good deeds but do as many as possible. </li><li>Good deeds earn praise, misleading pride. </li><li>Good deeds are a form of preaching.</li><li>Doing evil may not go to hell, but it shows the nature of humans, the power of evil. </li></ol>",
             "17": "",
             "18": "",
             "19": "",
