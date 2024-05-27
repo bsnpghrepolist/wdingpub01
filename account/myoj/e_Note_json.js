@@ -32661,7 +32661,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "240527_094727(ed).<ol><li>Rom12:1 to offer body to Him as sacrifice. offer praise Him as sacrifice. </li></ol>",
-            "16": "240527_094903(ed).<ol><li>Not depending on good deeds but do as many as possible. </li></ol>",
+            "16": "240527_095010(ed).<ol><li>Not depending on good deeds but do as many as possible. </li><li>Good deeds earn praise, misleading pride. </li></ol>",
             "17": "",
             "18": "",
             "19": "",
