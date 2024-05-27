@@ -32653,7 +32653,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "240527_093749(ed).<ol><li>How to be a person.</li></ol>",
-            "8": "",
+            "8": "240527_094512(ed).<ol><li>The heaven and earth will pass away, but words of Jesus never change.</li></ol>",
             "9": "",
             "10": "",
             "11": "",
