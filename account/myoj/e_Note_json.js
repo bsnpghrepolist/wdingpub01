@@ -7609,7 +7609,7 @@ var _bnotes=
     "Rut": {
         "1": {
             "1": "",
-            "2": "",
+            "2": "240529_093516(ed).<ol><li>Elimelech=The Lord as king</li></ol>",
             "3": "",
             "4": "",
             "5": "",
