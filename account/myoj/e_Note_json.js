@@ -7639,7 +7639,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "240531_083005(ed).<ol><li>Be righteous, justice, show mercy, humble, be with God. </li><li>Mic6:8. </li></ol>",
+            "8": "240531_083049(ed).<ol><li>Be righteous, justice, show mercy, humble, be with God. </li><li>Mic6:8. </li><li>USA accepted me. </li></ol>",
             "9": "",
             "10": "",
             "11": "",
