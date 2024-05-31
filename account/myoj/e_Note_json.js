@@ -7633,7 +7633,7 @@ var _bnotes=
         },
         "2": {
             "1": "",
-            "2": "",
+            "2": "240531_081632(ed).<ol><li>Character of Ruth: </li><li>Immigrant, language, faith differ. Native culture. </li><li>Soft meek among people</li><li>Lonely</li><li>Humble </li><li>Strong faith </li><li>USA: Jesus based decling. </li><li>Human relationship is love. How?  Pray bless others enemy. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
