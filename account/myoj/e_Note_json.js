@@ -7609,7 +7609,7 @@ var _bnotes=
     "Rut": {
         "1": {
             "1": "",
-            "2": "240531_090040(ed).<ol><li>Elimelech=The Lord as king</li><li>Euphrates, Joseph. Immigrants. </li></ol>",
+            "2": "240531_090935(ed).<ol><li>Elimelech=The Lord as king</li><li>Euphrates, ? Joseph. Immigrants. </li><li>Manasseh and Ephraim</li></ol>",
             "3": "",
             "4": "",
             "5": "",
