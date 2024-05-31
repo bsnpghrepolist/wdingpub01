@@ -7639,7 +7639,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "240531_082539(ed).<ol><li>Be righteous, justice, show mercy, be with God. </li></ol>",
             "9": "",
             "10": "",
             "11": "",
