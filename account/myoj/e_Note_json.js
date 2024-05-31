@@ -7641,7 +7641,7 @@ var _bnotes=
             "7": "",
             "8": "240531_083049(ed).<ol><li>Be righteous, justice, show mercy, humble, be with God. </li><li>Mic6:8. </li><li>USA accepted me. </li></ol>",
             "9": "240531_083411(ed).<ol><li>Touch: make use of. </li></ol>",
-            "10": "",
+            "10": "240531_083528(ed).<ol><li>Pagan: foreigner. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
