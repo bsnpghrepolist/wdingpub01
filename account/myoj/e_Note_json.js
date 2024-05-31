@@ -7632,7 +7632,7 @@ var _bnotes=
             "22": ""
         },
         "2": {
-            "1": "240531_084423(ed).<ol><li>How wealthy? A stewardship. </li><li>恶霸=大财主 in Chinese culture. </li></ol>",
+            "1": "240531_092632(ed).<ol><li>How wealthy? A stewardship. </li><li>恶霸=大财主 in Chinese culture. </li><li>Mat1:5. </li></ol>",
             "2": "240531_084610(ed).<ol><li>Character of Ruth: </li><li>Immigrant, language, faith differ. </li><li>Native culture. Rich, friendly. But worship gods. </li><li>Soft meek among people</li><li>Lonely</li><li>Humble </li><li>Strong faith love the Lord the truth. </li><li>USA: Jesus based decling. </li><li>Human relationship is love. How?  Pray bless others enemy. </li></ol>",
             "3": "240531_085025(ed).<ol><li>Deu24:19</li></ol>",
             "4": "240531_082241(ed).<ol><li>A blessing man. =Love. </li></ol>",
