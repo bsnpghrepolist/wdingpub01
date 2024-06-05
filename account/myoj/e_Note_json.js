@@ -7694,7 +7694,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "240605_095603(ed).<ol><li>Juda with Tamar born Perez.</li></ol>",
+            "18": "240605_095828(ed).<ol><li>Judas begat Phares and Zara of Thamar. </li></ol>",
             "19": "",
             "20": "",
             "21": "240604_094451(ed).<ol><li>Salmon maried with Raha.</li></ol>",
