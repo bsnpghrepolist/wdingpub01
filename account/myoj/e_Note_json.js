@@ -32722,7 +32722,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "240610_094121(ed).<ol><li>Demons belive in Jesus but with shudder.</li></ol>",
+            "19": "240610_094134(ed).<ol><li>Demons believe in Jesus but with shudder.</li></ol>",
             "20": "any one as long as he is alive, he has action. the action is either glory God or against Him. There is no middle ground.&nbsp;",
             "21": "",
             "22": "",
