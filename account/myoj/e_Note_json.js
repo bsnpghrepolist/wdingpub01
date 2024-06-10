@@ -32723,7 +32723,7 @@ var _bnotes=
             "17": "",
             "18": "",
             "19": "240610_094134(ed).<ol><li>Demons believe in Jesus but with shudder.</li></ol>",
-            "20": "any one as long as he is alive, he has action. the action is either glory God or against Him. There is no middle ground.&nbsp;",
+            "20": "240610_094415(ed).1. any one as long as he is alive, he has action. the action is either glory God or against Him. There is no middle ground. <div>2. However, actions can be hidden. In come cases, the actions need to show up, sometimes, the action should be hidden. <br><div><br></div></div>",
             "21": "",
             "22": "",
             "23": "",
