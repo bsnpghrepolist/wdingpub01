@@ -32728,7 +32728,7 @@ var _bnotes=
             "22": "",
             "23": "",
             "24": "",
-            "25": "",
+            "25": "240611_092852(ed).<ol><li>not speakable faith. actional faith.</li></ol>",
             "26": ""
         },
         "3": {
