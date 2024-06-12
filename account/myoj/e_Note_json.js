@@ -32734,7 +32734,7 @@ var _bnotes=
         "3": {
             "1": "240612_095029(ed).<ol><li>This is for those who are missionaries and preachers, be careful of words, prepare is necessary. It about the name of Jesus, the neighbors' life.</li><li><br></li></ol>",
             "2": "",
-            "3": "",
+            "3": "240612_100548(ed).<ol><li>put bits of God into our mouths.</li></ol>",
             "4": "",
             "5": "",
             "6": "",
