@@ -14878,7 +14878,7 @@ var _bnotes=
         },
         "41": {
             "1": "240613_091118(ed).<ol><li>a sea monster, identified in different passages with the whale and the crocodile (e.g. Job 41, Ps. 74:14), and with the Devil (after Isa. 27:1).</li></ol>",
-            "2": "",
+            "2": "240613_123431(ed).<ol><li>unconquerable. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
