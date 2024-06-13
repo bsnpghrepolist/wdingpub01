@@ -14869,7 +14869,7 @@ var _bnotes=
             "16": "",
             "17": "240613_092936(ed).<ol><li>tail</li></ol>",
             "18": "240613_105722(ed).<ol><li>the tube is akin to the turtle bones</li></ol>",
-            "19": "",
+            "19": "240613_105758(ed).<ol><li>rank first among creature refer to Lion.</li></ol>",
             "20": "",
             "21": "",
             "22": "",
