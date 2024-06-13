@@ -14893,7 +14893,7 @@ var _bnotes=
             "14": "240613_091641(ed).<ol><li>fearsome teeth is emphasized.</li></ol>",
             "15": "240613_091732(ed).<ol><li>the back is like shield, akin to the turtle.</li></ol>",
             "16": "240613_091816(ed).<ol><li>bones connected lik a turtle bone</li></ol>",
-            "17": "",
+            "17": "240613_091847(ed).<ol><li>like turtle bones</li></ol>",
             "18": "",
             "19": "",
             "20": "",
