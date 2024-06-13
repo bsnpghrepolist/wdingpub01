@@ -14872,7 +14872,7 @@ var _bnotes=
             "19": "240613_105758(ed).<ol><li>rank first among creature refer to Lion.</li></ol>",
             "20": "",
             "21": "240613_105841(ed).<ol><li>hidden among the reeds in march, like turtle. </li></ol>",
-            "22": "",
+            "22": "240613_105921(ed).<ol><li>turtle like dark and wet land</li></ol>",
             "23": "",
             "24": ""
         },
