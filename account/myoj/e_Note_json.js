@@ -14894,7 +14894,7 @@ var _bnotes=
             "15": "240613_091732(ed).<ol><li>the back is like shield, akin to the turtle.</li></ol>",
             "16": "240613_091816(ed).<ol><li>bones connected lik a turtle bone</li></ol>",
             "17": "240613_091847(ed).<ol><li>like turtle bones</li></ol>",
-            "18": "",
+            "18": "240613_091930(ed).<ol><li>resemble to the dragon in China.</li></ol>",
             "19": "",
             "20": "",
             "21": "",
