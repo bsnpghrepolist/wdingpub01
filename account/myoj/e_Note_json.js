@@ -14891,7 +14891,7 @@ var _bnotes=
             "12": "",
             "13": "240613_091603(ed).<ol><li>Snake shed outer layer of skin</li></ol>",
             "14": "240613_091641(ed).<ol><li>fearsome teeth is emphasized.</li></ol>",
-            "15": "",
+            "15": "240613_091732(ed).<ol><li>the back is like shield, akin to the turtle.</li></ol>",
             "16": "",
             "17": "",
             "18": "",
