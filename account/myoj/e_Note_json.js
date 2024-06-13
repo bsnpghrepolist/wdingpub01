@@ -14873,7 +14873,7 @@ var _bnotes=
             "20": "",
             "21": "240613_105841(ed).<ol><li>hidden among the reeds in march, like turtle. </li></ol>",
             "22": "240613_105921(ed).<ol><li>turtle like dark and wet land</li></ol>",
-            "23": "",
+            "23": "240613_105943(ed).<ol><li>turtle can swim</li></ol>",
             "24": ""
         },
         "41": {
