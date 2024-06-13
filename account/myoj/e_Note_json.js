@@ -32743,7 +32743,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
+            "12": "240613_094317(ed).<ol><li>the heart is the source of action. </li></ol>",
             "13": "240613_093908(ed).<ol><li>Question is like Job 40-41.</li></ol>",
             "14": "",
             "15": "",
