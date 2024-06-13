@@ -14895,7 +14895,7 @@ var _bnotes=
             "16": "240613_091816(ed).<ol><li>bones connected lik a turtle bone</li></ol>",
             "17": "240613_091942(ed).<ol><li>like turtle bones</li></ol>",
             "18": "240613_091930(ed).<ol><li>resemble to the dragon in China.</li></ol>",
-            "19": "",
+            "19": "240613_092020(ed).<ol><li>akin to dragon</li></ol>",
             "20": "",
             "21": "",
             "22": "",
