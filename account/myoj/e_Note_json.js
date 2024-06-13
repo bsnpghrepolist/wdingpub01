@@ -14890,7 +14890,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "240613_091603(ed).<ol><li>Snake shed outer layer of skin</li></ol>",
-            "14": "",
+            "14": "240613_091641(ed).<ol><li>fearsome teeth is emphasized.</li></ol>",
             "15": "",
             "16": "",
             "17": "",
