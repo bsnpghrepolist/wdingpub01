@@ -14868,7 +14868,7 @@ var _bnotes=
             "15": "240613_085817(ed).<ol><li>Why Behemoth and man mentioned together? </li><li>Behemoth resemble of dinosaur. </li></ol>",
             "16": "",
             "17": "240613_092936(ed).<ol><li>tail</li></ol>",
-            "18": "",
+            "18": "240613_105722(ed).<ol><li>the tube is akin to the turtle bones</li></ol>",
             "19": "",
             "20": "",
             "21": "",
