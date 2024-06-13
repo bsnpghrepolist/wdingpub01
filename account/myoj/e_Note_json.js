@@ -14898,7 +14898,7 @@ var _bnotes=
             "19": "240613_092101(ed).<ol><li>akin to dragon</li></ol>",
             "20": "240613_092024(ed).<ol><li>akin to dragon</li></ol>",
             "21": "240613_092201(ed).<ol><li>akin to dragon</li></ol>",
-            "22": "",
+            "22": "240613_092402(ed).<ol><li>the neck is long as giraffe.</li></ol>",
             "23": "",
             "24": "",
             "25": "",
