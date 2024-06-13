@@ -14900,7 +14900,7 @@ var _bnotes=
             "21": "240613_092201(ed).<ol><li>akin to dragon</li></ol>",
             "22": "240613_092402(ed).<ol><li>the neck is long as giraffe.</li></ol>",
             "23": "",
-            "24": "",
+            "24": "240613_092431(ed).<ol><li>like turtle plastron</li></ol>",
             "25": "",
             "26": "",
             "27": "",
