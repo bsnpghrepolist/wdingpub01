@@ -32747,7 +32747,7 @@ var _bnotes=
             "13": "240613_093908(ed).<ol><li>Question is like Job 40-41.</li></ol>",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "240613_094423(ed).<ol><li>envy comes from selfish. self comes evil. </li></ol>",
             "17": "",
             "18": ""
         },
