@@ -32747,7 +32747,7 @@ var _bnotes=
             "13": "240613_093908(ed).<ol><li>Question is like Job 40-41.</li></ol>",
             "14": "",
             "15": "",
-            "16": "240613_094423(ed).<ol><li>envy comes from selfish. self comes evil. </li></ol>",
+            "16": "240613_094704(ed).<ol><li>envy comes from selfish. self comes evil. </li><li>envy causes competation, competation cause discorder, discorder cause pain. </li></ol>",
             "17": "240613_094522(ed).<ol><li>John Baptizer, those from heaven is above all; those from earth belongs to earth.</li></ol>",
             "18": ""
         },
