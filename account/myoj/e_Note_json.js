@@ -32748,7 +32748,7 @@ var _bnotes=
             "14": "",
             "15": "",
             "16": "240613_094423(ed).<ol><li>envy comes from selfish. self comes evil. </li></ol>",
-            "17": "",
+            "17": "240613_094522(ed).<ol><li>John Baptizer, those from heaven is above all; those from earth belongs to earth.</li></ol>",
             "18": ""
         },
         "4": {
