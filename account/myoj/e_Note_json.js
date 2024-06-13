@@ -14871,7 +14871,7 @@ var _bnotes=
             "18": "240613_105722(ed).<ol><li>the tube is akin to the turtle bones</li></ol>",
             "19": "240613_105758(ed).<ol><li>rank first among creature refer to Lion.</li></ol>",
             "20": "",
-            "21": "",
+            "21": "240613_105841(ed).<ol><li>hidden among the reeds in march, like turtle. </li></ol>",
             "22": "",
             "23": "",
             "24": ""
