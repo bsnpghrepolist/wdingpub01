@@ -262,7 +262,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "240619_204254(ed).<ol><li>Canaanites are full of mighty warriors</li></ol>",
             "9": "",
             "10": "",
             "11": "",
