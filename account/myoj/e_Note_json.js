@@ -7708,7 +7708,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "240621_083556(ed).<ol><li>oppress others using knowledge, power, health, position, class, nationality.....</li></ol>",
             "7": "",
             "8": "",
             "9": "",
