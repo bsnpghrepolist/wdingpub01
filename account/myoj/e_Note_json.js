@@ -7713,7 +7713,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "",
-            "11": "240621_082238(ed).<ol><li>the purpose have a child. --for aging, family laboring, family prosperity, for family offspring, for self-pleasing, for self-pride. </li></ol>",
+            "11": "240621_084500(ed).<ol><li>我必使他终身归与耶和华</li><li>the purpose have a child. --for aging, family laboring, family prosperity, for family offspring, for self-pleasing, for self-pride. </li></ol>",
             "12": "",
             "13": "",
             "14": "",
