@@ -7718,7 +7718,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "240621_082510(ed).<ol><li>persecution, anxiety and vexation. </li><li>judge others.</li></ol>",
+            "16": "240621_082532(ed).<ol><li>persecution, anxiety and vexation. </li><li>judge others, care </li></ol>",
             "17": "",
             "18": "",
             "19": "",
