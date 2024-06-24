@@ -7744,7 +7744,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "240624_111059(ed).<ol><li>Ramah--Jer 31:15</li></ol>",
-            "12": "",
+            "12": "240624_111553(ed).<ol><li>The definition of wicked is not knowing the Lord. or the heart and soul are not knowing the name of Lord. </li></ol>",
             "13": "",
             "14": "",
             "15": "",
