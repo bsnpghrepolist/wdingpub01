@@ -7761,7 +7761,7 @@ var _bnotes=
             "26": "240624_095233(ed).<ol><li>Mirror Jesus</li></ol>",
             "27": "240624_104924(ed).<ol><li>Who is the man of God speaking to Eli? </li><li>An angel, Jesus, an un-named prophet, a servant.</li></ol>",
             "28": "",
-            "29": "240624_103430(ed).<ol><li>love son over the Lord.</li><li>He will increase, I will decrease.</li></ol>",
+            "29": "240624_105109(ed).<ol><li>love son over the Lord.</li><li>He will increase, I will decrease.</li><li>How to serve the Lord when the dark came?</li></ol>",
             "30": "",
             "31": "",
             "32": "",
