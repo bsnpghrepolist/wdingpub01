@@ -7767,7 +7767,7 @@ var _bnotes=
             "32": "",
             "33": "",
             "34": "",
-            "35": "",
+            "35": "240624_105804(ed).<ol><li>the anointed one is David and Christ.  </li></ol>",
             "36": "240624_105433(ed).<ol><li>The outcome to leave the Lord.</li></ol>"
         },
         "3": {
