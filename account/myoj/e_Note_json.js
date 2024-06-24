@@ -7762,7 +7762,7 @@ var _bnotes=
             "27": "240624_104924(ed).<ol><li>Who is the man of God speaking to Eli? </li><li>An angel, Jesus, an un-named prophet, a servant.</li></ol>",
             "28": "",
             "29": "240624_105109(ed).<ol><li>love son over the Lord.</li><li>He will increase, I will decrease.</li><li>How to serve the Lord when the dark came?</li></ol>",
-            "30": "",
+            "30": "240624_105159(ed).<ol><li>action and reaction principle.</li></ol>",
             "31": "",
             "32": "",
             "33": "",
