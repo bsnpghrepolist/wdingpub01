@@ -7791,7 +7791,7 @@ var _bnotes=
             "18": "",
             "19": "",
             "20": "",
-            "21": ""
+            "21": "240627_094524(ed).<ol><li>information spreading is always.</li></ol>"
         },
         "4": {
             "1": "",
