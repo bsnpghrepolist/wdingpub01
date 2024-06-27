@@ -7788,7 +7788,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "240627_094341(ed).<ol><li>Eli should know already</li></ol>",
-            "18": "",
+            "18": "240627_094641(ed).<ol><li>Eli in difficulty</li></ol>",
             "19": "",
             "20": "",
             "21": "240627_094524(ed).<ol><li>information spreading is always.</li></ol>"
