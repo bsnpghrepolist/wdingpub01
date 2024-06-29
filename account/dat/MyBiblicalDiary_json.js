@@ -108,7 +108,7 @@ var MyBiblicalDiary_json =
         "0702": "Old town&nbsp;<div><br></div><div><br></div><div>Train.&nbsp;</div>",
         "0708": "Paris<div><br><div>Holiday inn london</div></div>",
         "0714": "<div>Holiday inn.&nbsp;</div>1:55pm Heathrow airport.&nbsp;",
-        "0630": "6:00pm Atlanta",
+        "0630": "6:00pm Atlanta airport&nbsp;",
         "0621": "1Sa:1:9-16"
     }
 }
