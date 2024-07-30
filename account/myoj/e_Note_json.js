@@ -8130,7 +8130,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "240730_093644(ed).<ol><li>Once saved, saved forever? </li></ol>",
-            "15": "",
+            "15": "240730_093728(ed).<ol><li>Evil spirit from God?</li></ol>",
             "16": "",
             "17": "",
             "18": "",
