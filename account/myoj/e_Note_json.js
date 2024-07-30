@@ -8138,7 +8138,7 @@ var _bnotes=
             "20": "240730_094532(ed).<ol><li>Jesse is fr the Obeda, Poahas, Luth. </li></ol>",
             "21": "",
             "22": "",
-            "23": ""
+            "23": "240730_095106(ed).<ol><li>Music cannot save Saul.</li></ol>"
         },
         "17": {
             "1": "",
