@@ -8135,7 +8135,7 @@ var _bnotes=
             "17": "",
             "18": "",
             "19": "",
-            "20": "240730_094512(ed).<ol><li>Jesse is the Obeda, Poahas, Luth. </li></ol>",
+            "20": "240730_094532(ed).<ol><li>Jesse is fr the Obeda, Poahas, Luth. </li></ol>",
             "21": "",
             "22": "",
             "23": ""
