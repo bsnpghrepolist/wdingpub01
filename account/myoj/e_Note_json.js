@@ -8149,7 +8149,7 @@ var _bnotes=
             "6": "",
             "7": "",
             "8": "",
-            "9": "240731_093944(ed).<ol><li>whom we fear, whom we serve for. </li></ol>",
+            "9": "240731_094058(ed).<ol><li>whom we fear, whom we serve for. </li><li>depending on God will not let us fear.</li></ol>",
             "10": "",
             "11": "240731_093757(ed).<ol><li>The enemies from the outside make people afraid. </li><li>The enemies from the inside make people upset. </li><li>Goliath appears stronger than Saul. </li></ol>",
             "12": "",
