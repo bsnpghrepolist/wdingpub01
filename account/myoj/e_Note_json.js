@@ -8151,7 +8151,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "",
-            "11": "",
+            "11": "240731_093525(ed).<ol><li>The enemies from the outside make people afraid. </li><li>The enemies from the inside make people upset. </li></ol>",
             "12": "",
             "13": "",
             "14": "",
