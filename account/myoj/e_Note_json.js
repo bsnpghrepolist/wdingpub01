@@ -8155,7 +8155,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "240731_094541(ed).<ol><li>sheep, related to Jesus. Bethlehem is where Jesus was born.</li><li>Contrast the descriptions between David and Goliath: how differ?</li></ol>",
+            "15": "240731_094635(ed).<ol><li>sheep, related to Jesus. Bethlehem is where Jesus was born.</li><li>Contrast the descriptions between David and Goliath: how differ?</li><li>The Goliath in our daily life.</li></ol>",
             "16": "",
             "17": "",
             "18": "",
