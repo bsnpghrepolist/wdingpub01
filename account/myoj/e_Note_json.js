@@ -8164,7 +8164,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "240801_094657(ed).<ol><li>In the world, we fear.</li><li>In the faith, we should be brave. counting on HIM.</li></ol>",
+            "24": "240801_094733(ed).<ol><li>In the world, we fear with our weakness of the faith.</li><li>In the faith, we should be brave. counting on HIM.</li></ol>",
             "25": "",
             "26": "",
             "27": "",
