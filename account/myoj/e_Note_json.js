@@ -8166,7 +8166,7 @@ var _bnotes=
             "23": "",
             "24": "240801_094826(ed).<ol><li>In the world, we fear our weakness of the faith, the leaving of the Spirit.</li><li>In the faith, we should be brave--counting on HIM.</li></ol>",
             "25": "",
-            "26": "240801_095113(ed).<ol><li>David investigate the world</li></ol>",
+            "26": "240801_100228(ed).<ol><li>David investigates the world</li><li>Today is full of people who defy the armies of the living God. </li></ol>",
             "27": "",
             "28": "",
             "29": "240801_095315(ed).<ol><li>David's internal challenge.</li></ol>",
