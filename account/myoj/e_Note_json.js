@@ -8170,7 +8170,7 @@ var _bnotes=
             "27": "",
             "28": "",
             "29": "240801_095315(ed).<ol><li>David's internal challenge.</li></ol>",
-            "30": "",
+            "30": "240802_094754(ed).<ol><li>David investigation</li></ol>",
             "31": "",
             "32": "",
             "33": "",
