@@ -8201,7 +8201,7 @@ var _bnotes=
             "58": ""
         },
         "18": {
-            "1": "",
+            "1": "240804_094227(ed).<ol><li>Saul and Jonathan contrast. </li><li><br></li></ol>",
             "2": "",
             "3": "",
             "4": "",
