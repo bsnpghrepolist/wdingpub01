@@ -8183,7 +8183,7 @@ var _bnotes=
             "40": "240802_093942(ed).<ol><li>The Moses' staff.</li><li>Stones in the stream: the stone in the Jordan River.</li><li>Shepherd's bag: Missionary.</li><li>Sling: The Word of God.</li></ol>",
             "41": "",
             "42": "",
-            "43": "",
+            "43": "240804_095811(ed).<ol><li>his god. </li></ol>",
             "44": "",
             "45": "",
             "46": "",
