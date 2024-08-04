@@ -8218,7 +8218,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "240804_094612(ed).<ol><li>Scheme of David later. Political conspiracy. </li><li>Basheba’s husband </li><li>First I second Lord. </li></ol>",
-            "18": "",
+            "18": "240804_094810(ed).<ol><li>The humiliation of David. Contrast to Saul I first. </li></ol>",
             "19": "",
             "20": "",
             "21": "",
