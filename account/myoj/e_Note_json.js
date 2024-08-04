@@ -8217,7 +8217,7 @@ var _bnotes=
             "14": "",
             "15": "",
             "16": "",
-            "17": "240804_092518(ed).<ol><li>Scheme of David later. </li></ol>",
+            "17": "240804_092734(ed).<ol><li>Scheme of David later. Political will. </li><li>Basheba’s husband </li></ol>",
             "18": "",
             "19": "",
             "20": "",
