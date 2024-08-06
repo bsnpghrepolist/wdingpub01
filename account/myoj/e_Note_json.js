@@ -8217,7 +8217,7 @@ var _bnotes=
             "14": "",
             "15": "",
             "16": "240805_094557(ed).<ol><li>Common Nature: Jealousy. </li></ol>",
-            "17": "240804_094612(ed).<ol><li>Scheme of David later. Political conspiracy. </li><li>Basheba’s husband </li><li>First I second Lord. </li></ol>",
+            "17": "240806_084656(ed).<ol><li>Misuse the pow of God. Scheme of David later. Political conspiracy. </li><li>Basheba’s husband </li><li>First I second Lord. </li></ol>",
             "18": "240806_083431(ed).<ol><li>The humiliation of David. Contrast to Saul I first. </li><li>Mat5-6. </li><li>Who am I? Why Envy?  </li><li>See 1Sa9. </li></ol>",
             "19": "240806_084554(ed).<ol><li>Saul failed keeping trust. But David wasn’t angry. </li></ol>",
             "20": "",
