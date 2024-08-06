@@ -8223,7 +8223,7 @@ var _bnotes=
             "20": "",
             "21": "",
             "22": "",
-            "23": "",
+            "23": "240806_110438(ed).<ol><li>turned beautiful marriage into dirty politics</li></ol>",
             "24": "",
             "25": "",
             "26": "240806_084407(ed).<ol><li>Don’t be against the evil. </li></ol>",
