@@ -8230,7 +8230,7 @@ var _bnotes=
             "27": "",
             "28": "",
             "29": "",
-            "30": "240804_093657(ed).<ol><li>Chinese translation issue. </li></ol>"
+            "30": "240806_083804(ed).<ol><li>Chinese translation issue. </li><li>David, fine. </li></ol>"
         },
         "19": {
             "1": "",
