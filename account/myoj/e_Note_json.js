@@ -8233,7 +8233,7 @@ var _bnotes=
             "30": "240806_083804(ed).<ol><li>Chinese translation issue. </li><li>David, fine. </li></ol>"
         },
         "19": {
-            "1": "",
+            "1": "240807_095054(ed).<ol><li>Jonathan: son of Saul, successor of the King</li></ol>",
             "2": "",
             "3": "",
             "4": "",
