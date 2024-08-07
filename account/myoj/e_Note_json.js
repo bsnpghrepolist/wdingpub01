@@ -8233,7 +8233,7 @@ var _bnotes=
             "30": "240806_083804(ed).<ol><li>Chinese translation issue. </li><li>David, fine. </li></ol>"
         },
         "19": {
-            "1": "240807_095313(ed).<ol><li>Jonathan: son of Saul, successor of the King.</li><li>Loyal to the load or bio father.</li><li>Make them a good relationship.</li></ol>",
+            "1": "240807_095503(ed).<ol><li>Jonathan: son of Saul, successor of the King.</li><li>Loyal to the load or bio father.</li><li>Make them a good relationship. \"Blessed are the peacemakers, for they will be called sons of God.\" (Mat5:9 NIV)</li></ol>",
             "2": "",
             "3": "",
             "4": "",
