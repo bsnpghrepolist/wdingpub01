@@ -8303,7 +8303,7 @@ var _bnotes=
             "42": ""
         },
         "21": {
-            "1": "240812_100819(ed).<ol><li>Jesus mentioned this story. </li></ol>",
+            "1": "240812_101223(ed).<ol><li>Jesus mentioned this story. </li><li>https://www.gotquestions.org/David-showbread.html </li></ol>",
             "2": "",
             "3": "",
             "4": "",
