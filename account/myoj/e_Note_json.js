@@ -8305,7 +8305,7 @@ var _bnotes=
         "21": {
             "1": "240812_101349(ed).<ol><li>Jesus mentioned this story.  Mat12:3-4 </li><li>https://www.gotquestions.org/David-showbread.html </li></ol>",
             "2": "",
-            "3": "",
+            "3": "240812_104415(ed).<ol><li>See Mat14:17. five loaves of bread and two fish. </li></ol>",
             "4": "",
             "5": "",
             "6": "",
