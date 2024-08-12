@@ -8290,7 +8290,7 @@ var _bnotes=
             "29": "",
             "30": "",
             "31": "",
-            "32": "",
+            "32": "240812_094500(ed).<ol><li>Jonathan did not understand his heart. It only made things worse.</li></ol>",
             "33": "",
             "34": "",
             "35": "",
