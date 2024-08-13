@@ -8303,7 +8303,7 @@ var _bnotes=
             "42": ""
         },
         "21": {
-            "1": "240812_101349(ed).<ol><li>Jesus mentioned this story.  Mat12:3-4 </li><li>https://www.gotquestions.org/David-showbread.html </li></ol>",
+            "1": "240813_084449(ed).<ol><li>Jesus mentioned this story.  Mat12:3-4 </li><li>https://www.gotquestions.org/David-showbread.html </li><li>Ahimelech's fear vs David's fear.</li></ol>",
             "2": "",
             "3": "240812_104415(ed).<ol><li>See Mat14:17. five loaves of bread and two fish. </li></ol>",
             "4": "",
