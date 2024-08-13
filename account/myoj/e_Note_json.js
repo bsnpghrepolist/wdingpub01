@@ -8303,7 +8303,7 @@ var _bnotes=
             "42": ""
         },
         "21": {
-            "1": "240813_091336(ed).<ol><li>Jesus mentioned this story.  Mat12:3-4 </li><li>https://www.gotquestions.org/David-showbread.html </li><li>Ahimelech's fear vs David's fear.</li><li>David did not pray, not fear, no attention spy. </li><li>David's mistakes led to the death of Ahimelech. </li><li>Politics cannot make man sacred. </li></ol>",
+            "1": "240813_091700(ed).<ol><li>Jesus mentioned this story.  Mat12:3-4 </li><li>https://www.gotquestions.org/David-showbread.html <br></li><li>Nob is 2 km east of Jerusalem. https://biblegeography.holylight.org.tw/index/condensedbible_detail</li><li>Ahimelech's fear vs David's fear.</li><li>David did not pray, not fear, no attention spy. </li><li>David's mistakes led to the death of Ahimelech. </li><li>Politics cannot make man sacred. </li></ol>",
             "2": "",
             "3": "240812_104415(ed).<ol><li>See Mat14:17. five loaves of bread and two fish. </li></ol>",
             "4": "",
