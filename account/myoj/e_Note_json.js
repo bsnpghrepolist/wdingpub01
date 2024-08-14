@@ -8315,7 +8315,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "",
-            "13": "240814_093937(ed).<ol><li>The knife is no use for David.</li></ol>",
+            "13": "240814_094419(ed).<ol><li>The knife is no use for David.</li><li>Psm34:1</li></ol>",
             "14": "",
             "15": ""
         },
