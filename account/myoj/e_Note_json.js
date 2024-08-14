@@ -8315,7 +8315,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "",
-            "13": "240814_094419(ed).<ol><li>The knife is no use for David.</li><li>Psm34:1</li></ol>",
+            "13": "240814_094657(ed).<ol><li>The knife is no use for David.</li><li>Psm34:1</li><li><span style=\"font-family: SimSun; text-align: justify;\">『亚比米勒』正如埃及的『法老』王一样，是非利士王的称号，他的名字是『亚吉』</span></li></ol>",
             "14": "",
             "15": ""
         },
