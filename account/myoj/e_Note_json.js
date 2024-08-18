@@ -8642,7 +8642,7 @@ var _bnotes=
         "3": {
             "1": "",
             "2": "",
-            "3": "",
+            "3": "240818_095757(ed).<ol><li>Anger control: <span style=\"font-family: UICTFontTextStyleBody; font-size: 17px;\">https://www.youtube.com/live/mKajwHZUB0Q?</span></li><li><span style=\"font-family: UICTFontTextStyleBody; font-size: 17px;\"><br></span></li></ol>",
             "4": "",
             "5": "",
             "6": "",
