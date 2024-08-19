@@ -8322,7 +8322,7 @@ var _bnotes=
         "22": {
             "1": "",
             "2": "240819_092711(ed).<ol><li>differ to Jesus.</li></ol>",
-            "3": "",
+            "3": "240819_092803(ed).<ol><li>Why did David go to Moab?</li></ol>",
             "4": "",
             "5": "",
             "6": "",
