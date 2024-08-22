@@ -8391,7 +8391,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "240822_093712(ed).<ol><li>The Spirit of God and evil spirit.</li></ol>",
+            "16": "240822_094127(ed).<ol><li>The Spirit of God and evil spirit.</li><li>\"我也知道、在我里头、就是我肉体之中、没有良善．因为立志为善由得我、只是行出来由不得我。\" (Rom7:18 CUVS) </li></ol>",
             "17": "",
             "18": "",
             "19": "",
