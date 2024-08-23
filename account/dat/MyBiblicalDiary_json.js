@@ -111,7 +111,7 @@ var MyBiblicalDiary_json =
         "0630": "6:00pm Atlanta airport",
         "0621": "1Sa:1:9-16",
         "0821": "a",
-        "0827": "11:00 EyeCare",
+        "0827": "11:00 EyeCare<div>1Sa 25:39-44</div>",
         "0828": "6:40 ColonScope",
         "0831": "Flight"
     }
