@@ -8443,7 +8443,7 @@ var _bnotes=
             "41": "",
             "42": "",
             "43": "",
-            "44": ""
+            "44": "240827_072516(ed).<ol><li>David and Saul. Political campaign. Both are annoitted. </li><li>God love David not because his personality, but because his heart love of God. </li><li>Men, why are you doing this? We too are only men, human like you. We are bringing you good news, telling you to turn from these worthless things to the living God, who made heaven and earth and sea and everything in them.\" (Act14:15 NIV) </li><li>\"\"You have heard that it was said, 'Do not commit adultery.'\" (Mat5:27 NIV) </li><li><li>\"The teachers of the law and the Pharisees brought in a woman caught in adultery. They made her stand before the group\" (Jhn8:3 NIV) </li><li></li></li><li>Mormon : marriage. </li><li><br></li><li><br></li></ol>"
         },
         "26": {
             "1": "",
