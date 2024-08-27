@@ -8410,7 +8410,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "",
-            "11": "",
+            "11": "240827_074208(ed).<ol><li>Give to the one who asks you, and do not turn away from the one who wants to borrow from you. (Mat5:42 NIV) </li></ol>",
             "12": "",
             "13": "",
             "14": "",
