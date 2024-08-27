@@ -8400,7 +8400,7 @@ var _bnotes=
             "22": ""
         },
         "25": {
-            "1": "",
+            "1": "240827_055230(ed).<ol><li>Signifying the end of the Judge times. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
