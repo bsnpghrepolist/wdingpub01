@@ -8438,7 +8438,7 @@ var _bnotes=
             "36": "",
             "37": "",
             "38": "",
-            "39": "240827_075153(ed).<ol><li>Nabal, Abigail, Saul, and David: Don’t be against the rulers. Trapped by the campaigns. </li><li>Jesus answered, \"You would have no power over me if it were not given to you from above. Therefore the one who handed me over to you is guilty of a greater sin.\"\" (Jhn19:11 NIV) </li><li><li>Jesus said, \"My kingdom is not of this world. If it were, my servants would fight to prevent my arrest by the Jews. But now my kingdom is from another place.\"\" (Jhn18:36 NIV) </li></li></ol>",
+            "39": "240827_092258(ed).<ol><li>Nabal, Abigail, Saul, David, and anonymous servant: Don’t be against the rulers. Trapped by the campaigns. </li><li>Jesus answered, \"You would have no power over me if it were not given to you from above. Therefore the one who handed me over to you is guilty of a greater sin.\"\" (Jhn19:11 NIV) </li><li><li>Jesus said, \"My kingdom is not of this world. If it were, my servants would fight to prevent my arrest by the Jews. But now my kingdom is from another place.\"\" (Jhn18:36 NIV) </li></li></ol>",
             "40": "",
             "41": "",
             "42": "",
