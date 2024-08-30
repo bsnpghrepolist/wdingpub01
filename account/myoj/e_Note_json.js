@@ -8464,7 +8464,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "",
+            "19": "240830_093611(ed).<ol><li>the Lord's inheritance. \"Go, serve other gods\"</li></ol>",
             "20": "",
             "21": "",
             "22": "",
