@@ -8473,7 +8473,7 @@ var _bnotes=
             "25": ""
         },
         "27": {
-            "1": "",
+            "1": "240906_092713(ed).<ol><li>Pushing too hard to lead to the opposite. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
