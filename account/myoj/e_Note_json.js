@@ -8569,7 +8569,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "240908_180014(ed).<ol><li><a href=\"https://wellsofgrace.com/gospel/articles/stone-old/htm/15.htm\">https://wellsofgrace.com/gospel/articles/stone-old/htm/15.htm</a></li><li><br></li></ol>",
             "11": "",
             "12": "",
             "13": ""
