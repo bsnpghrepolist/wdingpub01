@@ -8569,7 +8569,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "240908_180014(ed).<ol><li><a href=\"https://wellsofgrace.com/gospel/articles/stone-old/htm/15.htm\">https://wellsofgrace.com/gospel/articles/stone-old/htm/15.htm</a></li><li><br></li></ol>",
+            "10": "240908_185139(ed).<ol><li><a href=\"https://wellsofgrace.com/gospel/articles/stone-old/htm/15.htm\">https://wellsofgrace.com/gospel/articles/stone-old/htm/15.htm</a></li><li>God is our Lord with sovereignty. </li><li>King was the lord with glory and power. </li><li>When Human took position, its results were disastrous. </li><li>Saul was what Israelites expected, and what God permitted and anointed. God listened Israel prayers. </li><li>What we prayed is not always good. Presidential campaigns are examples. </li><li>Jesus. Mat6:33. Seek the kingdom of God and righteousness first. </li></ol>",
             "11": "240908_183206(ed).<ol><li><a href=\"https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1728&top=0958\">https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1728&top=0958</a> </li><li>Saul was what Israelites expected </li><li>Anointed by Samual </li><li>First king of Israel. </li></ol>",
             "12": "",
             "13": ""
