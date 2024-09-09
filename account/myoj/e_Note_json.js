@@ -8570,7 +8570,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "240908_180014(ed).<ol><li><a href=\"https://wellsofgrace.com/gospel/articles/stone-old/htm/15.htm\">https://wellsofgrace.com/gospel/articles/stone-old/htm/15.htm</a></li><li><br></li></ol>",
-            "11": "240908_182657(ed).<ol><li><a href=\"https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1728&top=0958\">https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1728&top=0958</a> </li><li><br></li></ol>",
+            "11": "240908_183018(ed).<ol><li><a href=\"https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1728&top=0958\">https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1728&top=0958</a> </li><li>Saul is the hope of Israel </li><li>Anointed by Samual </li><li>First king of Israel. </li></ol>",
             "12": "",
             "13": ""
         }
