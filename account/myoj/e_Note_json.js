@@ -32797,7 +32797,7 @@ var _bnotes=
         "1": {
             "1": "Foreigners, sojourner, visi",
             "2": "",
-            "3": "",
+            "3": "240910_065450(ed).<ol><li>living hope == living stone</li></ol>",
             "4": "",
             "5": "",
             "6": "",
