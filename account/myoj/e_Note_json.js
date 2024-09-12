@@ -32822,7 +32822,7 @@ var _bnotes=
             "25": ""
         },
         "2": {
-            "1": "",
+            "1": "240912_064421(ed).<ol><li>Moses law</li></ol>",
             "2": "",
             "3": "",
             "4": "240912_064326(ed).<ol><li>living hope - living stone</li></ol>",
