@@ -32822,7 +32822,7 @@ var _bnotes=
             "25": ""
         },
         "2": {
-            "1": "240912_064421(ed).<ol><li>Moses law</li></ol>",
+            "1": "240912_065044(ed).<ol><li>Mosaic laws: </li><li>malice: poison, murder.</li><li>deceit: laws false testimony</li><li>hypocrisy: steal</li><li>envy: </li><li>slander: murder</li></ol>",
             "2": "",
             "3": "",
             "4": "240912_064326(ed).<ol><li>living hope - living stone</li></ol>",
