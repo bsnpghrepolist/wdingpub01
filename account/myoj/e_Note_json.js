@@ -32833,7 +32833,7 @@ var _bnotes=
             "9": "",
             "10": "Christian identity; remove national pride, racial pride; ",
             "11": "",
-            "12": "",
+            "12": "240913_065222(ed).<ol><li>good deed cannot save but can glorify God</li></ol>",
             "13": "",
             "14": "",
             "15": "",
