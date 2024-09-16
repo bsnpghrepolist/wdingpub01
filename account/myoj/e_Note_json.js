@@ -25118,7 +25118,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "240916_092620(ed).<ol><li>overjoyed because of hard searching, correct predictions, or the will of God. </li><li>compared with Simon and Hana</li></ol>",
             "11": "",
             "12": "",
             "13": "",
