@@ -25118,7 +25118,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "240916_092620(ed).<ol><li>overjoyed because of hard searching, correct predictions, or the will of God. </li><li>compared with Simon and Hana</li></ol>",
+            "10": "240916_093604(ed).<ol><li>overjoyed because of hard searching, correct predictions, or the will of God. </li><li>compared with Simon (Luk2:25-35) - praise and thank God </li><li>Anna (Luk2:26-38) - thank God, preach</li></ol>",
             "11": "",
             "12": "",
             "13": "",
