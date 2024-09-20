@@ -8637,7 +8637,7 @@ var _bnotes=
             "29": "",
             "30": "",
             "31": "",
-            "32": ""
+            "32": "240920_101759(ed).<ol><li>David's second confrontation: internal-strife. (NeiHong) </li></ol>"
         },
         "3": {
             "1": "",
