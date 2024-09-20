@@ -8578,7 +8578,7 @@ var _bnotes=
     "2Sa": {
         "1": {
             "1": "",
-            "2": "240920_101936(ed).<ol><li>David's first confrontation: the liars. </li></ol>",
+            "2": "240920_102021(ed).<ol><li>David's first confrontation: the liars. Seducer to become pride due to the envy. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
