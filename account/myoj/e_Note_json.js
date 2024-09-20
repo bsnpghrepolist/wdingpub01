@@ -8578,7 +8578,7 @@ var _bnotes=
     "2Sa": {
         "1": {
             "1": "",
-            "2": "",
+            "2": "240920_101936(ed).<ol><li>David's first confrontation: the liars. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
