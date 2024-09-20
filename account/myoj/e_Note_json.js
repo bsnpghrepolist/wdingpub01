@@ -8615,7 +8615,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "240920_102516(ed).<ol><li>David's Second Confrontation: Internal-Strife (NeiHong)</li></ol>",
             "11": "",
             "12": "",
             "13": "",
