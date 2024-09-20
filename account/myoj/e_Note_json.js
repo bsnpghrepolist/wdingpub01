@@ -8615,7 +8615,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "240920_102516(ed).<ol><li>David's Second Confrontation: Internal-Strife (NeiHong)</li></ol>",
+            "10": "240920_102730(ed).<ol><li>David's Second Confrontation: Internal-Strife (NeiHong)</li><li>Ish-Bosheth=<span style=\"color: rgb(77, 81, 86); font-family: Roboto, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);\">可耻的人</span></li></ol>",
             "11": "",
             "12": "",
             "13": "",
