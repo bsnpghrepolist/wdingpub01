@@ -8615,7 +8615,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "240920_102758(ed).<ol><li>David's Second Confrontation: Internal-Strife (NeiHong)</li><li>Ish-Bosheth=可耻的人</li></ol>",
+            "10": "240920_102823(ed).<ol><li>David's Second Confrontation: Internal Strife (NeiHong)</li><li>Ish-Bosheth=可耻的人</li></ol>",
             "11": "",
             "12": "",
             "13": "",
