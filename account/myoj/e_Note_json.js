@@ -8578,7 +8578,7 @@ var _bnotes=
     "2Sa": {
         "1": {
             "1": "",
-            "2": "240920_102352(ed).<ol><li>David's first confrontation: the liars. Seducer to become pride due to the envy. </li><li>Possible Motivation of the young man: </li><li>--Revenge for Amalekites--insult David.</li><li>--Promove for survival--taking advantage. </li></ol>",
+            "2": "240920_103456(ed).<ol><li>David's first confrontation: the liars. Seducer to become pride due to the envy. Also See 2Sa 4:1. </li><li>Possible Motivation of the young man: </li><li>--Revenge for Amalekites--insult David.</li><li>--Promove for survival--taking advantage. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
