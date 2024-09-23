@@ -8637,7 +8637,7 @@ var _bnotes=
             "29": "",
             "30": "",
             "31": "",
-            "32": "240923_093020(ed).<ol><li>David's second confrontation: internal-strife. (NeiHong) </li><li>Loyalty:</li><li><br></li></ol>"
+            "32": "240923_093136(ed).<ol><li>David's second confrontation: internal-strife. (NeiHong) </li><li>Loyalty:</li><li>Politics: bloody</li></ol>"
         },
         "3": {
             "1": "",
