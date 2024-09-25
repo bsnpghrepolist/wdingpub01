@@ -8657,7 +8657,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "240925_094744(ed).<ol><li>mixed with God's word and personal private desires.</li></ol>",
+            "18": "240925_094800(ed).<ol><li>politics mixed with God's word and personal private desires.</li></ol>",
             "19": "",
             "20": "",
             "21": "",
