@@ -8728,7 +8728,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "241001_164159(ed).<ol><li>familiarity breeds contempt. </li></ol>",
+            "7": "241001_164317(ed).<ol><li>familiarity breeds contempt.  https://www.gotquestions.org/Uzzah.html </li></ol>",
             "8": "",
             "9": "",
             "10": "",
