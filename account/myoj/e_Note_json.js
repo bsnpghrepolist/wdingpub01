@@ -8744,7 +8744,7 @@ var _bnotes=
             "20": "",
             "21": "",
             "22": "",
-            "23": "241002_094257(ed).<ol><li>Dare you to pray in public?</li></ol>"
+            "23": "241002_094405(ed).<ol><li>Dare you to pray in public? Social face, the glory of the world, or the Lord?</li></ol>"
         },
         "7": {
             "1": "",
