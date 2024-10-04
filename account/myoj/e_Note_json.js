@@ -8769,7 +8769,7 @@ var _bnotes=
             "20": "",
             "21": "",
             "22": "",
-            "23": "241003_093942(ed).<ol><li>Isreal is speical</li></ol>",
+            "23": "241004_094529(ed).<ol><li>Isreal is special--it is great because of God.</li></ol>",
             "24": "",
             "25": "",
             "26": "",
