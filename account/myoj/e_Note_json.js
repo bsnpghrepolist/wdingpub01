@@ -8798,7 +8798,7 @@ var _bnotes=
             "18": ""
         },
         "9": {
-            "1": "241004_102623(ed).<ol><li>Remember the grace and thanksgiving (2Sa7:2 CUVS)</li></ol>",
+            "1": "241004_102639(ed).<ol><li>Remember the grace and thanksgiving (2Sa7:2)</li></ol>",
             "2": "",
             "3": "",
             "4": "",
