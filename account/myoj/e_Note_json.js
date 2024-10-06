@@ -8805,7 +8805,7 @@ var _bnotes=
             "5": "",
             "6": "241004_101553(ed).<ol><li>伊施波设 Ish-Bosheth</li><li>米非波设 Mephi-Bosheth</li></ol>",
             "7": "",
-            "8": "",
+            "8": "241006_131209(ed).<ol><li>Take man as god</li></ol>",
             "9": "241004_103636(ed).<ol><li>Grandson or son of Saul.</li></ol>",
             "10": "",
             "11": "",
