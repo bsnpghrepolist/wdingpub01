@@ -8798,7 +8798,7 @@ var _bnotes=
             "18": ""
         },
         "9": {
-            "1": "241004_103127(ed).<ol><li>Remember the grace and thanksgiving (2Sa7:2). Given by God. May God preserved in heart forever. </li></ol>",
+            "1": "241006_232126(ed).<ol><li>Remember the grace and thanksgiving (2Sa7:2). Given by God. May God preserved in heart forever. </li><li>Love is 1Co13:1</li></ol>",
             "2": "",
             "3": "",
             "4": "",
