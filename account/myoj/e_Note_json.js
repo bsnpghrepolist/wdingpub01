@@ -8860,7 +8860,7 @@ var _bnotes=
             "24": "",
             "25": "",
             "26": "",
-            "27": "241011_093419(ed).<ol><li>Result of royalty to man.  </li></ol>"
+            "27": "241011_093931(ed).<ol><li>Result of royalty to man.  </li><li>Uriah the Hittite, Cannannite, Compare to Lamham of Jericho and Luth of Moab. </li></ol>"
         },
         "12": {
             "1": "",
