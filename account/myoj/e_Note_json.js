@@ -8860,7 +8860,7 @@ var _bnotes=
             "24": "",
             "25": "",
             "26": "",
-            "27": "241011_095430(ed).<ol><li>Result of royalty to man.  </li><li>Uriah the Hittite, Canaanite, (Uraeus=Cobra) </li><li>Compared to Rahab of Jericho and Luth of Moab. </li><li>God love those who can conquer his sin.</li></ol>"
+            "27": "241014_093340(ed).<ol><li>Result of royalty to man.  </li><li>Uriah the Hittite, Canaanite, (Uraeus=Cobra) </li><li>Compared to Rahab of Jericho and Luth of Moab. </li><li>God love those who can conquer his sin.</li><li>David was protected in peace by God.</li><li><br></li></ol>"
         },
         "12": {
             "1": "",
