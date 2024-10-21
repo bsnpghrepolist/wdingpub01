@@ -8956,7 +8956,7 @@ var _bnotes=
             "17": "",
             "18": "",
             "19": "",
-            "20": "241021_091952(ed).<ol><li>David failed children education. </li><li>David confronted the flattery. Relationship between us. </li><li>Dictatorship. How to use Divine authority. </li><li>What kind of wisdom?</li></ol>",
+            "20": "241021_092129(ed).<ol><li>David failed children education. </li><li>David confronted the flattery. Relationship between us. </li><li>Dictatorship. How to use Divine authority. </li><li>What kind of wisdom?</li><li>Similar to Chinese historical story.</li></ol>",
             "21": "",
             "22": "",
             "23": "",
