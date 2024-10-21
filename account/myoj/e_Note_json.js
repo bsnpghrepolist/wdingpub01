@@ -8938,7 +8938,7 @@ var _bnotes=
         },
         "14": {
             "1": "",
-            "2": "",
+            "2": "241021_082447(ed).<ol><li><span style=\"font-family: Montserrat, sans-serif; background-color: rgb(255, 255, 255);\">提哥亚」是耶路撒冷南面靠近旷野的一个村庄（代下二十20），后来成为先知阿摩司的家乡（摩一1）。</span></li></ol>",
             "3": "",
             "4": "",
             "5": "",
