@@ -8956,7 +8956,7 @@ var _bnotes=
             "17": "",
             "18": "",
             "19": "",
-            "20": "",
+            "20": "241021_083948(ed).<ol><li>David failed children education. </li><li>David confronted the flattery. Relationship between us. </li><li>Dictatorship. How to use Divine authority. </li><li><br></li></ol>",
             "21": "",
             "22": "",
             "23": "",
