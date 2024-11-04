@@ -9106,7 +9106,7 @@ var _bnotes=
             "2": "",
             "3": "",
             "4": "241104_101111(ed).<ol><li>Love son but not educate son.</li><li>Love son but not share his love of God with son.</li><li>love son but not pray God.</li></ol>",
-            "5": "241104_101421(ed).<ol><li>Joab dare say to David. Why?</li></ol>",
+            "5": "241104_101525(ed).<ol><li>Joab dare say to David. Why? a) David is really sad, b) Joab is really angry. </li></ol>",
             "6": "",
             "7": "",
             "8": "",
