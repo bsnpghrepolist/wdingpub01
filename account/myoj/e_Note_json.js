@@ -9105,7 +9105,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "241104_101042(ed).<ol><li>Love son but not educate son.</li><li>Love son but not share his love of God with son.</li></ol>",
+            "4": "241104_101111(ed).<ol><li>Love son but not educate son.</li><li>Love son but not share his love of God with son.</li><li>love son but not pray God.</li></ol>",
             "5": "",
             "6": "",
             "7": "",
