@@ -9109,7 +9109,7 @@ var _bnotes=
             "5": "241105_071048(ed).<ol><li>Joab dare say to David. Why? a) David is really sad, b) Joab is really angry. </li><li>Joab was replaced by Amasa(13). </li></ol>",
             "6": "",
             "7": "",
-            "8": "241104_103857(ed).<ol><li>The political approach can not save Israel. The nation of Israel is not the will of God. The kingdom of God is the nation of Abraham. </li><li>Jesus is the only way truth life. Only His death on the cross can save His people. </li><li>Political emotion incitement. </li><li>The cult spirit. </li></ol>",
+            "8": "241105_091942(ed).<ol><li>The political approach can not save Israel. The nation of Israel is not the will of God. The kingdom of God is the nation of Abraham. </li><li>Jesus is the only way truth life. Only His death on the cross can save His people. </li><li>Political emotion incitement. </li><li>The cult spirit. </li><li>Gate of the Mahanian City.  </li></ol>",
             "9": "",
             "10": "",
             "11": "",
