@@ -9102,7 +9102,7 @@ var _bnotes=
             "33": ""
         },
         "19": {
-            "1": "",
+            "1": "241105_070704(ed).<ol><li>Three kingdoms and Samual connection </li><li>Religious kingdom(Samual), chronical kingdom(Saul), hopeful kingdom(David). </li><li>Daoism, peach-garden outside, communism. </li></ol>",
             "2": "",
             "3": "",
             "4": "241104_101111(ed).<ol><li>Love son but not educate son.</li><li>Love son but not share his love of God with son.</li><li>love son but not pray God.</li></ol>",
