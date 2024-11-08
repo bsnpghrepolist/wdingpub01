@@ -9141,7 +9141,7 @@ var _bnotes=
             "37": "",
             "38": "",
             "39": "",
-            "40": "",
+            "40": "241108_095200(ed).<ol><li>Kimhan, servant of Barzillai, the Gileadites were a branch of the Israelite tribe of Manasseh and descended from Gilead.</li></ol>",
             "41": "",
             "42": "",
             "43": ""
