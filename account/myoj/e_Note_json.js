@@ -9182,7 +9182,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "241112_094221(ed).<ol><li>Barzillai the Meholathite != Barzillai the Gileadite (2Sa19:31)</li></ol>",
             "9": "",
             "10": "",
             "11": "",
