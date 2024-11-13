@@ -9189,7 +9189,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "241113_093545(ed).<ol><li>We are constantly exhausted. We are limited. </li></ol>",
+            "15": "241113_093854(ed).<ol><li>We are constantly exhausted. We are limited. </li><li>Why exhausted? 1)  Older, 2) sin, 3) complexity.</li></ol>",
             "16": "",
             "17": "241113_093456(ed).<ol><li>The lamp of Israel will not be extinguished.</li><li>Jesus differs from David in that He always goes out and ahead of us to battle with the enemy. His lamp never will be extinguished. </li></ol>",
             "18": "",
