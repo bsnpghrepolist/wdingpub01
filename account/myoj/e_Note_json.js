@@ -9191,7 +9191,7 @@ var _bnotes=
             "14": "",
             "15": "",
             "16": "",
-            "17": "",
+            "17": "241113_093245(ed).<ol><li>The lamp of Israel will not be extinguished.</li></ol>",
             "18": "",
             "19": "",
             "20": "",
