@@ -9192,7 +9192,7 @@ var _bnotes=
             "15": "241113_093854(ed).<ol><li>We are constantly exhausted. We are limited. </li><li>Why exhausted? 1)  Older, 2) sin, 3) complexity.</li></ol>",
             "16": "",
             "17": "241113_093456(ed).<ol><li>The lamp of Israel will not be extinguished.</li><li>Jesus differs from David in that He always goes out and ahead of us to battle with the enemy. His lamp never will be extinguished. </li></ol>",
-            "18": "241113_095134(ed).<ol><li>\"那时候有伟人在地上、后来　神的儿子们、和人的女子们交合生子、那就是上古英武有名的人。\" (Gen6:4 CUVS)</li></ol>",
+            "18": "241113_103953(ed).<ol><li>\"那时候有伟人(giants, the Nephilim)在地上、后来　神的儿子们、和人的女子们交合生子、那就是上古英武有名的人。\" (Gen6:4 CUVS)</li><li>the giants here is Rephaim. </li></ol>",
             "19": "",
             "20": "",
             "21": "",
