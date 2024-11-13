@@ -9191,7 +9191,7 @@ var _bnotes=
             "14": "",
             "15": "",
             "16": "",
-            "17": "241113_093245(ed).<ol><li>The lamp of Israel will not be extinguished.</li></ol>",
+            "17": "241113_093456(ed).<ol><li>The lamp of Israel will not be extinguished.</li><li>Jesus differs from David in that He always goes out and ahead of us to battle with the enemy. His lamp never will be extinguished. </li></ol>",
             "18": "",
             "19": "",
             "20": "",
