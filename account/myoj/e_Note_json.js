@@ -32915,7 +32915,7 @@ var _bnotes=
             "1": "compare with 1Peter 1:2 for differences of audience. \"Immediately the boy's father exclaimed, \"I do believe; help me overcome my unbelief!\"\" (Mak9:24 NIV)",
             "2": "",
             "3": "241118_162434(ed).<ol><li>Life </li><li>godliness. </li><li>Knowledge </li><li>Spirit and love. </li><li>Glory </li><li>Goodness </li></ol>",
-            "4": "241118_163421(ed).<ol><li>Two types of love and cares: serve the people heart and soul. Lao Xiang met Lao Xiang. </li><li>Same in flesh but differ in spirit, truth. </li></ol>",
+            "4": "241118_163829(ed).<ol><li>Two types of love and cares: serve the people heart and soul. Lao Xiang met Lao Xiang. Missed family hometown foods sex. </li><li>Same in flesh but differ in spirit, truth. </li></ol>",
             "5": "",
             "6": "",
             "7": "",
