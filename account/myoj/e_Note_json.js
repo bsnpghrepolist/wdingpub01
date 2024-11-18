@@ -32919,7 +32919,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "241118_164230(ed).<ol><li>Quantity: multiple on earth. (OT)</li><li>Quality: deep understanding truth. (NT)</li></ol>",
             "9": "",
             "10": "",
             "11": "",
