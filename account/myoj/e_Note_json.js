@@ -32914,7 +32914,7 @@ var _bnotes=
         "1": {
             "1": "compare with 1Peter 1:2 for differences of audience. \"Immediately the boy's father exclaimed, \"I do believe; help me overcome my unbelief!\"\" (Mak9:24 NIV)",
             "2": "",
-            "3": "",
+            "3": "241118_162241(ed).<ol><li>Life </li><li>godliness. </li><li>Knowledge </li><li>Spirit and love. </li></ol>",
             "4": "",
             "5": "",
             "6": "",
