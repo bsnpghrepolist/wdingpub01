@@ -32916,7 +32916,7 @@ var _bnotes=
             "2": "",
             "3": "241118_162434(ed).<ol><li>Life </li><li>godliness. </li><li>Knowledge </li><li>Spirit and love. </li><li>Glory </li><li>Goodness </li></ol>",
             "4": "241118_163829(ed).<ol><li>Two types of love and cares: serve the people heart and soul. Lao Xiang met Lao Xiang. Missed family hometown foods sex. </li><li>Same in flesh but differ in spirit, truth. </li></ol>",
-            "5": "",
+            "5": "241119_092301(ed).<ol><li>work hard: faith->good deed->knowledge->self-control->perseverance->godliness->love</li></ol>",
             "6": "",
             "7": "",
             "8": "241118_164230(ed).<ol><li>Quantity: multiple on earth. (OT)</li><li>Quality: deep understanding truth. (NT)</li></ol>",
