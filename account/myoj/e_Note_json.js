@@ -32931,7 +32931,7 @@ var _bnotes=
             "17": "",
             "18": "",
             "19": "",
-            "20": "241120_100118(ed).<ol><li>Do not misuse the Word.</li><li>For the educated people.</li></ol>",
+            "20": "241120_100630(ed).<ol><li>Do not misuse the Word.</li><li>For the educated and knowledged people. Knowledge has side-effect.</li></ol>",
             "21": ""
         },
         "2": {
