@@ -32926,7 +32926,7 @@ var _bnotes=
             "12": "241120_093309(ed).<ol><li>Fruits: quantity: quality:(firmly in faith and truth)</li></ol>",
             "13": "",
             "14": "",
-            "15": "",
+            "15": "241120_093633(ed).<ol><li>Make every effort; be more eager(diligent) to make effort (2Pe1:10);</li></ol>",
             "16": "",
             "17": "",
             "18": "",
