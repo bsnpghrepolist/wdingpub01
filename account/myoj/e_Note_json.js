@@ -32927,7 +32927,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "241120_093831(ed).<ol><li>Make every effort; be more eager(diligent) to make effort (2Pe1:10);</li><li>Keep from being inefficient and unfruitful (2Pe1:8);</li></ol>",
-            "16": "",
+            "16": "241120_093923(ed).<ol><li>Siner ignores the miracle of God.</li></ol>",
             "17": "",
             "18": "",
             "19": "",
