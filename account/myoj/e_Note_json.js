@@ -32923,7 +32923,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
+            "12": "241120_093309(ed).<ol><li>Fruits: quantity: quality:(firmly in faith and truth)</li></ol>",
             "13": "",
             "14": "",
             "15": "",
