@@ -32935,7 +32935,7 @@ var _bnotes=
             "21": ""
         },
         "2": {
-            "1": "241121_093645(ed).<ol><li>false prophets among people in the world not in true christians.</li></ol>",
+            "1": "241121_093757(ed).<ol><li>false prophets among people in the world, not in true Christians.</li><li>many people know the gospel in knowledge a little but do not believe it. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
