@@ -32935,7 +32935,7 @@ var _bnotes=
             "21": ""
         },
         "2": {
-            "1": "",
+            "1": "241121_093645(ed).<ol><li>false prophets among people in the world not in true christians.</li></ol>",
             "2": "",
             "3": "",
             "4": "",
