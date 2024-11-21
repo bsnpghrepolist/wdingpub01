@@ -32955,7 +32955,7 @@ var _bnotes=
             "18": "",
             "19": "",
             "20": "",
-            "21": "",
+            "21": "241121_095309(ed).<ol><li>If knowledge is not useful to the Lord than it would be better to have no knowledge. </li></ol>",
             "22": ""
         },
         "3": {
