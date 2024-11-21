@@ -32937,7 +32937,7 @@ var _bnotes=
         "2": {
             "1": "241121_094301(ed).<ol><li>false prophets among people in the world, not in true Christians.</li><li>many people know the gospel in knowledge a little but do not believe it. </li><li>multi-media can spread the gospel, but its side effect is that the anti-Christians make use of the knowledge to cheat and confuse people.</li><li>Christians need to protect the privacy in the multi-media platform.  </li></ol>",
             "2": "",
-            "3": "",
+            "3": "241121_094510(ed).<ol><li>greed: political power, money, treasure, personal fame and glory, self-flesh, passion. </li></ol>",
             "4": "",
             "5": "",
             "6": "",
