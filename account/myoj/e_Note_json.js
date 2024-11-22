@@ -32953,7 +32953,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "",
+            "19": "241122_094903(ed).<ol><li>a man is a slave to whatever he believe in.</li></ol>",
             "20": "",
             "21": "241121_095309(ed).<ol><li>If knowledge is not useful to the Lord than it would be better to have no knowledge. </li></ol>",
             "22": ""
