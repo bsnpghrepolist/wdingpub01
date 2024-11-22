@@ -32947,7 +32947,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
+            "13": "241122_093525(ed).<ol><li>pleasure with deceptions. showing off the wisdom satisfying the success over other people. </li></ol>",
             "14": "",
             "15": "",
             "16": "",
