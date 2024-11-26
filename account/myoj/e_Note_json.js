@@ -32972,7 +32972,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "240317_153519(ed).Christian does not afraid of the end of day but expect it. ",
-            "14": "241126_093921(ed).How to expect? Not sleep snap like waiting for a bus. <div>This hope is not human desired, human designed but God's will, Jesus' accomplished, Holy Spirit's Peace House.</div>",
+            "14": "241126_094443(ed).How to expect? Not sleep snap like waiting for a bus. <div>1. This hope is not human-desired, human-designed but God's will, Jesus' accomplished, the Holy Spirit's Peace House.</div><div>2. be diligent: people need to make an effort, the life given by God to do. </div><div>3. Find myself spotless, blameless: anger, flesh-desire, envy, pride, self-righteousness.  </div><div><br></div>",
             "15": "Example Paul. ",
             "16": "Be careful the heresy during the waiting time. ",
             "17": "",
