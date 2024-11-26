@@ -32972,7 +32972,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "240317_153519(ed).Christian does not afraid of the end of day but expect it. ",
-            "14": "How to expect? Not sleep snap like waiting for a bus. ",
+            "14": "241126_093921(ed).How to expect? Not sleep snap like waiting for a bus. <div>This hope is not human desired, human designed but God's will, Jesus' accomplished, Holy Spirit's Peace House.</div>",
             "15": "Example Paul. ",
             "16": "Be careful the heresy during the waiting time. ",
             "17": "",
