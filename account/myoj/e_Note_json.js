@@ -9323,7 +9323,7 @@ var _bnotes=
     "1Ki": {
         "1": {
             "1": "",
-            "2": "",
+            "2": "241127_093751(ed).<ol><li>The servants of David is wicked.</li></ol>",
             "3": "",
             "4": "",
             "5": "",
