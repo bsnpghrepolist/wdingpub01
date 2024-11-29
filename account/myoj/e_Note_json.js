@@ -9354,7 +9354,7 @@ var _bnotes=
             "30": "",
             "31": "",
             "32": "",
-            "33": "",
+            "33": "241129_093344(ed).<ol><li>https://www.ccbiblestudy.org/Topics/H6Dictionary/J/基訓.htm</li></ol>",
             "34": "",
             "35": "",
             "36": "",
