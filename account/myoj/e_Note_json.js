@@ -9512,7 +9512,7 @@ var _bnotes=
         },
         "6": {
             "1": "",
-            "2": "",
+            "2": "241210_093811(ed).<ol><li>\"This is how you are to build it: The ark is to be 450 feet long, 75 feet wide and 45 feet high.\" (Gen6:15 NIV)</li></ol>",
             "3": "",
             "4": "",
             "5": "",
