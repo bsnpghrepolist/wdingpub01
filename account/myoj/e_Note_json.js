@@ -9522,7 +9522,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
+            "12": "241210_095729(ed).<ol><li>Jesus said i will build the temple in 3 days Jhn 2:19</li></ol>",
             "13": "",
             "14": "",
             "15": "",
