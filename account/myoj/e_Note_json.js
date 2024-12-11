@@ -9523,7 +9523,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "241210_095741(ed).<ol><li>Jesus said i will build the temple in 3 days Jhn2:19</li></ol>",
-            "13": "",
+            "13": "241211_093516(ed).<ol><li>The Importance of Solomon</li></ol>",
             "14": "",
             "15": "",
             "16": "241211_093015(ed).<ol><li>the oak ark</li></ol>",
