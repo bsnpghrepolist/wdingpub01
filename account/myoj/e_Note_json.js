@@ -9548,7 +9548,7 @@ var _bnotes=
             "35": "",
             "36": "",
             "37": "",
-            "38": "241212_093424(ed).<ol><li>The process of building the temple is the process of Christian came into the heart of Jesus' love.</li><li>Importance of peripheral forms in religion. </li><li>Importance of inner hearts. </li></ol>"
+            "38": "241212_093506(ed).<ol><li>The process of building the temple is the process of Christian came into the heart of Jesus' love.</li><li>Importance of peripheral forms in religion. The form can be destroyed.</li><li>Importance of inner hearts. But the hearts cannot be corrupted.</li></ol>"
         },
         "7": {
             "1": "",
