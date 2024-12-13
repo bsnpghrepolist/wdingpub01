@@ -9551,7 +9551,7 @@ var _bnotes=
             "38": "241212_093734(ed).<ol><li>The process of building the temple is the process of Christians coming into the heart of Jesus' love--it needs preservation, hard work, and most valuable carefully select materials.</li><li>Importance of peripheral forms in religion. The form can be destroyed.</li><li>Importance of inner hearts. But the hearts cannot be corrupted.</li></ol>"
         },
         "7": {
-            "1": "",
+            "1": "241213_093314(ed).<ol><li>Temple first, palace second</li></ol>",
             "2": "",
             "3": "",
             "4": "",
