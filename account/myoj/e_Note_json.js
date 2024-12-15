@@ -9620,7 +9620,7 @@ var _bnotes=
             "14": "",
             "15": "",
             "16": "",
-            "17": "",
+            "17": "241215_095850(ed).<ol><li>Humble is a key. </li><li>Psm21:1</li></ol>",
             "18": "241215_095421(ed).<ol><li>Rom7:18</li></ol>",
             "19": "241215_094127(ed).<ol><li>Double meaning of son</li></ol>",
             "20": "",
