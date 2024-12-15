@@ -9627,7 +9627,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
+            "24": "241215_094455(ed).<ol><li>Promise and fulfill are words for believers. </li></ol>",
             "25": "",
             "26": "",
             "27": "",
