@@ -9623,7 +9623,7 @@ var _bnotes=
             "17": "241215_100001(ed).<ol><li>Humble is a key. </li><li>Psm23:6</li></ol>",
             "18": "241216_120016(ed).<ol><li>Rom7:18. \"For I have the desire to do what is good, but I cannot carry it out.\" (Rom7:18 NIV)</li></ol>",
             "19": "241215_094127(ed).<ol><li>Double meaning of son</li></ol>",
-            "20": "",
+            "20": "241216_120219(ed).<ol><li>pray that we can do a little for the eternal kingdom of God. </li></ol>",
             "21": "",
             "22": "",
             "23": "",
