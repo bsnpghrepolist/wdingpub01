@@ -9621,7 +9621,7 @@ var _bnotes=
             "15": "241216_115701(ed).<ol><li>promise + fulfill</li><li>what was fulfilled by God is better than what we expected. </li></ol>",
             "16": "",
             "17": "241215_100001(ed).<ol><li>Humble is a key. </li><li>Psm23:6</li></ol>",
-            "18": "241215_095421(ed).<ol><li>Rom7:18</li></ol>",
+            "18": "241216_120016(ed).<ol><li>Rom7:18. \"For I have the desire to do what is good, but I cannot carry it out.\" (Rom7:18 NIV)</li></ol>",
             "19": "241215_094127(ed).<ol><li>Double meaning of son</li></ol>",
             "20": "",
             "21": "",
