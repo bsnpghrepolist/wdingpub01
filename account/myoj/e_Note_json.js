@@ -9606,7 +9606,7 @@ var _bnotes=
         "8": {
             "1": "",
             "2": "",
-            "3": "241216_093826(ed).<ol><li>ark == Noah Ark (Gen7:1)</li></ol>",
+            "3": "241216_094113(ed).<ol><li>God ~ Noah Ark (Gen7:1) == Moss ark == Tent == David Temple</li></ol>",
             "4": "",
             "5": "",
             "6": "241216_050233(ed).<ol><li>Gen3:24</li></ol>",
