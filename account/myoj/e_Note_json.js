@@ -2694,7 +2694,7 @@ var _bnotes=
             "25": "",
             "26": "",
             "27": "",
-            "28": "",
+            "28": "241216_053019(ed).<ol><li>The only writings of God. </li><li>Jesus wrote on the ground. Jhn8:20</li></ol>",
             "29": "",
             "30": "",
             "31": "",
