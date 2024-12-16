@@ -9624,7 +9624,7 @@ var _bnotes=
             "18": "241216_120016(ed).<ol><li>Rom7:18. \"For I have the desire to do what is good, but I cannot carry it out.\" (Rom7:18 NIV)</li></ol>",
             "19": "241215_094127(ed).<ol><li>Double meaning of son</li></ol>",
             "20": "241216_120219(ed).<ol><li>pray that we can do a little for the eternal kingdom of God. </li></ol>",
-            "21": "",
+            "21": "241216_120324(ed).<ol><li>We all are part of the Church, of the body of Jesus. </li></ol>",
             "22": "",
             "23": "",
             "24": "241215_094455(ed).<ol><li>Promise and fulfill are words for believers. </li></ol>",
