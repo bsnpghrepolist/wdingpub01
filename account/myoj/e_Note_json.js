@@ -9615,7 +9615,7 @@ var _bnotes=
             "9": "241216_050832(ed).<ol><li>\"The Lord said to Moses, \"Chisel out two stone tablets like the first ones, and I will write on them the words that were on the first tablets, which you broke.\" (Exo34:1 NIV)</li></ol>",
             "10": "",
             "11": "241216_111632(ed).<ol><li>glory == light (BC) == Holy Spirit (AD) </li></ol>",
-            "12": "241216_111142(ed).<ol><li>in a dark cloud -- the glory of the Lord filled this Temple.</li><li>Jesus: Pray in the closed room. Mat6:6. </li></ol>",
+            "12": "241216_113913(ed).<ol><li>in a dark cloud -- the glory of the Lord filled this Temple.</li><li>\"Then Solomon said, \"The Lord has said that he would dwell in a dark cloud;\" (2Ch6:1 NIV)</li><li>dark cloud: עֲרָפֶל  (ar-aw-fel) thick darkness, dark cloud.  (https://www.blueletterbible.org/lexicon/h6205/kjv/wlc/0-1/)</li><li>Jesus: Pray in the closed room. Mat6:6. </li><li>C.S. Lewis: for the chosen five things do not share in public. Reason: when evil knows, then manipulate it. </li><li>The \"Christian privacy\" must be protected. </li><li>Communist is against privacy (evil provacy) </li></ol>",
             "13": "",
             "14": "",
             "15": "",
