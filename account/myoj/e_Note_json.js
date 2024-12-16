@@ -2672,7 +2672,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "241216_051457(ed).<ol><li>Man Slow to die. Gen2:17</li></ol>",
+            "6": "241216_051548(ed).<ol><li>Human Man Slow to die. Gen2:17</li></ol>",
             "7": "",
             "8": "",
             "9": "",
