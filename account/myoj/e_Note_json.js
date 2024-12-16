@@ -9614,7 +9614,7 @@ var _bnotes=
             "8": "",
             "9": "241216_050832(ed).<ol><li>\"The Lord said to Moses, \"Chisel out two stone tablets like the first ones, and I will write on them the words that were on the first tablets, which you broke.\" (Exo34:1 NIV)</li></ol>",
             "10": "",
-            "11": "",
+            "11": "241216_111429(ed).<ol><li>glory == the Holy Spirit.</li></ol>",
             "12": "241216_111142(ed).<ol><li>in a dark cloud -- the glory of the Lord filled this Temple.</li><li>Jesus: Pray in the closed room. Mat6:6. </li></ol>",
             "13": "",
             "14": "",
