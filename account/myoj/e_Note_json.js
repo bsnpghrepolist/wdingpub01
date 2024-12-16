@@ -9612,7 +9612,7 @@ var _bnotes=
             "6": "241216_050233(ed).<ol><li>Gen3:24</li></ol>",
             "7": "",
             "8": "",
-            "9": "",
+            "9": "241216_050832(ed).<ol><li>\"The Lord said to Moses, \"Chisel out two stone tablets like the first ones, and I will write on them the words that were on the first tablets, which you broke.\" (Exo34:1 NIV)</li></ol>",
             "10": "",
             "11": "",
             "12": "",
