@@ -9784,7 +9784,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "241223_051140(ed).<ol><li>Craft: serve the people heart and soul. Sphs. But not the lord. </li></ol>",
             "8": "",
             "9": "",
             "10": "",
