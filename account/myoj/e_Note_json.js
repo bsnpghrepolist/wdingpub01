@@ -9801,7 +9801,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
+            "24": "241223_054025(ed).<ol><li>Don’t fight for the country. Fight for faith. </li></ol>",
             "25": "",
             "26": "",
             "27": "",
