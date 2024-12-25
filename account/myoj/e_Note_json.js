@@ -9734,7 +9734,7 @@ var _bnotes=
         },
         "11": {
             "1": "",
-            "2": "241225_093150(ed).<ol><li>Must not go into them -- Missionary?</li></ol>",
+            "2": "241225_093850(ed).<ol><li>Must not go into them -- Missionary?</li><li>clung to these in love.</li></ol>",
             "3": "",
             "4": "",
             "5": "",
