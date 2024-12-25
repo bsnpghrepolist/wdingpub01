@@ -9737,7 +9737,7 @@ var _bnotes=
             "2": "241225_093850(ed).<ol><li>Must not go into them -- Missionary?</li><li>clung to these in love.</li></ol>",
             "3": "",
             "4": "",
-            "5": "",
+            "5": "241225_094610(ed).<ol><li>heart->woman->idol</li></ol>",
             "6": "",
             "7": "",
             "8": "",
