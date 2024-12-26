@@ -9745,7 +9745,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "241226_093125(ed).<ol><li>punishment in next generation</li></ol>",
-            "13": "",
+            "13": "241226_093154(ed).<ol><li>justice of God</li></ol>",
             "14": "",
             "15": "",
             "16": "",
