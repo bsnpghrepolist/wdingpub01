@@ -9744,7 +9744,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "",
-            "12": "241226_093125(ed).<ol><li>punishment in next generation</li></ol>",
+            "12": "241226_093802(ed).<ol><li>punishment in the next generation.</li><li>Punishment and sin are not synchronized.</li></ol>",
             "13": "241226_093154(ed).<ol><li>justice of God</li></ol>",
             "14": "",
             "15": "",
