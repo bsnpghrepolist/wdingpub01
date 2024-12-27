@@ -9764,7 +9764,7 @@ var _bnotes=
             "29": "",
             "30": "",
             "31": "",
-            "32": "",
+            "32": "241227_095158(ed).<ol><li>Mercy and grace: Noah </li></ol>",
             "33": "",
             "34": "241227_095016(ed).<ol><li>Moses cannot enter Canaan; David cannot build temple; </li></ol>",
             "35": "",
