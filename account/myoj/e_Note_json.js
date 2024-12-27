@@ -9766,7 +9766,7 @@ var _bnotes=
             "31": "",
             "32": "",
             "33": "",
-            "34": "",
+            "34": "241227_095000(ed).<ol><li>Moses cannot enter Cannan; David cannot build temple; </li></ol>",
             "35": "",
             "36": "",
             "37": "",
