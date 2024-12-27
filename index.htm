@@ -1,5 +1,43 @@
 <html>
-  <body>
-    <h>wdingpba</h>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <script src="./account/myoj/e_Note_json.js"></script>
+  
+</head>
+
+<body>
+  <h>wdingpba</h>
+  <div id="tb"></div>
+</body>
+
 </html>
+
+<script>
+    var obj = _bnotes
+    // Function to walk through an object
+    function walkObject(obj) {
+      var stb = "<table border='1'>"
+      // Iterate over each key in the object
+      for (let book in obj) {
+        // Check if the value corresponding to the key is an object itself
+        for (chap in obj[book]) {
+          // If it is an object, recursively call the walkObject function
+          for (vers in obj[book][chap]) {
+            var txt = obj[book][chap][vers]
+            var ary = [book, chap, vers]
+
+            // If it's not an object, print the key and its corresponding value
+            console.log(ary.join() + ': ' + txt);
+            stb += `<tr><td>${ary.join()}</td><td>${txt}</td></tr>`
+          }
+        }
+      }
+      return stb
+    }
+
+    // Call the walkObject function with the example object
+    var stb = walkObject(obj);
+    var pat = document.getElementById("tb");
+    document.body.innerHTML +=(stb);
+  </script>
